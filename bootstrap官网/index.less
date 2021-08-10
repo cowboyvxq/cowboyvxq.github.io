@@ -8,14 +8,25 @@
   max-width: 1190 !important;
 }
 
+#navbarSupportedContent {
+  ul li {
+    &:hover {
+      background-color: #ddd;
+    }
+  }
+}
+
 @media (max-width: 768px) {
   .content {
     .satge {
       .lead {
-        font-size: 20px;
-        margin: 0;
+        font-size: 20px !important;
+        margin: 0 0 10px !important;
       }
     }
+  }
+  #navbarSupportedContent {
+    padding-left: 10px;
   }
 }
 
@@ -23,29 +34,14 @@
   .content {
     .satge {
       .lead {
-        font-size: 24px;
+        font-size: 24px !important;
       }
     }
   }
 }
 
-.navbar-bav {
-  .nav-item {
-    font-size: 14px;
-    .nav-link {
-      color: #563da6;
-      &:hover {
-        background-color: #f9f9f9;
-      }
-    }
-  }
-  .logo {
-    color: #563d7c !important;
-  }
-
-  #navbarSupportedContent {
-    padding: 0 10px;
-  }
+.logo {
+  color: #563d7c !important;
 }
 
 .content {

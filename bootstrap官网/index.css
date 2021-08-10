@@ -6,31 +6,25 @@
 .container {
   max-width: 1190 !important;
 }
+#navbarSupportedContent ul li:hover {
+  background-color: #ddd;
+}
 @media (max-width: 768px) {
   .content .satge .lead {
-    font-size: 20px;
-    margin: 0;
+    font-size: 20px !important;
+    margin: 0 0 10px !important;
+  }
+  #navbarSupportedContent {
+    padding-left: 10px;
   }
 }
 @media (max-width: 980px) {
   .content .satge .lead {
-    font-size: 24px;
+    font-size: 24px !important;
   }
 }
-.navbar-bav .nav-item {
-  font-size: 14px;
-}
-.navbar-bav .nav-item .nav-link {
-  color: #563da6;
-}
-.navbar-bav .nav-item .nav-link:hover {
-  background-color: #f9f9f9;
-}
-.navbar-bav .logo {
+.logo {
   color: #563d7c !important;
-}
-.navbar-bav #navbarSupportedContent {
-  padding: 0 10px;
 }
 .content {
   height: 570px;
