@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            text-decoration: none;
+        }
+
+        .box {
+            width: 1400px;
+            height: 500px;
+            border: solid #87ceeb 2px;
+            border-radius: 10px;
+            margin: 40px auto
+        }
+
+        .box .search {
+            width: 410px;
+            margin: 0 auto;
+            border: solid #87ceeb 2px;
+            border-radius: 5px;
+        }
+
+        .box h2 {
+            margin: 30px 0;
+        }
+
+        .box .search input {
+            width: 310px;
+            height: 30px;
+            line-height: 30px;
+            outline: none;
+            float: left;
+            border: none;
+            padding-left: 10px;
+        }
+
+        .box .search button {
+            font-size: 18px;
+            color: #fff;
+            width: 90px;
+            height: 32px;
+            border: none;
+            background-color: #87ceeb;
+        }
+
+        .box .city {
+            margin-top: 20px;
+            font-size: 14px;
+            width: 600px;
+            margin: 20px auto;
+        }
+
+        .box .city span {
+            display: inline-block;
+            width: 50px;
+            color: #ccc;
+            cursor: pointer;
+        }
+
+        .box .city .break {
+            position: relative;
+            float: right;
+            cursor: pointer;
+        }
+
+        .box .city .break svg {
+            position: absolute;
+            margin-left: 5px;
+            color: gray;
+        }
+
+        .box .content {
+            height: 250px;
+            margin-top: 80px;
+        }
+
+        .box .content li {
+            width: calc(100% / 7);
+            height: 250px;
+            border-right: solid #ccc 1px;
+            float: left;
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        .box .content li:last-child {
+            border: none;
+        }
+
+        .content ul li .pic {
+            height: 70px;
+        }
+
+        .content ul li .weather {
+            font-size: 25px;
+            margin-bottom: 20px;
+        }
+
+        .content ul li .text {
+            color: #ffbe47;
+        }
+
+        .content ul li p {
+            font-size: 14px;
+            line-height: 25px;
+        }
+
+        .content ul li a>p {
+            color: black;
+        }
+
+        .content ul li .date {
+            color: #bfbbc4;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <h2 align='center'>天气预报</h2>
+        <div class="search">
+            <input type="text" value="广州">
+            <button>搜索</button>
+        </div>
+        <div class="city" align='center'>
+            <strong>热门城市：</strong>
+            <span>广州</span>
+            <span>北京</span>
+            <span>上海</span>
+            <span>深圳</span>
+            <span>苏州</span>
+            <span>大连</span>
+            <span>重庆</span>
+            <div class="break">
+                <strong>换一批</strong>
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="currentColor"
+                    class="bi bi-arrow-counterclockwise" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M8 3a5 5 0 1 1-4.546 2.914.5.5 0 0 0-.908-.417A6 6 0 1 0 8 2v1z" />
+                    <path
+                        d="M8 4.466V.534a.25.25 0 0 0-.41-.192L5.23 2.308a.25.25 0 0 0 0 .384l2.36 1.966A.25.25 0 0 0 8 4.466z" />
+                </svg>
+            </div>
+        </div>
+
+        <div class="content">
+
+        </div>
+    </div>
+
+    <script src="./myajax.js"></script>
+    <script>
+        var search = document.querySelector('.search input');
+        var content = document.querySelector('.content');
+        var btn = document.querySelector('.search button');
+        var citySpan = document.querySelectorAll('.city span');
+        var news = document.querySelector('.break');
+
+        // 页面打开执行搜索固定城市
+        window.onload = function () {
+            btn.click();
+            search.onkeyup = function (e) {
+                if (e.keyCode === 13) {
+                    btn.click();
+                }
+            }
+
+        }
+
+        // 点击城市名，搜索框变换对应点击城市名
+        for (var i = 0; i < citySpan.length; i++) {
+            citySpan[i].onclick = function () {
+                search.value = this.innerText;
+                btn.click();
+            }
+        }
+
+        var arrCityName = ["北京", "上海", "广州", "深圳", "苏州", "大连", "重庆", "杭州", "无锡", "天津", "佛山", "宁波", "南京", "成都", "东莞", "武汉", "青岛", "沈阳", "烟台", "唐山", "济南", "哈尔滨", "石家庄", "郑州", "泉州", "温州", "长沙", "南通", "长春", "潍坊", "绍兴", "福州", "淄博", "大庆", "常州", "台州", "济宁", "东营", "西安", "徐州", "临沂", "威海", "嘉兴", "邯郸", "洛阳", "沧州", "金华", "昆明", "南阳", "保定", '云南', '贵州', '海南','兰州','汕头','梅州','潮州','云浮'];
+
+        // 点击按钮，搜索对应城市的天气
+        btn.onclick = function () {
+            var cityName = search.value;
+            getDateByCity(cityName);
+            if (search.value == '') {
+                alert('请输入相关的城市名');
+                return;
+            }
+        }
+        // 随机数
+        function getRandom(min, max) {
+            return Math.floor(Math.random() * (max - min) + min);
+        }
+
+        // 点击换一批，随机获取城市
+        function randChange() {
+            for (var i = 0; i < citySpan.length; i++) {
+                var randomIndex = getRandom(0, arrCityName.length - 1);// 随机下标
+                citySpan[i].innerText = arrCityName[randomIndex];
+            }
+        }
+
+        // 点击换一批执行事件
+        news.onclick = function () {
+            randChange();
+        }
+
+        // 根据城市名称获取天气数据
+        function getDateByCity(currentCity) {
+            ajax({
+                type: 'get',
+                url: 'http://api.tianapi.com/txapi/tianqi/index',
+                data: {
+                    key: 'caea0b8c43fc44cb8c024d24530ee0c4',
+                    city: currentCity
+                },
+                success: function (res) {
+                    var params = res.newslist;
+                    console.log(params);
+                    if (res.code == 200) {
+                        renderData(params);
+                    } else {
+                        content.innerHTML = "<h3>没有找到你所搜索的城市，请换一个...</h3>";
+                    }
+                }
+            })
+        }
+
+        // 根据数据渲染HTML结构的函数
+        function renderData(currentData) {
+            var htmlStr = `<ul>`;
+            for (var i = 0; i < currentData.length; i++) {
+                var item = currentData[i];
+
+                htmlStr += ` 
+                <li>
+                    <a href="">
+                        <div class='pic'>
+                            <img src="./images/${item.weatherimg}" alt="">
+                        </div>
+                        <div class="text">
+                            <p class='weather'>${item.weather}</p>
+                            <p>最低温度${item.lowest}~最高温度${item.highest}</p>
+                        </div>
+                        <p class='date'>${item.date}${item.week}</p>
+                        <p>${item.wind}</p>
+                        <p>${item.windsc}</p>
+                    </a>
+                </li>
+                `;
+            }
+            htmlStr += `</ul>`;
+
+            content.innerHTML = htmlStr;
+        }
+
+    </script>
+
+
+</body>
+
+</html>

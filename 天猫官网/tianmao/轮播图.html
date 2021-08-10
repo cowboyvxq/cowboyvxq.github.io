@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            text-decoration: none;
+        }
+
+        .clearfix::after {
+            content: '';
+            display: block;
+            clear: both;
+        }
+
+        /* 装轮播图的盒子 */
+        .banner {
+            width: 100%;
+            height: 500px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .banner ul {
+            width: 700vw;
+            margin-left: -100vw;
+        }
+
+        .banner ul li {
+            width: 100vw;
+            float: left;
+            display: flex;
+            justify-content: center;
+        }
+
+        .banner ul li img {
+            width: 70vw;
+            height: 500px;
+            vertical-align: bottom;
+            /* 清除图片底部缝隙 */
+        }
+
+        /* 左右箭头 */
+        .arrow_left,
+        .arrow_right {
+            width: 40px;
+            height: 50px;
+            font-size: 60px;
+            text-align: center;
+            line-height: 45px;
+            font-weight: 300;
+            color: salmon;
+            background-color: rgba(143, 198, 206, 0.4);
+            position: absolute;
+            top: calc(50% - 30px);
+            cursor: pointer;
+        }
+
+        .arrow_left {
+            left: 0;
+        }
+
+        .arrow_left:hover {
+            background-color: rgba(143, 198, 206, 0.8);
+        }
+
+        .arrow_right {
+            right: 0;
+        }
+
+        .arrow_right:hover {
+            background-color: rgba(143, 198, 206, 0.8);
+
+        }
+
+        /* 小圆点 */
+        .banner .dot {
+            width: 100px;
+            height: 20px;
+            line-height: 20px;
+            position: absolute;
+            bottom: 10px;
+            left: calc(50% - 50px);
+        }
+
+        .banner .dot ol {
+            display: flex;
+            justify-content: space-evenly;
+            align-content: center;
+        }
+
+        .banner .dot ol li {
+            width: 10px;
+            height: 10px;
+            background-color: rgb(159, 145, 145);
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+
+        .banner .dot ol li:last-child {
+            margin-right: 0;
+        }
+
+        .active {
+            background-color: red !important;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="banner">
+        <div class="banner_imgs">
+            <ul class="clearfix">
+                <li><a href="javascript:;"><img src="../images/swper/swper-five.jpg" alt=""></a></li>
+                <li><a href="javascript:;"><img src="../images/swper/swper-one.webp" alt=""></a></li>
+                <li><a href="javascript:;"><img src="../images/swper/swper-two.jpg" alt=""></a></li>
+                <li><a href="javascript:;"><img src="../images/swper/swper-three.webp" alt=""></a></li>
+                <li><a href="javascript:;"><img src="../images/swper/swper-four_.webp" alt=""></a></li>
+                <li><a href="javascript:;"><img src="../images/swper/swper-five.jpg" alt=""></a></li>
+                <li><a href="javascript:;"><img src="../images/swper/swper-one.webp" alt=""></a></li>
+            </ul>
+        </div>
+
+        <!-- 左右按钮 -->
+        <span class="arrow_left">&lt;</span>
+        <span class="arrow_right">&gt;</span>
+
+        <!-- 小圆点 -->
+        <div class="dot">
+            <ol>
+                <li class="active"></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ol>
+        </div>
+    </div>
+
+    <script>
+        function $(cssselector) {
+            var obj = document.querySelectorAll(cssselector);
+            if (obj.length == 1) {
+                return obj[0];
+            }
+            return obj;
+        }
+
+        let banner = $('.banner');
+        let bannerUl = $('.banner_imgs ul');
+        let ulLis = $('.banner ul li');
+
+        let prev = $('.arrow_left')
+        let next = $('.arrow_right');
+
+        let dotLis = $('.dot ol li');
+
+        let num = 1;
+        let circleIndex = 0;
+
+        let flag = true;
+        next.onclick = function () {
+            if (flag) {
+                flag = false;
+                num++;
+                bannerUl.style.marginLeft = -num * 100 + 'vw';
+                bannerUl.style.transition = 'margin-left 1s';
+
+                circleIndex++;
+                if (circleIndex == 5) {
+                    circleIndex = 0;
+                }
+                for (let i = 0; i < dotLis.length; i++) {
+                    dotLis[i].classList.remove('active');
+                }
+                dotLis[circleIndex].classList.add('active');
+            }
+
+        }
+
+        prev.onclick = function () {
+            if (flag) {
+                flag = false
+                num--;
+                bannerUl.style.marginLeft = -num * 100 + 'vw';
+                bannerUl.style.transition = 'margin-left 1s';
+
+                circleIndex--;
+                if (circleIndex == -1) {
+                    circleIndex = 4;
+                }
+                for (let i = 0; i < dotLis.length; i++) {
+                    dotLis[i].classList.remove('active');
+                }
+                dotLis[circleIndex].classList.add('active');
+            }
+        }
+
+        bannerUl.ontransitionend = function () {
+            flag = true;
+            if (num == 6) {
+                num = 1;
+                bannerUl.style.marginLeft = -num * 100 + 'vw';
+                bannerUl.style.transition = 'margin-left 0s';
+            }
+
+            if (num == 0) {
+                num = 5;
+                bannerUl.style.marginLeft = -num * 100 + 'vw';
+                bannerUl.style.transition = 'margin-left 0s';
+            }
+        }
+
+        for (let i = 0; i < dotLis.length; i++) {
+            dotLis[i].setAttribute('data-index', i + 1);
+            dotLis[i].onclick = function () {
+                for (let j = 0; j < dotLis.length; j++) {
+                    dotLis[j].classList.remove('active');
+                }
+                this.classList.add('active');
+                let index = this.getAttribute('data-index');
+                bannerUl.style.marginLeft = -index * 100 + 'vw';
+                bannerUl.style.transition = 'margin-left .4s';
+                num = index;
+                circleIndex = index - 1;
+            }
+        }
+
+        let timer = null;
+
+        function autoPlay() {
+            timer = setInterval(() => {
+                next.click();
+            }, 3000);
+        }
+        autoPlay();
+
+        function stopPlay() {
+            clearInterval(timer);
+        }
+
+        banner.onmouseover = function () {
+            stopPlay();
+        }
+
+        banner.onmouseout = function () {
+            autoPlay();
+        }
+    </script>
+</body>
+
+</html>

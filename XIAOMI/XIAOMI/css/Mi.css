@@ -1,0 +1,578 @@
+/* 清楚所有元素的内外边距 */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 清楚a链接的默认样式 */
+a{
+    text-decoration: none;
+    color: black;
+}
+/* 利用伪元素给设置了浮动的元素的父元素清楚浮动 */
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+/* 清楚所有ul>li 的默认样式 */
+ul li{
+    list-style: none;
+}
+/* 设置固定宽度并且居中 */
+.mediate{
+    width: 1227px;
+    margin: auto;
+}
+/* 左侧固定宽度 */
+.w_left{
+    width: 234px;
+}
+/* 左浮动 */
+.fl_left{
+    float: left;
+}
+/* 右浮动 */
+.fl_right{
+    float: right;
+}
+/* 产品展示图盒子固定宽高 */
+.w_box{
+    height: 300px;
+    width: 234px;
+}
+/* 侧边固定的盒子 */
+.right-box {
+    width: 74px;
+    position: fixed;
+    right: 50px;
+    top: 140px;
+    background-color: #fff;
+}
+
+.right-box>div {
+    width: 80px;
+    height: 80px;
+    border-bottom: solid #f5f5f5 1px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.right-box>div img {
+    width: 35px;
+    height: 35px;
+}
+
+.right-box>div:hover .img1 {
+    display: none;
+}
+
+.right-box>div:hover .img2 {
+    display: block;
+}
+
+.right-box .pic-box {
+    height: 50px;
+    text-align: center;
+}
+
+.right-box>div .img2 {
+    display: none;
+    margin: 0 auto;
+}
+
+.right-box .return_top {
+    width: 75px;
+    opacity: 0;
+    transition: all .5s ease;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+
+
+/* 头部盒子 */
+.header{
+    background-color: #333333;
+}
+/* 头部版心导航块 */
+.header_middle ul li a{
+    font-size: 12px;
+    color: #84a4b0;
+    display: inline-block;
+}
+.header_middle ul li a:hover{
+    color: #ffff;   
+}
+.header_middle ul li{
+    float: left;
+    height: 40px;
+    line-height: 40px;
+}
+.header_middle ul li span{
+    margin: 0 8px;
+    color: #424242;
+}
+.header_middle ul .shopping_car{
+    width: 120px;
+    text-align:center;
+    background-color: #424242;
+    margin-left: 10px;
+}
+.header_middle ul .shopping_car:hover{
+    background-color:rgb(201, 190, 190);
+}
+/* 导航下方第一个盒子 */
+.header_first{
+    height: 100px;
+    line-height: 100px;
+    /* border: solid yellow 1px; */
+}
+.header_first .logo{
+    height: 100px;
+    line-height: 100px;
+}
+.header_first .logo img{
+    height: 56px;
+    width: 56px;
+    margin-top: 22px;
+    background-color:rgb(255, 72, 0);
+    border-radius: 21px;
+}
+/* 盒子中间导航块 */
+.header_first .top_bar ul li{
+    float: left;
+    margin-right:20px;
+}
+.header_first .top_bar ul li a:hover{
+    color: rgb(238, 10, 10);
+}
+
+/* 搜索框 */
+.header_first .search .input_search{
+    width: 245px;
+    height: 50px;
+    padding: 0 15px;
+    outline: none;
+    border: solid #e0e0e0 1px;
+}
+.header_first .search .input_search:hover{
+    border: solid #b0b0b0 1px;
+}
+
+.header_first .search div{
+    width: 56px;
+    height: 50px;
+    line-height: 56px;
+    border: solid #e0e0e0 1px;
+    margin-top: 26px;
+    box-sizing: border-box  ;
+}
+.header_first .search div:hover{
+    background-color: #ff8b3d;
+    border: solid #b0b0b0 1px;
+}
+.header_first .search img{
+    height: 30px;
+    width: 30px;
+    margin: 10px 12px;
+}
+
+/* 头部导航下面第二个盒子 ，侧边栏+轮播图 */
+.header_second{
+    position: relative;
+}
+.header_second img{
+    width: 100%;
+    height: 460px;
+}
+.header_second .banner_box{
+    height: 460px;
+    background: rgba(151, 156, 154,.6);
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.header_second .banner_box:hover{
+    background:url(./../img/测边栏背景图.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.header_second .banner_box ul{
+    margin-top: 18px;
+    width: 234px;
+}
+.header_second .banner_box ul li{
+    height: 42px;
+    line-height: 42px;
+    padding: 0 30px;
+}
+.header_second .banner_box ul li a{
+    display: block;
+    color: white;
+    }
+.header_second .banner_box ul li span{
+    float: right;
+    color: #f5f5f5;
+}
+.header_second .banner_box ul li:hover{
+   background-color: #ff6700;
+}
+
+/* 头部导航下面第三个盒子 */
+.header_third{
+    margin-top: 15px;
+}
+/* 第一个盒子的六个小li */
+.header_third .icon_list{
+    background-color: #5f5750;
+}
+.header_third .icon_list ul li{
+    width: calc(100%/3);
+    height: 100px;
+    float: left;
+}
+.header_third .icon_list ul li:hover{
+    cursor: pointer;
+}
+.header_third .icon_list ul li:hover a{
+    color: white;
+}
+.header_third .icon_list ul li a{
+    color: #88827d;
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.header_third .icon_list ul li a img{
+    height: 30px;
+    padding-top: 10px;
+    width: 30px;
+    margin-top: 10px;
+}
+/* 右边三个图片 */
+.header_third .photo{
+    width: calc(1227px - 234px);
+    box-sizing: border-box;
+    height: 100px;
+}
+.header_third .photo a:hover{
+    display: block;
+    box-shadow: 9px 15px 12px #e1e1e1;
+    transform: translate(0,-5px);
+}
+.header_third .photo a  img{
+    width: calc((1227px - 234px)/3 - 10px);
+    float: left;
+    height: 200px;
+    margin-left: 10px;
+}
+
+/* <!-- 中间浅灰色内容块大盒子 --> */
+.container{
+    background-color:#f5f5f5;
+}
+.container .container_first{
+    margin-top: 20px;
+}
+/* 小米秒杀标题 */
+.tittle{
+    height: 58px;
+    line-height: 58px;
+    font-size: 24px;
+}
+
+/* 倒计时 */
+.container .countdown{
+    height: 340px;
+    text-align: center;
+    border-top: rgb(179, 158, 158) solid 2px;
+    background-color: #f1eded;
+}
+.container .countdown p{
+    color: #f00;
+    font-size: 24px;
+    margin-top: 40px;
+}
+.container .countdown .lightning{
+    height: 130px;
+    line-height: 150px;
+}
+.container .countdown .timer{
+    margin: 30px 27px;
+}
+.container .countdown .timer div{
+    border: red solid 1px;
+    width: 46px;
+    height: 46px;
+    text-align: center;
+    line-height: 46px;
+    color: red;
+}
+.container .countdown .timer span{
+    display: inline-block;
+    width:15px;
+    text-align: center;
+    line-height: 46px;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+
+/* 小米秒杀标题样式 */
+.container .container_first .tittle span{
+    height: 30px;
+    line-height: 30px;
+    width: 30px;
+    text-align: center;
+    border: solid red 1px;
+    margin-top: 18px;
+}
+/* 秒杀图片链接部分 */
+.container .container_first .seckill ul li{
+    border-top: #ff8b3d solid 2px;
+    float: left;
+    margin-left: calc((1227px - 234px*5)/4);
+    height: 340px;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+.container .container_first .seckill ul li a{
+    display: block;
+    text-align: center;
+}
+.container .container_first .seckill ul li a img{
+    height: 200px;
+    width: 234px;   
+}
+/* 商品文字属性样式 */
+.container .container_first .seckill div{
+    padding: 0 20px;
+}
+.headline{
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.desc{
+    font-size: 12px;
+    color: rgb(161, 129, 129);
+}
+.price span:nth-child(1){
+    color: #fa853d;
+    height: 50px;
+    line-height: 50px;
+}
+.container  del{
+    color: #adadad;
+}
+
+/* <!-- 宽度为1227px的大图 --> */
+.container .big_photo img{
+    margin: 20px 0;
+}
+/* 内容块第二个盒子 手机模块 */
+.container_second .mobile_phone .check_more{
+    font-size: 16px;
+}
+.container_second .mobile_phone a:hover {
+    color: #ff6700;
+}
+.container_second .mobile_phone a:hover .right_arrow{
+    color: white;
+    background-color: #ff6700;
+    
+}
+.container_second .mobile_phone a .right_arrow{
+    background-color: #b0b0b0;
+    display: inline-block;
+    width: 24px;
+    height: 26px;
+    line-height: 22px;
+    border-radius: 15px;
+    text-align: center;
+}
+/* 手机图片盒子 */
+.container_second .mobile_photo ul li{
+    width: 234px;
+    height: 300px;
+    float: left;
+    text-align: center;
+    background-color: #fff;
+    margin-bottom: 14px;
+    margin-left: calc((1227px - 234px*5)/4);
+}
+.mi_photo ul li:hover:not(li:last-child){
+    box-shadow: 9px 15px 12px #e1e1e1;
+    transform: translate(0,-5px);
+}
+.active:hover{
+    box-shadow: 9px 15px 12px #e1e1e1;
+    transform: translate(0,-5px);
+}
+.container ul li .div1:hover,
+.container ul li .div2:hover{
+    box-shadow: 9px 15px 12px #e1e1e1;
+    transform: translate(0,-5px);
+}
+.container_second .mobile_photo ul li img{
+    width: 160px;
+    height: 160px;
+    padding: 20px 0;
+}
+.container_second .mobile_photo ul li:first-child,
+.container_second .mobile_photo ul .mix_fold img:first-child{
+    margin-left: 0;
+    height: 614px;
+    width: 234px;
+    padding: 0;
+    margin: 0;
+} 
+/* <!-- 宽度为1227px的大图二 --> */
+.big_photo1 img{
+    margin-top:20px ;
+}
+
+/* <!-- 家电模块的盒子 --> */
+
+.container .home_appliances ul li{
+    /* border: solid gray 1px; */
+    text-align: center;
+    background-color: #fff;
+    margin-left: calc((1227px - 234px*5)/4);
+    margin-bottom: 20px;
+}
+.container .home_appliances ul li:nth-child(5n+1){
+    margin-left: 0;
+}
+.container .home_appliances ul li img{
+    height: 160px;
+    width: 160px;
+    margin: 20px 0;
+}
+.container .home_appliances ul li .mi_picture{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.container .home_appliances .tittle_right{
+    font-size: 16px;
+}
+.container .home_appliances .tittle_right a{
+    margin-left: 20px;
+}
+.container .home_appliances .tittle_right a:hover{
+    /* text-decoration: underline; */
+    border-bottom: red solid 2px;
+    color: #f00;
+}
+/* 最后一个li的样式 */
+.container .home_appliances .li_last{
+    background-color: #f5f5f5;
+}
+
+.container .home_appliances .li_last div{
+    height: 143px;
+    /* line-height: 143px; */
+    background-color: #fff;
+}
+.container .home_appliances .li_last .div1{
+    margin-bottom: 14px;
+}
+.container .home_appliances .li_last div a{
+    display: block;
+    height: 143px;
+}
+.container .home_appliances .li_last div .link{
+    padding: 40px 25px;
+    width: 135px;   
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.container .home_appliances .li_last .div1 img{
+    height: 80px;
+    width: 80px;
+}
+.container .home_appliances .li_last div img{
+   margin-top: 30px;
+}
+.container .home_appliances .div2{
+    box-sizing: border-box;
+}
+.container .home_appliances .div2 img{
+    height: 48px;
+    width: 48px;
+    border: solid #f00 5px;
+    border-radius: 30px;
+}
+
+/* 视频模块 */ 
+.container .ray_burse .mv1{
+    height: 285px;
+    background-color: #fff;
+    width: calc((1227px/4) - 15px);
+    margin-left: 20px;
+    overflow: hidden;
+}
+.container .ray_burse .mv1:first-child{
+    margin-left: 0;
+}
+.container .ray_burse .mv1 .mi_v {
+    height: 240px;
+    margin-top: -58px;
+}
+.container .ray_burse video{
+    height: 200px;
+    width: calc((1227px/4) - 15px); 
+    margin-top: -17px;
+
+}
+
+
+/* 底部模块 */
+.footer{
+    background-color: #fff;
+    margin-top: 30px;
+}
+.footer .introduce .top li{
+    width: calc(1227px/5);
+    float: left;
+    height: 100px;
+    line-height: 100px;
+    padding: 0 45px;
+    box-sizing: border-box;
+}
+.footer .introduce .top li a{
+    float: left;
+    color: #616161;
+}
+.footer .introduce .top li a:hover{
+    color: red;
+}
+.footer .introduce .top li img{
+    height: 24px;
+    width: 24px;
+    margin-top: 38px;
+    float: left;
+}
+.footer .introduce .top li span{
+    float: right;
+    color: #e0e0e0;
+}
+.footer .introduce .columns ul{
+    width: calc((1227px - 234px)/6);
+}
+.footer .introduce .columns ul li:first-child{
+    margin: 30px 0;
+    font-size: 16px;
+}
+.footer .introduce .columns ul li{
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+.footer .introduce .columns ul li a{
+    color: #757575;
+}

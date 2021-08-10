@@ -1,0 +1,212 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.container {
+  max-width: 1190 !important;
+}
+@media (max-width: 768px) {
+  .content .satge .lead {
+    font-size: 20px;
+    margin: 0;
+  }
+}
+@media (max-width: 980px) {
+  .content .satge .lead {
+    font-size: 24px;
+  }
+}
+.navbar-bav .nav-item {
+  font-size: 14px;
+}
+.navbar-bav .nav-item .nav-link {
+  color: #563da6;
+}
+.navbar-bav .nav-item .nav-link:hover {
+  background-color: #f9f9f9;
+}
+.navbar-bav .logo {
+  color: #563d7c !important;
+}
+.navbar-bav #navbarSupportedContent {
+  padding: 0 10px;
+}
+.content {
+  height: 570px;
+  background: linear-gradient(to bottom, #573e7d, #5a4181, #614789, #674d90, #6b5094);
+}
+.content .bs-docs-booticon-lg {
+  width: 144px;
+  height: 144px;
+  font-size: 108px;
+  line-height: 140px;
+}
+.content .bs-docs-booticon {
+  display: block;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+  cursor: default;
+  border-radius: 15%;
+  margin: 0 auto 30px !important;
+}
+.content .bs-docs-booticon-outline {
+  background-color: transparent;
+  border: 1px solid #cdbfe3;
+}
+.content .satge .lead {
+  font-size: 30px;
+  margin: 20px 114px 10px;
+  color: #fff;
+  /* font-family: 'Times New Roman', Times, serif; */
+  font-weight: 500;
+}
+.content .satge .download {
+  font-size: 20px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 15px 30px;
+  border: solid #cdbfe3 2px;
+  position: relative;
+}
+.content .satge .download::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 60px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.content .satge .download:hover::after {
+  background-color: #9dcddb;
+  animation: opcity 2s forwards;
+}
+.content .satge .version {
+  font-size: 12px;
+  color: #9783b9;
+}
+.box {
+  margin-top: 100px;
+}
+.box .title .title-text {
+  padding: 0 114px 20px;
+  font-size: 21px;
+}
+.box .about .item {
+  width: calc(100% / 3);
+  text-align: center;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.box .about .photo {
+  box-sizing: border-box;
+}
+.box .about p {
+  color: #555;
+}
+.box .about div h3 {
+  height: 40px;
+  line-height: 40px;
+  margin-top: 10px;
+}
+.box .about img {
+  width: 100%;
+}
+.box .container .goin {
+  width: 240px;
+  height: 50px;
+  line-height: 47px;
+  border: solid #563d7c 1px;
+  border-radius: 10px;
+  color: #563d7c;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  animation: back 1s forwards;
+}
+.box .container .goin:hover {
+  animation: change 1s forwards;
+  cursor: pointer;
+}
+.box .website {
+  margin-top: 110px;
+  border-top: solid #e5e5e5 1px;
+}
+.box .substance {
+  padding: 80px;
+}
+.box .substance > p {
+  font-size: 24px;
+  font-weight: 400;
+  color: #5a5555;
+}
+.box .substance .line {
+  width: 150px;
+  border-top: solid #eeeeee 1px;
+  margin: 60px auto;
+}
+.box .show .more-web {
+  font-size: 24px;
+  font-weight: 400;
+  color: #5a5555;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.footer {
+  background-color: #2a2730;
+  color: #808c99;
+  height: 180px;
+  padding: 50px;
+}
+.footer a {
+  color: #fff;
+}
+@media (max-width: 575px) {
+  .box .about .item {
+    width: 100%;
+  }
+}
+@keyframes opcity {
+  from {
+    opacity: 1;
+    transform: scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: scale(1.2);
+  }
+}
+@keyframes change {
+  from {
+    transform: scale(1);
+    font-size: 20px;
+    background-color: #fff;
+    color: #563d7c;
+    border: solid #563d7c 1px;
+  }
+  to {
+    /* transform: scale(1.2); */
+    font-size: 24px;
+    background-color: #6eb0c4;
+    color: #fff;
+    border: solid #33a5da 1px;
+  }
+}
+@keyframes back {
+  from {
+    /* transform: scale(1.2); */
+    font-size: 24px;
+    background-color: #6eb0c4;
+    color: #fff;
+    border: solid #33a5da 1px;
+  }
+  to {
+    transform: scale(1);
+    font-size: 20px;
+    background-color: #fff;
+    color: #563d7c;
+    border: solid #563d7c 1px;
+  }
+}
