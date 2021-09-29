@@ -358,7 +358,7 @@ align-items: center; */
     height: 250px;
     background-color: #fff;
     border-radius: 10px;
-    border: solid rgb(182, 160, 160) 3px;
+    border: solid rgb(182, 160, 160) 1px;
     position: absolute;
     top: -30px;
     right: 40px;
@@ -368,7 +368,7 @@ align-items: center; */
 }
 
 .content .list:hover {
-    box-shadow: 30px 10px 60px rgba(182, 160, 160, .6);
+    box-shadow: 5px 5px 10px rgba(182, 160, 160, .6);
 }
 
 .content .list .triangle,
@@ -390,7 +390,7 @@ align-items: center; */
 
 .content .list .triangle1 {
     border-bottom: 15px solid #fff;
-    top: -13px;
+    top: -14px;
     z-index: 11;
 }
 
@@ -499,9 +499,8 @@ align-items: center; */
 }
 
 .content .template_one .pic div:hover {
-    box-shadow: 5px 5px 15px 5px rgb(231 228 228) inset,
-        -6px -6px 15px 5px rgb(241 236 236) inset;
-    transform: scale(1.1);
+    box-shadow: 5px 5px 9px 5px rgb(225, 226, 226) inset,
+        -6px -6px 9px 5px rgb(235, 235, 233) inset;
 }
 
 .content .template_one .pic div a {

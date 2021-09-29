@@ -10,6 +10,12 @@ $(function () {
     }
   );
 
+  // 顶部搜索框获取焦点 数据展示盒子显示
+  $('.t_input').focus(() => {
+    console.log(2333);
+    $('.s_data').css({display:'block'});
+  })
+
   $(".company").hover(
     function () {
       $(".business").stop().slideDown(60);
@@ -155,8 +161,7 @@ $(function () {
         .animate({
           scrollTop: newArr[goIndex] - 60,
         });
-        if (goIndex == 6) {
-        console.log(34);
+      if (goIndex == 6) {
         // 回到顶部
         $(".backtop").click(function () {
           $("body , html").stop().animate(
@@ -537,7 +542,13 @@ $(function () {
   // 轮播图模块右下角的遮罩层tab切换
   $(".mod_tab_list li").click(function () {
     var index = $(this).index();
-    $(".mod_tab_list li a").eq(index).addClass("light_high").parent().siblings().children().removeClass("light_high");
+    $(".mod_tab_list li a")
+      .eq(index)
+      .addClass("light_high")
+      .parent()
+      .siblings()
+      .children()
+      .removeClass("light_high");
     $(".cost").hide();
     $(".cost").eq(index).show().siblings(".cost").hide();
   });
@@ -661,7 +672,7 @@ $(function () {
 
   // 倒计时
   function current() {
-    var $time = new Date("2021-10-23");
+    var $time = new Date("2022-10-23");
     const $now = new Date();
     timeRemaining = $time - $now;
     let hour, minute, second;
@@ -703,7 +714,7 @@ $(function () {
 
   // 品牌闪购倒计时
   function day() {
-    let $time = new Date("2021-08-11");
+    let $time = new Date("2021-10-11");
     const $now = new Date();
     let $timeRemaining = $time - $now;
     if ($timeRemaining < 10) {

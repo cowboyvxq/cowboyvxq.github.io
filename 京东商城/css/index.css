@@ -22,6 +22,15 @@
   position: relative;
   text-align: center;
   cursor: pointer;
+  transition: all 0.8s;
+}
+
+.right-box ul li .feedback {
+  color: black;
+}
+
+.right-box ul li:hover .feedback {
+  color: #fff;
 }
 
 .right-box ul li:hover {
@@ -53,6 +62,7 @@
     to(white)
   );
   background: linear-gradient(180deg, white, #dfdfdf 51%, white);
+  transition: all 1s;
 }
 
 .right-box ul li #icon_timline {
@@ -487,11 +497,48 @@
 .header .search {
   width: 590px;
   margin: 25px 0 0 80px;
+  position: relative;
 }
 
 .fixed_head .search-box {
   width: 590px;
   margin: 5px 0 0 150px;
+  position: relative;
+}
+
+.search .show_data {
+  width: 80%;
+  position: absolute;
+  top: 35px;
+  left: 0;
+  background-color: #fff;
+  z-index: 999;
+  border: solid #ccc 1px;
+  border-top: none;
+}
+
+.search-box .s_data {
+  width: 100%;
+  position: absolute;
+  top: 40px;
+  left: 0;
+  background-color: #fff;
+  padding: 10px 0;
+  display: none;
+}
+
+.search-box .s_data li,
+.search .show_data li {
+  height: 25px;
+  padding-left: 10px;
+  color: #666;
+}
+
+.search-box .s_data li:hover,
+.search .show_data li:hover {
+  background-color: rgb(250, 209, 215);
+  cursor: pointer;
+  color: #333;
 }
 
 .header .search .form input,
@@ -603,12 +650,12 @@
 
 .banner_bar .j_fs_act {
   position: absolute;
-  left: -247px;
+  left: -264px;
   z-index: 991;
 }
 
 .banner_bar .j_fs_act .first-photo {
-  width: 245px;
+  width: 263px;
   height: 470px;
 }
 
@@ -622,8 +669,8 @@
 }
 
 .banner_bar .j_fs_act .closer {
-  width: 30px;
-  height: 30px;
+  width: 25px;
+  height: 25px;
   text-align: center;
   line-height: 30px;
   border-radius: 50%;
@@ -831,8 +878,9 @@
 }
 
 .swiper-left {
-  width: 40px;
+  width: 35px;
   height: 40px;
+  line-height: 40px;
   position: absolute;
   top: 50%;
   left: -60px;
@@ -841,15 +889,23 @@
   background-color: pink;
   border-radius: 0 20px 20px 0;
   opacity: 0.6;
+  font-size: 30px;
+  font-family: "宋体";
+  text-align: center;
+  color: hotpink;
+  padding-right: 5px;
 }
 
-.swiper-left:hover {
+.swiper-left:hover,
+.swiper-right:hover {
   opacity: 1;
+  cursor: pointer;
 }
 
 .swiper-right {
-  width: 40px;
+  width: 35px;
   height: 40px;
+  line-height: 40px;
   position: absolute;
   top: 50%;
   right: -60px;
@@ -858,26 +914,11 @@
   background-color: pink;
   border-radius: 20px 0 0 20px;
   opacity: 0.6;
-}
-
-.swiper-right:hover {
-  opacity: 1;
-}
-
-.swiper-left img,
-.swiper-right img {
-  width: 30px;
-  height: 30px;
-  cursor: pointer;
-  margin-top: 5px;
-}
-
-.swiper-left img {
-  margin-right: 4px;
-}
-
-.swiper-right img {
-  margin-left: 4px;
+  font-size: 30px;
+  font-family: "宋体";
+  text-align: center;
+  color: hotpink;
+  padding-left: 5px;
 }
 
 .swiper-contione:hover .swiper-left {
@@ -2113,6 +2154,20 @@
   align-items: center;
 }
 
+.j_coupon .bg-img {
+  height: 30px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 999;
+}
+
+.j_coupon .bg-img img {
+  width: 100%;
+  height: 100%;
+}
+
 .content .coupon_inner .coupon_lk_wrap img {
   width: 50px;
   height: 50px;
@@ -2308,7 +2363,7 @@
 .content .more-goods .feed_content {
   margin-top: 10px;
   overflow: hidden;
-  height: calc(332px * 13 );
+  height: calc(332px * 13);
   margin-bottom: 40px;
 }
 
@@ -2517,17 +2572,13 @@
 
 .footer .mod_copyright .mod_copyright_info p a,
 .footer .mod_copyright .mod_copyright_info p span {
-  font-size: 14px;
-  color: #a599b1;
+  font-size: 12px !important;
+  color: #a599b1 !important;
 }
 
 .footer .mod_copyright .mod_copyright_info p a span {
   margin: 0 10px;
 }
-
-/* .footer .mod_copyright .mod_copyright_info p:nth-child(4) a {
-    padding-left: 25px;
-} */
 
 .footer .mod_copyright .mod_copyright_info p:nth-child(4) i {
   padding: 0px 7px;
@@ -2560,7 +2611,7 @@
 
 .footer .mod_copyright_auth ul li {
   width: 103px;
-	height: 32px;
+  height: 32px;
   float: left;
 }
 
@@ -2568,7 +2619,7 @@
   background: url("../icon/footer.png") no-repeat -205px 0;
 }
 .footer .mod_copyright_auth ul li:nth-child(2) {
-  background: url("../icon/footer.png") no-repeat  -205px -37px;
+  background: url("../icon/footer.png") no-repeat -205px -37px;
 }
 .footer .mod_copyright_auth ul li:nth-child(3) {
   background: url("../icon/footer.png") no-repeat -205px -74px;

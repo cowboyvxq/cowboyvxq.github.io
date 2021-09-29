@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        html {
+            background: #d8dcd6;
+            text-align: center;
+            font-size: 10px;
+        }
+
+        body {
+            margin: 0;
+            font-size: 2rem;
+            display: flex;
+            flex: 1;
+            min-height: 100vh;
+            align-items: center;
+        }
+
+        .clock {
+            width: 30rem;
+            height: 30rem;
+            position: relative;
+            padding: 2rem;
+            border: 18px solid #D3D7D0;
+            box-shadow: 5px -5px 5px 0px rgba(242, 243, 242, 0.5), -5px 8px 8px 0px rgba(177, 185, 173, 0.5), inset -3.5px 5.5px 6px 0px rgba(177, 185, 173, 0.5), inset 3px -3px 1px 0px rgba(190, 197, 186, 0.15);
+            border-radius: 50%;
+            margin: 50px auto;
+        }
+
+        .outer-clock-face {
+            position: relative;
+            background: #d8dcd6;
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+            border-radius: 100%;
+        }
+
+        .outer-clock-face::after {
+            -webkit-transform: rotate(90deg);
+            -moz-transform: rotate(90deg);
+            transform: rotate(90deg);
+        }
+
+        .outer-clock-face::after,
+        .outer-clock-face::before,
+        .outer-clock-face .marking {
+            content: "";
+            position: absolute;
+            width: 5px;
+            height: 100%;
+            background: #84C2B3;
+            z-index: 0;
+            left: 49%;
+        }
+
+        .outer-clock-face .marking {
+            background: #9bc5bb;
+            width: 3px;
+        }
+
+        .outer-clock-face .marking.marking-one {
+            -webkit-transform: rotate(30deg);
+            -moz-transform: rotate(30deg);
+            transform: rotate(30deg);
+        }
+
+        .outer-clock-face .marking.marking-two {
+            -webkit-transform: rotate(60deg);
+            -moz-transform: rotate(60deg);
+            transform: rotate(60deg);
+        }
+
+        .outer-clock-face .marking.marking-three {
+            -webkit-transform: rotate(120deg);
+            -moz-transform: rotate(120deg);
+            transform: rotate(120deg);
+        }
+
+        .outer-clock-face .marking.marking-four {
+            -webkit-transform: rotate(150deg);
+            -moz-transform: rotate(150deg);
+            transform: rotate(150deg);
+        }
+
+        .inner-clock-face {
+            position: absolute;
+            top: 10%;
+            left: 10%;
+            width: 80%;
+            height: 80%;
+            background: #d8dcd6;
+            -webkit-border-radius: 100%;
+            -moz-border-radius: 100%;
+            border-radius: 100%;
+            z-index: 1;
+        }
+
+        .inner-clock-face::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 16px;
+            height: 16px;
+            border-radius: 18px;
+            margin-left: -9px;
+            margin-top: -6px;
+            background: #e38c63;
+            z-index: 11;
+        }
+
+        .hand {
+            width: 50%;
+            right: 50%;
+            height: 6px;
+            background: #e38c63;
+            position: absolute;
+            top: 50%;
+            border-radius: 6px;
+            transform-origin: 100%;
+            transform: rotate(90deg);
+            transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+        }
+
+        .hand.hour-hand {
+            width: 30%;
+            z-index: 3;
+        }
+
+        .hand.min-hand {
+            height: 3px;
+            z-index: 10;
+            width: 45%;
+        }
+
+        .hand.second-hand {
+            background: #767B78;
+            width: 45%;
+            height: 2px;
+            z-index: 1;
+        }
+
+        #iframe-wrap {
+            margin: 0 auto;
+            width: 400PX;
+        }
+
+        #iframe-wrap #iframe {
+            height: 500px;
+        }
+    </style>
+</head>
+<script src="./动画/jquery-3.6.0.js"></script>
+<script>
+    const secondHand = document.querySelector('.second-hand');
+    const minsHand = document.querySelector('.min-hand');
+    const hourHand = document.querySelector('.hour-hand');
+
+    function setDate() {
+        const now = new Date();
+
+        const seconds = now.getSeconds();
+        console.log(seconds);
+        const secondsDegrees = ((seconds / 60) * 360) + 90;
+        // secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
+
+        const mins = now.getMinutes();
+        const minsDegrees = ((mins / 60) * 360) + ((seconds / 60) * 6) + 90;
+        // minsHand.style.transform = `rotate(${minsDegrees}deg)`;
+
+        const hour = now.getHours();
+        const hourDegrees = ((hour / 12) * 360) + ((mins / 60) * 30) + 90;
+        // hourHand.style.transform = `rotate(${hourDegrees}deg)`;
+    }
+
+    // setInterval(setDate, 1000);
+
+    // setDate();
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        function fixHeight() {
+            var headerHeight = $("#switcher").height();
+            $("#iframe").attr("height", $(window).height() - 54 + "px");
+        }
+        $(window).resize(function () {
+            fixHeight();
+        }).resize();
+
+        $('.icon-monitor').addClass('active');
+
+        $(".icon-mobile-3").click(function () {
+            $("#by").css("overflow-y", "auto");
+            $('#iframe-wrap').removeClass().addClass('mobile-width-3');
+            $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+            $(this).addClass('active');
+            return false;
+        });
+
+        $(".icon-mobile-2").click(function () {
+            $("#by").css("overflow-y", "auto");
+            $('#iframe-wrap').removeClass().addClass('mobile-width-2');
+            $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+            $(this).addClass('active');
+            return false;
+        });
+
+        $(".icon-mobile-1").click(function () {
+            $("#by").css("overflow-y", "auto");
+            $('#iframe-wrap').removeClass().addClass('mobile-width');
+            $('.icon-tablet,.icon-mobile,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+            $(this).addClass('active');
+            return false;
+        });
+
+        $(".icon-tablet").click(function () {
+            $("#by").css("overflow-y", "auto");
+            $('#iframe-wrap').removeClass().addClass('tablet-width');
+            $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+            $(this).addClass('active');
+            return false;
+        });
+
+        $(".icon-monitor").click(function () {
+            $("#by").css("overflow-y", "hidden");
+            $('#iframe-wrap').removeClass().addClass('full-width');
+            $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+            $(this).addClass('active');
+            return false;
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    function Responsive($a) {
+        if ($a == true) $("#Device").css("opacity", "100");
+        if ($a == false) $("#Device").css("opacity", "0");
+        $('#iframe-wrap').removeClass().addClass('full-width');
+        $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+        $(this).addClass('active');
+        return false;
+    };
+</script>
+
+<body id="by">
+
+    <div id="switcher">
+        <div class="center">
+            <ul>
+                <div id="Device">
+                    <li class="device-monitor"><a href="javascript:">
+                            <div class="icon-monitor"></div>
+                        </a></li>
+                    <li class="device-mobile"><a href="javascript:">
+                            <div class="icon-tablet"></div>
+                        </a></li>
+                    <li class="device-mobile"><a href="javascript:">
+                            <div class="icon-mobile-1"></div>
+                        </a></li>
+                    <li class="device-mobile-2"><a href="javascript:">
+                            <div class="icon-mobile-2"></div>
+                        </a></li>
+                    <li class="device-mobile-3"><a href="javascript:">
+                            <div class="icon-mobile-3"></div>
+                        </a></li>
+                </div>
+            </ul>
+        </div>
+    </div>
+
+    <div id="iframe-wrap">
+        <iframe id="iframe" src="https://www.17sucai.com/preview/776298/2021-07-26/nc/index.html" frameborder="0"
+            width="100%"></iframe>
+    </div>
+
+</html>
