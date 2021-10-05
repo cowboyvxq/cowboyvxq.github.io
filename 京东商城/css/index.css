@@ -59,7 +59,7 @@
     left bottom,
     from(white),
     color-stop(51%, #dfdfdf),
-    to(white)
+    to(white);
   );
   background: linear-gradient(180deg, white, #dfdfdf 51%, white);
   transition: all 1s;
@@ -671,8 +671,8 @@
 .banner_bar .j_fs_act .closer {
   width: 25px;
   height: 25px;
+  line-height: 25px;
   text-align: center;
-  line-height: 30px;
   border-radius: 50%;
   font-size: 20px;
   color: #999;
@@ -894,6 +894,7 @@
   text-align: center;
   color: hotpink;
   padding-right: 5px;
+  z-index: 10;
 }
 
 .swiper-left:hover,

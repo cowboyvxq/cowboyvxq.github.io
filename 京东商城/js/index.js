@@ -11,10 +11,10 @@ $(function () {
   );
 
   // 顶部搜索框获取焦点 数据展示盒子显示
-  $('.t_input').focus(() => {
+  $(".t_input").focus(() => {
     console.log(2333);
-    $('.s_data').css({display:'block'});
-  })
+    $(".s_data").css({ display: "block" });
+  });
 
   $(".company").hover(
     function () {
@@ -248,7 +248,8 @@ $(function () {
     }
     lrClick() {
       let timeOut = true;
-      $(".swiper-left img").click(() => {
+      $(".swiper-left").click(() => {
+        console.log(233);
         if (timeOut) {
           timeOut = false;
           this.num--;
@@ -275,7 +276,7 @@ $(function () {
         }
       });
 
-      $(".swiper-right img").click(() => {
+      $(".swiper-right").click(() => {
         if (timeOut) {
           timeOut = false;
           this.num++;

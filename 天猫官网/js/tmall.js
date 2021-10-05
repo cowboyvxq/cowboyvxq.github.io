@@ -157,7 +157,7 @@ window.addEventListener('load', function () {
     function autoPlay() {
         timer = setInterval(() => {
             next.click();
-        }, 3000);
+        }, 5000);
     }
     autoPlay();
 

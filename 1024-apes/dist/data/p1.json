@@ -1,0 +1,4242 @@
+[
+    {
+        "user_id": "1187822",
+        "blog_id": "3940526",
+        "cate_id": "15",
+        "abstract": "Eclipse创建SpringBoot聚合项目;Eclipse创建SpringBoot父子工程;",
+        "add_time": "1631866010",
+        "blog_type": "1",
+        "username": "pannijingling",
+        "add_time_str": "6天前",
+        "nickname": "pannijingling",
+        "url": "https://blog.51cto.com/abcd/3940526",
+        "userUrl": "https://blog.51cto.com/abcd",
+        "pv": 918,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/20210917/1631846498249405.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14805220",
+        "blog_id": "3939896",
+        "cate_id": "99",
+        "abstract": "当下，产业互联网推动着各传统行业不断加速技术革新，向数字化转型。作为服务产业与互联网融合的典型，房产服务行业在近年迎来了新的增长契机。线上用户的快速增长让用户对房产服务行业的数字化转型提出了更多要求。华为分析服务6.2.0版本新增租房买房行业报告与埋点模板，以用户为核心，聚焦用户线上看房关键行为，帮助房产服务平台提升用户的房源兴趣与敏感度，有效缩短租房买房交易周期。一、数据概览了解整体增长数据概览",
+        "add_time": "1631865109",
+        "blog_type": "1",
+        "username": "HW工程师",
+        "add_time_str": "2天前",
+        "nickname": "华为HMSCore",
+        "url": "https://blog.51cto.com/u_14815220/3939896",
+        "userUrl": "https://blog.51cto.com/u_14815220",
+        "pv": 322,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "15296230",
+        "blog_id": "3939573",
+        "cate_id": "15",
+        "abstract": "有这样一个业务，上课的时候老师给表现好的学生送小花花，\n\n每节课都能统计出某个学生收到的花的总数。\n\n按照产品需求，前端点击送花按钮后30秒内是不能再次送花的(信任的基础)\n\n(上课老师送花行为都进行统计了，可见互联网是多么可怕)",
+        "add_time": "1631864708",
+        "blog_type": "1",
+        "username": "wx60f2c847af77d",
+        "add_time_str": "9天前",
+        "nickname": "跟着小苏不加班",
+        "url": "https://blog.51cto.com/u_15306230/3939573",
+        "userUrl": "https://blog.51cto.com/u_15306230",
+        "pv": 871,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/6ef7ccd4f8ddac31e790f1805b58b522.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "2344243",
+        "blog_id": "3937438",
+        "cate_id": "44",
+        "abstract": "笔者现有生产环境是centos6+bind9.8.2+namedmanager解决方案，该方案平常使用十分稳定和优良，但由于centos平台无法再升级bind版本了，导致漏扫一直能扫出各种dns漏洞，必须寻找替代方案。",
+        "add_time": "1631862150",
+        "blog_type": "1",
+        "username": "侠云",
+        "add_time_str": "6天前",
+        "nickname": "侠云",
+        "url": "https://blog.51cto.com/tseyuzen/3937438",
+        "userUrl": "https://blog.51cto.com/tseyuzen",
+        "pv": 854,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3937051",
+        "cate_id": "6",
+        "abstract": " 为了实现最初的梦想：通过 Python 降低鸿蒙设备开发的门槛。最近我又开始躁动起来，大刀阔斧的在之前工作的基础上做了 Python SDK 的设计和开发。终于，现在可以直接用 Python 来控制鸿蒙开发板外设了。我之前的帖子《&lt;&lt;鸿蒙开发板外设控制&gt;&gt;直播图文版（2020.10.28）》中涉及的案例都可以用 Python 完成！大家看完这篇帖子后，可以尝试使用 C 和 Python 来实现相同的功能，体会一下不同。",
+        "add_time": "1631861673",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "5天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3937051",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 903,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/70cb05c0d45dcf9134e4d5ca2f763c8d.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15171572",
+        "blog_id": "3936671",
+        "cate_id": "15",
+        "abstract": "前言\n一个 “好的” 数据驱动框架，需要从“时间”、“人力”、“收益”这三个方面出发，做好“取舍”。\n不能由于被测业务系统发生一些变更，就导致花费了几个小时的脚本无法执行。同时，我们需要看到“收益”，不能为了总想看到100%的成功，而减少必须做的工作，这导致可能都需要进行大量的维护。\n所以做好这三个方面的平衡并不容易，想要提高 ROI（投入产出比），我们必须从两方面入手：\n\n减少开发成本。\n\n\n增",
+        "add_time": "1631861260",
+        "blog_type": "1",
+        "username": "wx6086232c36932",
+        "add_time_str": "4天前",
+        "nickname": "高楼（Zee）",
+        "url": "https://blog.51cto.com/u_15181572/3936671",
+        "userUrl": "https://blog.51cto.com/u_15181572",
+        "pv": 352,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a66e2ea8de78f39a862f2f6e2a420a3c.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11659225",
+        "blog_id": "3933858",
+        "cate_id": "6",
+        "abstract": "       本文主要关于BGP的逻辑而不是具体实验，所以我就随便配了几幅图，大多还是文字哈。由于BGP太过复杂，本文只是第一部介绍作品，以后会有更新！        ",
+        "add_time": "1631857469",
+        "blog_type": "1",
+        "username": "JimKing001",
+        "add_time_str": "24天前",
+        "nickname": "XOSG",
+        "url": "https://blog.51cto.com/xosg/3933858",
+        "userUrl": "https://blog.51cto.com/xosg",
+        "pv": 128,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/11/2bca347b8243d4b522da39748be9bf49.gif?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15009240",
+        "blog_id": "3933418",
+        "cate_id": "15",
+        "abstract": "一、简介Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。服务端基于SpringBoot和SpringCloud开发，打包后可以直接运行，不需要额外安装Tomcat等应用容器。Java客户端不依赖任何框架，能够运行于所有Java运行时环境，同时对Spri",
+        "add_time": "1631856632",
+        "blog_type": "1",
+        "username": "牧小农",
+        "add_time_str": "20天前",
+        "nickname": "牧小农",
+        "url": "https://blog.51cto.com/u_15019240/3933418",
+        "userUrl": "https://blog.51cto.com/u_15019240",
+        "pv": 1037,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a7f1e24edd8a5ea83d5d8a195aa4e676.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "7922852",
+        "blog_id": "3933380",
+        "cate_id": "15",
+        "abstract": "作者：threedayman来源：恒生LIGHT云社区(https://developer.hs.net/thread/1393\"恒生LIGHT云社区\")理论知识一个类型从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期将会经历加载（Loading）、验证（Verification）、准备（Preparation）、解析（Resolution）、初始化（Initialization）、",
+        "add_time": "1631855653",
+        "blog_type": "1",
+        "username": "Gloria小凡",
+        "add_time_str": "2天前",
+        "nickname": "恒生LIGHT云社区",
+        "url": "https://blog.51cto.com/u_7932852/3933380",
+        "userUrl": "https://blog.51cto.com/u_7932852",
+        "pv": 327,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "13778458",
+        "blog_id": "3932763",
+        "cate_id": "52",
+        "abstract": "k8s集群架构\npod创建流程\nansible部署k8s\n部署dashboard",
+        "add_time": "1631850503",
+        "blog_type": "1",
+        "username": "ruyinote",
+        "add_time_str": "2天前",
+        "nickname": "ruyinote",
+        "url": "https://blog.51cto.com/u_13788458/3932763",
+        "userUrl": "https://blog.51cto.com/u_13788458",
+        "pv": 1199,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/f6995fd678143864b813d8ad8a77af9a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13551855",
+        "blog_id": "3927909",
+        "cate_id": "52",
+        "abstract": "LXC于2008年首次引入，从其之前的Solaris Containers（或Solaris Zones）和FreeBSD jail中采用了其大部分功能。\nLXC无需创建完整的虚拟机，而是可以通过自己的进程和网络空间来实现虚拟环境。通过使用命名空间来强制执行进程隔离，并利用内核本身的控制组（cgroup）功能，该功能可以限制，说明和隔离一个或多个进程的CPU，内存，磁盘I / O和网络使用情况。将",
+        "add_time": "1631844263",
+        "blog_type": "1",
+        "username": "行云宝宝",
+        "add_time_str": "6天前",
+        "nickname": "行云创新",
+        "url": "https://blog.51cto.com/u_13561855/3927909",
+        "userUrl": "https://blog.51cto.com/u_13561855",
+        "pv": 387,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/1bd6c084e7eb998a9d40e41a74e2cee7.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13978495",
+        "blog_id": "3927470",
+        "cate_id": "101",
+        "abstract": "今天来实现一个3D打砖块游戏，非常的简单，是正经的入门教程，但是学到的都是Unity游戏开发中重点的内容，下面一起来了解下吧。新建3D游戏项目打开UnityHub软件，我们新建一个3D项目，新建好之后双击打开就好了。!https://s4.51cto.com/images/blog/202109/17/92b29934d878affaf387fd6b0b70651e.png?xossprocess",
+        "add_time": "1631843642",
+        "blog_type": "1",
+        "username": "qq5ba9d6df05219",
+        "add_time_str": "6小时前前",
+        "nickname": "qq5ba9d6df05219",
+        "url": "https://blog.51cto.com/u_13988495/3927470",
+        "userUrl": "https://blog.51cto.com/u_13988495",
+        "pv": 293,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/32481f61cfd24fed2190dea1078f8c1a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11246213",
+        "blog_id": "3926882",
+        "cate_id": "15",
+        "abstract": "简介\nCORS的全称是跨域资源共享，他是一个基于HTTP-header检测的机制，通过对HTTP-header进行控制，可以实现对跨域资源的权限管理功能。在之前的CORS详解文章中，我们已经对CORS有了基本的解释。\n本文将会从netty的实现角度，讲解如何在netty中实现CORS。\n服务端的CORS配置\n熟悉CORS的朋友应该知道，CORS所有的操作都是在HTTP协议之上通过控制HTTP头来实",
+        "add_time": "1631842902",
+        "blog_type": "1",
+        "username": "ddean2009",
+        "add_time_str": "8小时前",
+        "nickname": "程序那些事",
+        "url": "https://blog.51cto.com/u_11256213/3926882",
+        "userUrl": "https://blog.51cto.com/u_11256213",
+        "pv": 977,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/9b90f566a7b645c85f9ad24b4846eb2f.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13515470",
+        "blog_id": "3925601",
+        "cate_id": "54",
+        "abstract": "大数据梦工厂（0008MapReduce中Shuffle和排序机制解析）(https://mp.weixin.qq.com/s/vn3TlLOJoyZ5nnBCYJK7cg)1ShuffleMapReduce确保每个Reducer的输入都是按key排序。系统执行排序，将Map的输出作为输入传给Reducer的过程称为Shuffle。!data_flow.png(https://s2.51cto.c",
+        "add_time": "1631808094",
+        "blog_type": "1",
+        "username": "小左先森",
+        "add_time_str": "2天前",
+        "nickname": "小左先森",
+        "url": "https://blog.51cto.com/u_13525470/3925601",
+        "userUrl": "https://blog.51cto.com/u_13525470",
+        "pv": 354,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/dace8437586fcd4bd74c08f71540ace9.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11421505",
+        "blog_id": "3925589",
+        "cate_id": "64",
+        "abstract": "一个平平无奇的合并函数面试的时候面试官大概率会出一个平平无奇的小问题来热热身，比如说写一个合并函数，读者估计会觉得：就这？不到30s就可以写好了一份利用递归实现的对象合并，代码如下：javascriptfunctionmerge(target,source){for(letkeyinsource){if(keyinsource&&keyintarget){merge(targetkey,sourc",
+        "add_time": "1631807566",
+        "blog_type": "1",
+        "username": "阿tree",
+        "add_time_str": "2天前",
+        "nickname": "yerikyu",
+        "url": "https://blog.51cto.com/nu1l/3925589",
+        "userUrl": "https://blog.51cto.com/nu1l",
+        "pv": 812,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/20210916/1631807391540200.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11623329",
+        "blog_id": "3925548",
+        "cate_id": "72",
+        "abstract": "人手永远是不够的，事情是永远做不完的\n很多人会以为任务都只能被安排，这可能跟一直以来项目进度都比较赶有关。每个任务都是由上头派发下来的，久而久之就会以为只能被动接受任务。但是其实是可以主动去找事情做的的。\n人手永远是不够的，事情永远是做不完的，如果有自己想做的事情，不要想着等忙完当前的任务，我就去做。这样可能永远也等不到，因为任务会一个接着一个来，可以早点去请求自己想要的任务，或者自己创造任务（不",
+        "add_time": "1631806425",
+        "blog_type": "1",
+        "username": "guku001",
+        "add_time_str": "2天前",
+        "nickname": "三年游戏人",
+        "url": "https://blog.51cto.com/u_11633329/3925548",
+        "userUrl": "https://blog.51cto.com/u_11633329",
+        "pv": 351,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/1467910318493eddc52ca2bc67f389d4.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15329425",
+        "blog_id": "3925474",
+        "cate_id": "8",
+        "abstract": ".NET MAUI 会在今年晚些时候发布，我们也很高兴和大家一起分享我们对 Xamarin Community Toolkit 的计划! 这包括 .NET MAUI Community Toolkit、Xamarin Community Toolkit 的向后兼容版本以及当前 Xamarin Community Toolkit 的淘汰计划。",
+        "add_time": "1631804801",
+        "blog_type": "1",
+        "username": "mb6120b21f7c881",
+        "add_time_str": "7天前",
+        "nickname": "MSReactor",
+        "url": "https://blog.51cto.com/u_15339425/3925474",
+        "userUrl": "https://blog.51cto.com/u_15339425",
+        "pv": 530,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/38e6deb4bda8d6f0c20d8c4a6e5e2b67.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11633026",
+        "blog_id": "3925383",
+        "cate_id": "107",
+        "abstract": "一起玩转树莓派（15）——干簧管传感器  干簧管传感器又被称为磁簧开关。顾名思义，其功能是可以感知周围的磁场从而改变开关的状态。本次实验，我们使用的干簧管传感器模块如下图所示：!(https://s4.51cto.com/images/blog/202109/16/0aa6d70a80ba61b174d22d972d601fe6.png?xossprocess=image/watermark,si",
+        "add_time": "1631802563",
+        "blog_type": "1",
+        "username": "珲少",
+        "add_time_str": "2天前",
+        "nickname": "珲少",
+        "url": "https://blog.51cto.com/u_11643026/3925383",
+        "userUrl": "https://blog.51cto.com/u_11643026",
+        "pv": 267,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "10996243",
+        "blog_id": "3925372",
+        "cate_id": "72",
+        "abstract": "MySQL的主从复制一般在大规模的项目上，都是使用MySQL的复制功能来创建MySQL的主从集群的。主要是可以通过为数据库服务器配置一个或多个备库的方式来进行数据同步。复制的功能不仅有利于构建高性能应用，同时也是高可用、可扩展性、灾难恢复、备份以及数据仓库等工作的基础。通过MySQL的主从复制来实现读写分离，相比单点数据库又读又写来说，提升了业务系统性能，优化了用户体验。另外通过主从复制实现了数据",
+        "add_time": "1631802296",
+        "blog_type": "1",
+        "username": "569590478",
+        "add_time_str": "2天前",
+        "nickname": "李浩宇Alex",
+        "url": "https://blog.51cto.com/alex4dream/3925372",
+        "userUrl": "https://blog.51cto.com/alex4dream",
+        "pv": 904,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "1443840",
+        "blog_id": "3925340",
+        "cate_id": "44",
+        "abstract": "云环境可以使用云盘或者RDS做为共享存储一、配置NFS1、节点ip31_NFSSERVER集群KM01192.168.1.31KM02192.168.1.32node01192.168.1.71node02192.168.1.722、创建目录、配置mkdirp/data/nfsshare/mysqlmkdirp/data/nacos/chmod777/dataroot@km01nfssharevi",
+        "add_time": "1631801139",
+        "blog_type": "1",
+        "username": "boboaiai",
+        "add_time_str": "2天前",
+        "nickname": "X糊涂仙儿",
+        "url": "https://blog.51cto.com/keep11/3925340",
+        "userUrl": "https://blog.51cto.com/keep11",
+        "pv": 760,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/20210916/1631800896934326.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15270062",
+        "blog_id": "3925171",
+        "cate_id": "15",
+        "abstract": "当线程处于就绪状态时，等待被分配到CPU时间片然后才真正开始执行，由于每个线程开始的时间不确定，因此也就不能唯一确定线程的执行顺序。如果想让线程有序执行，主要思路就是让子线程的执行在主线程中串行化，想到了以下几种让线程按顺序执行的方法",
+        "add_time": "1631794588",
+        "blog_type": "1",
+        "username": "mb60d190476cbb2",
+        "add_time_str": "3天前",
+        "nickname": "熬夜加班写代码",
+        "url": "https://blog.51cto.com/u_15280062/3925171",
+        "userUrl": "https://blog.51cto.com/u_15280062",
+        "pv": 887,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/f66ab6f246d115b44d436fb9de4dd3b8.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15350778",
+        "blog_id": "3925167",
+        "cate_id": "15",
+        "abstract": "Redis数据类型大全：“5种基础”数据类型+“3种特殊”数据类型",
+        "add_time": "1631794445",
+        "blog_type": "1",
+        "username": "mb613886ef6f7cf",
+        "add_time_str": "1天前",
+        "nickname": "Java_程_序_员",
+        "url": "https://blog.51cto.com/u_15360778/3925167",
+        "userUrl": "https://blog.51cto.com/u_15360778",
+        "pv": 778,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/f8a8a369948d154fc3662969be3d30f7.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14848414",
+        "blog_id": "3925070",
+        "cate_id": "94",
+        "abstract": "简介\nOpenMLDB是针对AI场景优化的开源数据库项目，实现了数据与计算一致性的离线MPP场景和在线OLTP场景计算引擎。MPP引擎可基于Spark实现，并通过拓展Spark源码实现数倍性能提升。本文主要解释OpenMLDB如何基于Spark来解决窗口数据的倾斜问题。\n背景\n数据倾斜是在大数据处理场景下常见的一种现象，它由某一分区数据量过大造成。数据倾斜会导致倾斜分区与其他分区的运算时间产生巨大",
+        "add_time": "1631790299",
+        "blog_type": "1",
+        "username": "范式AI云",
+        "add_time_str": "3天前",
+        "nickname": "第四范式开发者社区",
+        "url": "https://blog.51cto.com/u_14858414/3925070",
+        "userUrl": "https://blog.51cto.com/u_14858414",
+        "pv": 650,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/2592aa3ff4c8b2cc7a74adcae178c6c2.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14207107",
+        "blog_id": "3925060",
+        "cate_id": "6",
+        "abstract": "【背景】\n\n实际开发代码管理比较混乱，缺乏统一的集中管理。\n部署升级纯手工，流程重复繁琐，容易出错。\n代码质量没有管理，对于基本错误不能在第一时间发现。\n\n【架构】\n\n针对以上情况，采取git管理代码，搭建企业内部自己的gitlab来管理上传代码。\n使用jenkins从gitlab拉取代码并进行编译，持续构建发布。\n采取jenkins的插件sonar scanne分析源码，将结果上传到sonarq",
+        "add_time": "1631789859",
+        "blog_type": "1",
+        "username": "wx5c760b03be34e",
+        "add_time_str": "3天前",
+        "nickname": "倾听小糖宝",
+        "url": "https://blog.51cto.com/ktian/3925060",
+        "userUrl": "https://blog.51cto.com/ktian",
+        "pv": 657,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/1b8df8e4cf28379b35f171637424ac86.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "6904692",
+        "blog_id": "3924795",
+        "cate_id": "44",
+        "abstract": "通过对Zabbix应用组件/服务进程的学习，方便我们掌握其原理，更好的应用在生产环境中。",
+        "add_time": "1631786203",
+        "blog_type": "1",
+        "username": "qingfenghaha",
+        "add_time_str": "3天前",
+        "nickname": "qingfenghaha",
+        "url": "https://blog.51cto.com/lifulin/3924795",
+        "userUrl": "https://blog.51cto.com/lifulin",
+        "pv": 459,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/d28bd556c6028b38826e79f2617ccbeb.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "10942117",
+        "blog_id": "3924235",
+        "cate_id": "44",
+        "abstract": "具体步骤如下：最好不要在各环境的jumper机器上执行，因为jumper机器资源有限（CPU、MEM），进程会发生卡死或进度缓慢情况，可以将efs挂载到资源相对充足的其他节点上执行。python首先建立一个空白文件夹mkdirp/tmp/blank创建screen窗口screenSdeleteefs25查看创建的screenscreenls进入上面创建的screenscreenrdeleteefs",
+        "add_time": "1631784892",
+        "blog_type": "1",
+        "username": "520逍遥",
+        "add_time_str": "3天前",
+        "nickname": "品鉴初心",
+        "url": "https://blog.51cto.com/wutengfei/3924235",
+        "userUrl": "https://blog.51cto.com/wutengfei",
+        "pv": 1090,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/224647038e5d6fc6be98a4de28321c17.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3923792",
+        "cate_id": "6",
+        "abstract": "本人是JS攻城狮，java属于初学状态，写的不好的地方还请多多指教！\n为什么决定开发一个星座运势服务卡片？\n主要有以下几点：\n   1. 老年人和女性都比较关心运势，卡片类型刚好能够清晰展示运势，同时也不需要太多操作，与服务卡片理念契合（弱交互、强服务）。\n   2. 聚合api上刚好有相应接口，可以直接调用，比较方便。\n",
+        "add_time": "1631784204",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "5天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3923792",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 999,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/666dff35a34613af381e0521c620ae15.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1447637",
+        "blog_id": "3922968",
+        "cate_id": "6",
+        "abstract": "有一段时间没写博客了，要解释的话可以找一万种借口......曾经坚持写博客的习惯，如今随着年龄的增长也是“时过境迁”，只能说人在某个阶段认定铁打的事情，随着生活的磨砺有可能被自己推翻并自我嘲讽......\n好吧，别跑题了，今天的主题是聊存储不是聊人生，你既然点了我的文章链接进来了，那就证明您是带着问题或者学习的目的来的，我也不能让你们失望而归。下面就进入正题吧：\n \nIT技术的发展一年比一年快，传",
+        "add_time": "1631782802",
+        "blog_type": "1",
+        "username": "CaiJiantao",
+        "add_time_str": "3天前",
+        "nickname": "CaiJiantao",
+        "url": "https://blog.51cto.com/jettcai/3922968",
+        "userUrl": "https://blog.51cto.com/jettcai",
+        "pv": 703,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/16/83bb74328d6ceb999b6277e561cb4ea1.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15073739",
+        "blog_id": "3922764",
+        "cate_id": "15",
+        "abstract": "项目简介\n动力节点老师讲解的图书馆管理小项目，主要目的是让学完JavaSE的同学对之前掌握的知识做一些运用，该项目应用的知识点包括下面内容：\n面向对象的思想\n分层的思想\n接口\n异常\n集合\n日期处理\nStream流\nIO流\n反射\nJavafx（了解）\ncss（了解）\n通过学习本项目，可以巩固JavaSE的知识，对于后续的学习来说可以起到很好的衔接。\n环境搭建\n1. 基本信息\n开发工具：IDEA\nJD",
+        "add_time": "1631782471",
+        "blog_type": "1",
+        "username": "mb5fff9f708e6fc",
+        "add_time_str": "3天前",
+        "nickname": "link可",
+        "url": "https://blog.51cto.com/u_15083739/3922764",
+        "userUrl": "https://blog.51cto.com/u_15083739",
+        "pv": 485,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/16/18163061a1d0cf1fc323a0dbbaa6e92d.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15347269",
+        "blog_id": "3921456",
+        "cate_id": "15",
+        "abstract": "一、树莓派是什么？\nRaspberry Pi(中文名为树莓派,简写为 RPi，(或者 RasPi / RPI) 是为学习计算机编程教育而设计)，只有信用卡大小的微型电脑，其系统基于 Linux。随着 Windows 10 IoT 的发布，我们也将可以用上运行 Windows 的树莓派。\n自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。别看其外表“娇小”，内“心”却很强大，视频、音频等",
+        "add_time": "1631780932",
+        "blog_type": "1",
+        "username": "wx6135b7119b442",
+        "add_time_str": "3天前",
+        "nickname": "不想秃头",
+        "url": "https://blog.51cto.com/u_15357269/3921456",
+        "userUrl": "https://blog.51cto.com/u_15357269",
+        "pv": 3113,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/72217385437f9a17383db7be5faec261.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1187822",
+        "blog_id": "3940526",
+        "cate_id": "15",
+        "abstract": "Eclipse创建SpringBoot聚合项目;Eclipse创建SpringBoot父子工程;",
+        "add_time": "1631866010",
+        "blog_type": "1",
+        "username": "pannijingling",
+        "add_time_str": "2天前",
+        "nickname": "pannijingling",
+        "url": "https://blog.51cto.com/abcd/3940526",
+        "userUrl": "https://blog.51cto.com/abcd",
+        "pv": 918,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/20210917/1631846498249405.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14805220",
+        "blog_id": "3939896",
+        "cate_id": "99",
+        "abstract": "当下，产业互联网推动着各传统行业不断加速技术革新，向数字化转型。作为服务产业与互联网融合的典型，房产服务行业在近年迎来了新的增长契机。线上用户的快速增长让用户对房产服务行业的数字化转型提出了更多要求。华为分析服务6.2.0版本新增租房买房行业报告与埋点模板，以用户为核心，聚焦用户线上看房关键行为，帮助房产服务平台提升用户的房源兴趣与敏感度，有效缩短租房买房交易周期。一、数据概览了解整体增长数据概览",
+        "add_time": "1631865109",
+        "blog_type": "1",
+        "username": "HW工程师",
+        "add_time_str": "2天前",
+        "nickname": "华为HMSCore",
+        "url": "https://blog.51cto.com/u_14815220/3939896",
+        "userUrl": "https://blog.51cto.com/u_14815220",
+        "pv": 322,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "15296230",
+        "blog_id": "3939573",
+        "cate_id": "15",
+        "abstract": "有这样一个业务，上课的时候老师给表现好的学生送小花花，\n\n每节课都能统计出某个学生收到的花的总数。\n\n按照产品需求，前端点击送花按钮后30秒内是不能再次送花的(信任的基础)\n\n(上课老师送花行为都进行统计了，可见互联网是多么可怕)",
+        "add_time": "1631864708",
+        "blog_type": "1",
+        "username": "wx60f2c847af77d",
+        "add_time_str": "2天前",
+        "nickname": "跟着小苏不加班",
+        "url": "https://blog.51cto.com/u_15306230/3939573",
+        "userUrl": "https://blog.51cto.com/u_15306230",
+        "pv": 871,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/6ef7ccd4f8ddac31e790f1805b58b522.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "2344243",
+        "blog_id": "3937438",
+        "cate_id": "44",
+        "abstract": "笔者现有生产环境是centos6+bind9.8.2+namedmanager解决方案，该方案平常使用十分稳定和优良，但由于centos平台无法再升级bind版本了，导致漏扫一直能扫出各种dns漏洞，必须寻找替代方案。",
+        "add_time": "1631862150",
+        "blog_type": "1",
+        "username": "侠云",
+        "add_time_str": "2天前",
+        "nickname": "侠云",
+        "url": "https://blog.51cto.com/tseyuzen/3937438",
+        "userUrl": "https://blog.51cto.com/tseyuzen",
+        "pv": 854,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3937051",
+        "cate_id": "6",
+        "abstract": " 为了实现最初的梦想：通过 Python 降低鸿蒙设备开发的门槛。最近我又开始躁动起来，大刀阔斧的在之前工作的基础上做了 Python SDK 的设计和开发。终于，现在可以直接用 Python 来控制鸿蒙开发板外设了。我之前的帖子《&lt;&lt;鸿蒙开发板外设控制&gt;&gt;直播图文版（2020.10.28）》中涉及的案例都可以用 Python 完成！大家看完这篇帖子后，可以尝试使用 C 和 Python 来实现相同的功能，体会一下不同。",
+        "add_time": "1631861673",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "2天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3937051",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 903,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/70cb05c0d45dcf9134e4d5ca2f763c8d.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15171572",
+        "blog_id": "3936671",
+        "cate_id": "15",
+        "abstract": "前言\n一个 “好的” 数据驱动框架，需要从“时间”、“人力”、“收益”这三个方面出发，做好“取舍”。\n不能由于被测业务系统发生一些变更，就导致花费了几个小时的脚本无法执行。同时，我们需要看到“收益”，不能为了总想看到100%的成功，而减少必须做的工作，这导致可能都需要进行大量的维护。\n所以做好这三个方面的平衡并不容易，想要提高 ROI（投入产出比），我们必须从两方面入手：\n\n减少开发成本。\n\n\n增",
+        "add_time": "1631861260",
+        "blog_type": "1",
+        "username": "wx6086232c36932",
+        "add_time_str": "2天前",
+        "nickname": "高楼（Zee）",
+        "url": "https://blog.51cto.com/u_15181572/3936671",
+        "userUrl": "https://blog.51cto.com/u_15181572",
+        "pv": 352,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a66e2ea8de78f39a862f2f6e2a420a3c.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11659225",
+        "blog_id": "3933858",
+        "cate_id": "6",
+        "abstract": "       本文主要关于BGP的逻辑而不是具体实验，所以我就随便配了几幅图，大多还是文字哈。由于BGP太过复杂，本文只是第一部介绍作品，以后会有更新！        ",
+        "add_time": "1631857469",
+        "blog_type": "1",
+        "username": "JimKing001",
+        "add_time_str": "2天前",
+        "nickname": "XOSG",
+        "url": "https://blog.51cto.com/xosg/3933858",
+        "userUrl": "https://blog.51cto.com/xosg",
+        "pv": 128,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/11/2bca347b8243d4b522da39748be9bf49.gif?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15009240",
+        "blog_id": "3933418",
+        "cate_id": "15",
+        "abstract": "一、简介Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。服务端基于SpringBoot和SpringCloud开发，打包后可以直接运行，不需要额外安装Tomcat等应用容器。Java客户端不依赖任何框架，能够运行于所有Java运行时环境，同时对Spri",
+        "add_time": "1631856632",
+        "blog_type": "1",
+        "username": "牧小农",
+        "add_time_str": "2天前",
+        "nickname": "牧小农",
+        "url": "https://blog.51cto.com/u_15019240/3933418",
+        "userUrl": "https://blog.51cto.com/u_15019240",
+        "pv": 1037,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a7f1e24edd8a5ea83d5d8a195aa4e676.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "7922852",
+        "blog_id": "3933380",
+        "cate_id": "15",
+        "abstract": "作者：threedayman来源：恒生LIGHT云社区(https://developer.hs.net/thread/1393\"恒生LIGHT云社区\")理论知识一个类型从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期将会经历加载（Loading）、验证（Verification）、准备（Preparation）、解析（Resolution）、初始化（Initialization）、",
+        "add_time": "1631855653",
+        "blog_type": "1",
+        "username": "Gloria小凡",
+        "add_time_str": "2天前",
+        "nickname": "恒生LIGHT云社区",
+        "url": "https://blog.51cto.com/u_7932852/3933380",
+        "userUrl": "https://blog.51cto.com/u_7932852",
+        "pv": 327,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "13778458",
+        "blog_id": "3932763",
+        "cate_id": "52",
+        "abstract": "k8s集群架构\npod创建流程\nansible部署k8s\n部署dashboard",
+        "add_time": "1631850503",
+        "blog_type": "1",
+        "username": "ruyinote",
+        "add_time_str": "2天前",
+        "nickname": "ruyinote",
+        "url": "https://blog.51cto.com/u_13788458/3932763",
+        "userUrl": "https://blog.51cto.com/u_13788458",
+        "pv": 1199,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/f6995fd678143864b813d8ad8a77af9a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13551855",
+        "blog_id": "3927909",
+        "cate_id": "52",
+        "abstract": "LXC于2008年首次引入，从其之前的Solaris Containers（或Solaris Zones）和FreeBSD jail中采用了其大部分功能。\nLXC无需创建完整的虚拟机，而是可以通过自己的进程和网络空间来实现虚拟环境。通过使用命名空间来强制执行进程隔离，并利用内核本身的控制组（cgroup）功能，该功能可以限制，说明和隔离一个或多个进程的CPU，内存，磁盘I / O和网络使用情况。将",
+        "add_time": "1631844263",
+        "blog_type": "1",
+        "username": "行云宝宝",
+        "add_time_str": "2天前",
+        "nickname": "行云创新",
+        "url": "https://blog.51cto.com/u_13561855/3927909",
+        "userUrl": "https://blog.51cto.com/u_13561855",
+        "pv": 387,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/1bd6c084e7eb998a9d40e41a74e2cee7.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13978495",
+        "blog_id": "3927470",
+        "cate_id": "101",
+        "abstract": "今天来实现一个3D打砖块游戏，非常的简单，是正经的入门教程，但是学到的都是Unity游戏开发中重点的内容，下面一起来了解下吧。新建3D游戏项目打开UnityHub软件，我们新建一个3D项目，新建好之后双击打开就好了。!https://s4.51cto.com/images/blog/202109/17/92b29934d878affaf387fd6b0b70651e.png?xossprocess",
+        "add_time": "1631843642",
+        "blog_type": "1",
+        "username": "qq5ba9d6df05219",
+        "add_time_str": "2天前",
+        "nickname": "qq5ba9d6df05219",
+        "url": "https://blog.51cto.com/u_13988495/3927470",
+        "userUrl": "https://blog.51cto.com/u_13988495",
+        "pv": 293,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/32481f61cfd24fed2190dea1078f8c1a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11246213",
+        "blog_id": "3926882",
+        "cate_id": "15",
+        "abstract": "简介\nCORS的全称是跨域资源共享，他是一个基于HTTP-header检测的机制，通过对HTTP-header进行控制，可以实现对跨域资源的权限管理功能。在之前的CORS详解文章中，我们已经对CORS有了基本的解释。\n本文将会从netty的实现角度，讲解如何在netty中实现CORS。\n服务端的CORS配置\n熟悉CORS的朋友应该知道，CORS所有的操作都是在HTTP协议之上通过控制HTTP头来实",
+        "add_time": "1631842902",
+        "blog_type": "1",
+        "username": "ddean2009",
+        "add_time_str": "2天前",
+        "nickname": "程序那些事",
+        "url": "https://blog.51cto.com/u_11256213/3926882",
+        "userUrl": "https://blog.51cto.com/u_11256213",
+        "pv": 977,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/9b90f566a7b645c85f9ad24b4846eb2f.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13515470",
+        "blog_id": "3925601",
+        "cate_id": "54",
+        "abstract": "大数据梦工厂（0008MapReduce中Shuffle和排序机制解析）(https://mp.weixin.qq.com/s/vn3TlLOJoyZ5nnBCYJK7cg)1ShuffleMapReduce确保每个Reducer的输入都是按key排序。系统执行排序，将Map的输出作为输入传给Reducer的过程称为Shuffle。!data_flow.png(https://s2.51cto.c",
+        "add_time": "1631808094",
+        "blog_type": "1",
+        "username": "小左先森",
+        "add_time_str": "2天前",
+        "nickname": "小左先森",
+        "url": "https://blog.51cto.com/u_13525470/3925601",
+        "userUrl": "https://blog.51cto.com/u_13525470",
+        "pv": 354,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/dace8437586fcd4bd74c08f71540ace9.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11421505",
+        "blog_id": "3925589",
+        "cate_id": "64",
+        "abstract": "一个平平无奇的合并函数面试的时候面试官大概率会出一个平平无奇的小问题来热热身，比如说写一个合并函数，读者估计会觉得：就这？不到30s就可以写好了一份利用递归实现的对象合并，代码如下：javascriptfunctionmerge(target,source){for(letkeyinsource){if(keyinsource&&keyintarget){merge(targetkey,sourc",
+        "add_time": "1631807566",
+        "blog_type": "1",
+        "username": "阿tree",
+        "add_time_str": "2天前",
+        "nickname": "yerikyu",
+        "url": "https://blog.51cto.com/nu1l/3925589",
+        "userUrl": "https://blog.51cto.com/nu1l",
+        "pv": 812,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/20210916/1631807391540200.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11623329",
+        "blog_id": "3925548",
+        "cate_id": "72",
+        "abstract": "人手永远是不够的，事情是永远做不完的\n很多人会以为任务都只能被安排，这可能跟一直以来项目进度都比较赶有关。每个任务都是由上头派发下来的，久而久之就会以为只能被动接受任务。但是其实是可以主动去找事情做的的。\n人手永远是不够的，事情永远是做不完的，如果有自己想做的事情，不要想着等忙完当前的任务，我就去做。这样可能永远也等不到，因为任务会一个接着一个来，可以早点去请求自己想要的任务，或者自己创造任务（不",
+        "add_time": "1631806425",
+        "blog_type": "1",
+        "username": "guku001",
+        "add_time_str": "2天前",
+        "nickname": "三年游戏人",
+        "url": "https://blog.51cto.com/u_11633329/3925548",
+        "userUrl": "https://blog.51cto.com/u_11633329",
+        "pv": 351,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/1467910318493eddc52ca2bc67f389d4.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15329425",
+        "blog_id": "3925474",
+        "cate_id": "8",
+        "abstract": ".NET MAUI 会在今年晚些时候发布，我们也很高兴和大家一起分享我们对 Xamarin Community Toolkit 的计划! 这包括 .NET MAUI Community Toolkit、Xamarin Community Toolkit 的向后兼容版本以及当前 Xamarin Community Toolkit 的淘汰计划。",
+        "add_time": "1631804801",
+        "blog_type": "1",
+        "username": "mb6120b21f7c881",
+        "add_time_str": "2天前",
+        "nickname": "MSReactor",
+        "url": "https://blog.51cto.com/u_15339425/3925474",
+        "userUrl": "https://blog.51cto.com/u_15339425",
+        "pv": 530,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/38e6deb4bda8d6f0c20d8c4a6e5e2b67.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11633026",
+        "blog_id": "3925383",
+        "cate_id": "107",
+        "abstract": "一起玩转树莓派（15）——干簧管传感器  干簧管传感器又被称为磁簧开关。顾名思义，其功能是可以感知周围的磁场从而改变开关的状态。本次实验，我们使用的干簧管传感器模块如下图所示：!(https://s4.51cto.com/images/blog/202109/16/0aa6d70a80ba61b174d22d972d601fe6.png?xossprocess=image/watermark,si",
+        "add_time": "1631802563",
+        "blog_type": "1",
+        "username": "珲少",
+        "add_time_str": "2天前",
+        "nickname": "珲少",
+        "url": "https://blog.51cto.com/u_11643026/3925383",
+        "userUrl": "https://blog.51cto.com/u_11643026",
+        "pv": 267,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "10996243",
+        "blog_id": "3925372",
+        "cate_id": "72",
+        "abstract": "MySQL的主从复制一般在大规模的项目上，都是使用MySQL的复制功能来创建MySQL的主从集群的。主要是可以通过为数据库服务器配置一个或多个备库的方式来进行数据同步。复制的功能不仅有利于构建高性能应用，同时也是高可用、可扩展性、灾难恢复、备份以及数据仓库等工作的基础。通过MySQL的主从复制来实现读写分离，相比单点数据库又读又写来说，提升了业务系统性能，优化了用户体验。另外通过主从复制实现了数据",
+        "add_time": "1631802296",
+        "blog_type": "1",
+        "username": "569590478",
+        "add_time_str": "2天前",
+        "nickname": "李浩宇Alex",
+        "url": "https://blog.51cto.com/alex4dream/3925372",
+        "userUrl": "https://blog.51cto.com/alex4dream",
+        "pv": 904,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "1443840",
+        "blog_id": "3925340",
+        "cate_id": "44",
+        "abstract": "云环境可以使用云盘或者RDS做为共享存储一、配置NFS1、节点ip31_NFSSERVER集群KM01192.168.1.31KM02192.168.1.32node01192.168.1.71node02192.168.1.722、创建目录、配置mkdirp/data/nfsshare/mysqlmkdirp/data/nacos/chmod777/dataroot@km01nfssharevi",
+        "add_time": "1631801139",
+        "blog_type": "1",
+        "username": "boboaiai",
+        "add_time_str": "2天前",
+        "nickname": "X糊涂仙儿",
+        "url": "https://blog.51cto.com/keep11/3925340",
+        "userUrl": "https://blog.51cto.com/keep11",
+        "pv": 760,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/20210916/1631800896934326.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15270062",
+        "blog_id": "3925171",
+        "cate_id": "15",
+        "abstract": "当线程处于就绪状态时，等待被分配到CPU时间片然后才真正开始执行，由于每个线程开始的时间不确定，因此也就不能唯一确定线程的执行顺序。如果想让线程有序执行，主要思路就是让子线程的执行在主线程中串行化，想到了以下几种让线程按顺序执行的方法",
+        "add_time": "1631794588",
+        "blog_type": "1",
+        "username": "mb60d190476cbb2",
+        "add_time_str": "3天前",
+        "nickname": "熬夜加班写代码",
+        "url": "https://blog.51cto.com/u_15280062/3925171",
+        "userUrl": "https://blog.51cto.com/u_15280062",
+        "pv": 887,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/f66ab6f246d115b44d436fb9de4dd3b8.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15350778",
+        "blog_id": "3925167",
+        "cate_id": "15",
+        "abstract": "Redis数据类型大全：“5种基础”数据类型+“3种特殊”数据类型",
+        "add_time": "1631794445",
+        "blog_type": "1",
+        "username": "mb613886ef6f7cf",
+        "add_time_str": "3天前",
+        "nickname": "Java_程_序_员",
+        "url": "https://blog.51cto.com/u_15360778/3925167",
+        "userUrl": "https://blog.51cto.com/u_15360778",
+        "pv": 778,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/f8a8a369948d154fc3662969be3d30f7.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14848414",
+        "blog_id": "3925070",
+        "cate_id": "94",
+        "abstract": "简介\nOpenMLDB是针对AI场景优化的开源数据库项目，实现了数据与计算一致性的离线MPP场景和在线OLTP场景计算引擎。MPP引擎可基于Spark实现，并通过拓展Spark源码实现数倍性能提升。本文主要解释OpenMLDB如何基于Spark来解决窗口数据的倾斜问题。\n背景\n数据倾斜是在大数据处理场景下常见的一种现象，它由某一分区数据量过大造成。数据倾斜会导致倾斜分区与其他分区的运算时间产生巨大",
+        "add_time": "1631790299",
+        "blog_type": "1",
+        "username": "范式AI云",
+        "add_time_str": "3天前",
+        "nickname": "第四范式开发者社区",
+        "url": "https://blog.51cto.com/u_14858414/3925070",
+        "userUrl": "https://blog.51cto.com/u_14858414",
+        "pv": 650,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/2592aa3ff4c8b2cc7a74adcae178c6c2.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14207107",
+        "blog_id": "3925060",
+        "cate_id": "6",
+        "abstract": "【背景】\n\n实际开发代码管理比较混乱，缺乏统一的集中管理。\n部署升级纯手工，流程重复繁琐，容易出错。\n代码质量没有管理，对于基本错误不能在第一时间发现。\n\n【架构】\n\n针对以上情况，采取git管理代码，搭建企业内部自己的gitlab来管理上传代码。\n使用jenkins从gitlab拉取代码并进行编译，持续构建发布。\n采取jenkins的插件sonar scanne分析源码，将结果上传到sonarq",
+        "add_time": "1631789859",
+        "blog_type": "1",
+        "username": "wx5c760b03be34e",
+        "add_time_str": "3天前",
+        "nickname": "倾听小糖宝",
+        "url": "https://blog.51cto.com/ktian/3925060",
+        "userUrl": "https://blog.51cto.com/ktian",
+        "pv": 657,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/1b8df8e4cf28379b35f171637424ac86.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "6904692",
+        "blog_id": "3924795",
+        "cate_id": "44",
+        "abstract": "通过对Zabbix应用组件/服务进程的学习，方便我们掌握其原理，更好的应用在生产环境中。",
+        "add_time": "1631786203",
+        "blog_type": "1",
+        "username": "qingfenghaha",
+        "add_time_str": "3天前",
+        "nickname": "qingfenghaha",
+        "url": "https://blog.51cto.com/lifulin/3924795",
+        "userUrl": "https://blog.51cto.com/lifulin",
+        "pv": 459,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/d28bd556c6028b38826e79f2617ccbeb.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "10942117",
+        "blog_id": "3924235",
+        "cate_id": "44",
+        "abstract": "具体步骤如下：最好不要在各环境的jumper机器上执行，因为jumper机器资源有限（CPU、MEM），进程会发生卡死或进度缓慢情况，可以将efs挂载到资源相对充足的其他节点上执行。python首先建立一个空白文件夹mkdirp/tmp/blank创建screen窗口screenSdeleteefs25查看创建的screenscreenls进入上面创建的screenscreenrdeleteefs",
+        "add_time": "1631784892",
+        "blog_type": "1",
+        "username": "520逍遥",
+        "add_time_str": "3天前",
+        "nickname": "品鉴初心",
+        "url": "https://blog.51cto.com/wutengfei/3924235",
+        "userUrl": "https://blog.51cto.com/wutengfei",
+        "pv": 1090,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/224647038e5d6fc6be98a4de28321c17.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3923792",
+        "cate_id": "6",
+        "abstract": "本人是JS攻城狮，java属于初学状态，写的不好的地方还请多多指教！\n为什么决定开发一个星座运势服务卡片？\n主要有以下几点：\n   1. 老年人和女性都比较关心运势，卡片类型刚好能够清晰展示运势，同时也不需要太多操作，与服务卡片理念契合（弱交互、强服务）。\n   2. 聚合api上刚好有相应接口，可以直接调用，比较方便。\n",
+        "add_time": "1631784204",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "3天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3923792",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 999,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/666dff35a34613af381e0521c620ae15.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1447637",
+        "blog_id": "3922968",
+        "cate_id": "6",
+        "abstract": "有一段时间没写博客了，要解释的话可以找一万种借口......曾经坚持写博客的习惯，如今随着年龄的增长也是“时过境迁”，只能说人在某个阶段认定铁打的事情，随着生活的磨砺有可能被自己推翻并自我嘲讽......\n好吧，别跑题了，今天的主题是聊存储不是聊人生，你既然点了我的文章链接进来了，那就证明您是带着问题或者学习的目的来的，我也不能让你们失望而归。下面就进入正题吧：\n \nIT技术的发展一年比一年快，传",
+        "add_time": "1631782802",
+        "blog_type": "1",
+        "username": "CaiJiantao",
+        "add_time_str": "3天前",
+        "nickname": "CaiJiantao",
+        "url": "https://blog.51cto.com/jettcai/3922968",
+        "userUrl": "https://blog.51cto.com/jettcai",
+        "pv": 703,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/16/83bb74328d6ceb999b6277e561cb4ea1.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15073739",
+        "blog_id": "3922764",
+        "cate_id": "15",
+        "abstract": "项目简介\n动力节点老师讲解的图书馆管理小项目，主要目的是让学完JavaSE的同学对之前掌握的知识做一些运用，该项目应用的知识点包括下面内容：\n面向对象的思想\n分层的思想\n接口\n异常\n集合\n日期处理\nStream流\nIO流\n反射\nJavafx（了解）\ncss（了解）\n通过学习本项目，可以巩固JavaSE的知识，对于后续的学习来说可以起到很好的衔接。\n环境搭建\n1. 基本信息\n开发工具：IDEA\nJD",
+        "add_time": "1631782471",
+        "blog_type": "1",
+        "username": "mb5fff9f708e6fc",
+        "add_time_str": "3天前",
+        "nickname": "link可",
+        "url": "https://blog.51cto.com/u_15083739/3922764",
+        "userUrl": "https://blog.51cto.com/u_15083739",
+        "pv": 485,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/16/18163061a1d0cf1fc323a0dbbaa6e92d.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15347269",
+        "blog_id": "3921456",
+        "cate_id": "15",
+        "abstract": "一、树莓派是什么？\nRaspberry Pi(中文名为树莓派,简写为 RPi，(或者 RasPi / RPI) 是为学习计算机编程教育而设计)，只有信用卡大小的微型电脑，其系统基于 Linux。随着 Windows 10 IoT 的发布，我们也将可以用上运行 Windows 的树莓派。\n自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。别看其外表“娇小”，内“心”却很强大，视频、音频等",
+        "add_time": "1631780932",
+        "blog_type": "1",
+        "username": "wx6135b7119b442",
+        "add_time_str": "3天前",
+        "nickname": "不想秃头",
+        "url": "https://blog.51cto.com/u_15357269/3921456",
+        "userUrl": "https://blog.51cto.com/u_15357269",
+        "pv": 3113,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/72217385437f9a17383db7be5faec261.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1187822",
+        "blog_id": "3940526",
+        "cate_id": "15",
+        "abstract": "Eclipse创建SpringBoot聚合项目;Eclipse创建SpringBoot父子工程;",
+        "add_time": "1631866010",
+        "blog_type": "1",
+        "username": "pannijingling",
+        "add_time_str": "2天前",
+        "nickname": "pannijingling",
+        "url": "https://blog.51cto.com/abcd/3940526",
+        "userUrl": "https://blog.51cto.com/abcd",
+        "pv": 918,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/20210917/1631846498249405.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14805220",
+        "blog_id": "3939896",
+        "cate_id": "99",
+        "abstract": "当下，产业互联网推动着各传统行业不断加速技术革新，向数字化转型。作为服务产业与互联网融合的典型，房产服务行业在近年迎来了新的增长契机。线上用户的快速增长让用户对房产服务行业的数字化转型提出了更多要求。华为分析服务6.2.0版本新增租房买房行业报告与埋点模板，以用户为核心，聚焦用户线上看房关键行为，帮助房产服务平台提升用户的房源兴趣与敏感度，有效缩短租房买房交易周期。一、数据概览了解整体增长数据概览",
+        "add_time": "1631865109",
+        "blog_type": "1",
+        "username": "HW工程师",
+        "add_time_str": "2天前",
+        "nickname": "华为HMSCore",
+        "url": "https://blog.51cto.com/u_14815220/3939896",
+        "userUrl": "https://blog.51cto.com/u_14815220",
+        "pv": 322,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "15296230",
+        "blog_id": "3939573",
+        "cate_id": "15",
+        "abstract": "有这样一个业务，上课的时候老师给表现好的学生送小花花，\n\n每节课都能统计出某个学生收到的花的总数。\n\n按照产品需求，前端点击送花按钮后30秒内是不能再次送花的(信任的基础)\n\n(上课老师送花行为都进行统计了，可见互联网是多么可怕)",
+        "add_time": "1631864708",
+        "blog_type": "1",
+        "username": "wx60f2c847af77d",
+        "add_time_str": "2天前",
+        "nickname": "跟着小苏不加班",
+        "url": "https://blog.51cto.com/u_15306230/3939573",
+        "userUrl": "https://blog.51cto.com/u_15306230",
+        "pv": 871,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/6ef7ccd4f8ddac31e790f1805b58b522.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "2344243",
+        "blog_id": "3937438",
+        "cate_id": "44",
+        "abstract": "笔者现有生产环境是centos6+bind9.8.2+namedmanager解决方案，该方案平常使用十分稳定和优良，但由于centos平台无法再升级bind版本了，导致漏扫一直能扫出各种dns漏洞，必须寻找替代方案。",
+        "add_time": "1631862150",
+        "blog_type": "1",
+        "username": "侠云",
+        "add_time_str": "2天前",
+        "nickname": "侠云",
+        "url": "https://blog.51cto.com/tseyuzen/3937438",
+        "userUrl": "https://blog.51cto.com/tseyuzen",
+        "pv": 854,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3937051",
+        "cate_id": "6",
+        "abstract": " 为了实现最初的梦想：通过 Python 降低鸿蒙设备开发的门槛。最近我又开始躁动起来，大刀阔斧的在之前工作的基础上做了 Python SDK 的设计和开发。终于，现在可以直接用 Python 来控制鸿蒙开发板外设了。我之前的帖子《&lt;&lt;鸿蒙开发板外设控制&gt;&gt;直播图文版（2020.10.28）》中涉及的案例都可以用 Python 完成！大家看完这篇帖子后，可以尝试使用 C 和 Python 来实现相同的功能，体会一下不同。",
+        "add_time": "1631861673",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "2天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3937051",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 903,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/70cb05c0d45dcf9134e4d5ca2f763c8d.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15171572",
+        "blog_id": "3936671",
+        "cate_id": "15",
+        "abstract": "前言\n一个 “好的” 数据驱动框架，需要从“时间”、“人力”、“收益”这三个方面出发，做好“取舍”。\n不能由于被测业务系统发生一些变更，就导致花费了几个小时的脚本无法执行。同时，我们需要看到“收益”，不能为了总想看到100%的成功，而减少必须做的工作，这导致可能都需要进行大量的维护。\n所以做好这三个方面的平衡并不容易，想要提高 ROI（投入产出比），我们必须从两方面入手：\n\n减少开发成本。\n\n\n增",
+        "add_time": "1631861260",
+        "blog_type": "1",
+        "username": "wx6086232c36932",
+        "add_time_str": "2天前",
+        "nickname": "高楼（Zee）",
+        "url": "https://blog.51cto.com/u_15181572/3936671",
+        "userUrl": "https://blog.51cto.com/u_15181572",
+        "pv": 352,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a66e2ea8de78f39a862f2f6e2a420a3c.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11659225",
+        "blog_id": "3933858",
+        "cate_id": "6",
+        "abstract": "       本文主要关于BGP的逻辑而不是具体实验，所以我就随便配了几幅图，大多还是文字哈。由于BGP太过复杂，本文只是第一部介绍作品，以后会有更新！        ",
+        "add_time": "1631857469",
+        "blog_type": "1",
+        "username": "JimKing001",
+        "add_time_str": "2天前",
+        "nickname": "XOSG",
+        "url": "https://blog.51cto.com/xosg/3933858",
+        "userUrl": "https://blog.51cto.com/xosg",
+        "pv": 128,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/11/2bca347b8243d4b522da39748be9bf49.gif?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15009240",
+        "blog_id": "3933418",
+        "cate_id": "15",
+        "abstract": "一、简介Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。服务端基于SpringBoot和SpringCloud开发，打包后可以直接运行，不需要额外安装Tomcat等应用容器。Java客户端不依赖任何框架，能够运行于所有Java运行时环境，同时对Spri",
+        "add_time": "1631856632",
+        "blog_type": "1",
+        "username": "牧小农",
+        "add_time_str": "2天前",
+        "nickname": "牧小农",
+        "url": "https://blog.51cto.com/u_15019240/3933418",
+        "userUrl": "https://blog.51cto.com/u_15019240",
+        "pv": 1037,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a7f1e24edd8a5ea83d5d8a195aa4e676.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "7922852",
+        "blog_id": "3933380",
+        "cate_id": "15",
+        "abstract": "作者：threedayman来源：恒生LIGHT云社区(https://developer.hs.net/thread/1393\"恒生LIGHT云社区\")理论知识一个类型从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期将会经历加载（Loading）、验证（Verification）、准备（Preparation）、解析（Resolution）、初始化（Initialization）、",
+        "add_time": "1631855653",
+        "blog_type": "1",
+        "username": "Gloria小凡",
+        "add_time_str": "2天前",
+        "nickname": "恒生LIGHT云社区",
+        "url": "https://blog.51cto.com/u_7932852/3933380",
+        "userUrl": "https://blog.51cto.com/u_7932852",
+        "pv": 327,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "13778458",
+        "blog_id": "3932763",
+        "cate_id": "52",
+        "abstract": "k8s集群架构\npod创建流程\nansible部署k8s\n部署dashboard",
+        "add_time": "1631850503",
+        "blog_type": "1",
+        "username": "ruyinote",
+        "add_time_str": "2天前",
+        "nickname": "ruyinote",
+        "url": "https://blog.51cto.com/u_13788458/3932763",
+        "userUrl": "https://blog.51cto.com/u_13788458",
+        "pv": 1199,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/f6995fd678143864b813d8ad8a77af9a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13551855",
+        "blog_id": "3927909",
+        "cate_id": "52",
+        "abstract": "LXC于2008年首次引入，从其之前的Solaris Containers（或Solaris Zones）和FreeBSD jail中采用了其大部分功能。\nLXC无需创建完整的虚拟机，而是可以通过自己的进程和网络空间来实现虚拟环境。通过使用命名空间来强制执行进程隔离，并利用内核本身的控制组（cgroup）功能，该功能可以限制，说明和隔离一个或多个进程的CPU，内存，磁盘I / O和网络使用情况。将",
+        "add_time": "1631844263",
+        "blog_type": "1",
+        "username": "行云宝宝",
+        "add_time_str": "2天前",
+        "nickname": "行云创新",
+        "url": "https://blog.51cto.com/u_13561855/3927909",
+        "userUrl": "https://blog.51cto.com/u_13561855",
+        "pv": 387,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/1bd6c084e7eb998a9d40e41a74e2cee7.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13978495",
+        "blog_id": "3927470",
+        "cate_id": "101",
+        "abstract": "今天来实现一个3D打砖块游戏，非常的简单，是正经的入门教程，但是学到的都是Unity游戏开发中重点的内容，下面一起来了解下吧。新建3D游戏项目打开UnityHub软件，我们新建一个3D项目，新建好之后双击打开就好了。!https://s4.51cto.com/images/blog/202109/17/92b29934d878affaf387fd6b0b70651e.png?xossprocess",
+        "add_time": "1631843642",
+        "blog_type": "1",
+        "username": "qq5ba9d6df05219",
+        "add_time_str": "2天前",
+        "nickname": "qq5ba9d6df05219",
+        "url": "https://blog.51cto.com/u_13988495/3927470",
+        "userUrl": "https://blog.51cto.com/u_13988495",
+        "pv": 293,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/32481f61cfd24fed2190dea1078f8c1a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11246213",
+        "blog_id": "3926882",
+        "cate_id": "15",
+        "abstract": "简介\nCORS的全称是跨域资源共享，他是一个基于HTTP-header检测的机制，通过对HTTP-header进行控制，可以实现对跨域资源的权限管理功能。在之前的CORS详解文章中，我们已经对CORS有了基本的解释。\n本文将会从netty的实现角度，讲解如何在netty中实现CORS。\n服务端的CORS配置\n熟悉CORS的朋友应该知道，CORS所有的操作都是在HTTP协议之上通过控制HTTP头来实",
+        "add_time": "1631842902",
+        "blog_type": "1",
+        "username": "ddean2009",
+        "add_time_str": "2天前",
+        "nickname": "程序那些事",
+        "url": "https://blog.51cto.com/u_11256213/3926882",
+        "userUrl": "https://blog.51cto.com/u_11256213",
+        "pv": 977,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/9b90f566a7b645c85f9ad24b4846eb2f.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13515470",
+        "blog_id": "3925601",
+        "cate_id": "54",
+        "abstract": "大数据梦工厂（0008MapReduce中Shuffle和排序机制解析）(https://mp.weixin.qq.com/s/vn3TlLOJoyZ5nnBCYJK7cg)1ShuffleMapReduce确保每个Reducer的输入都是按key排序。系统执行排序，将Map的输出作为输入传给Reducer的过程称为Shuffle。!data_flow.png(https://s2.51cto.c",
+        "add_time": "1631808094",
+        "blog_type": "1",
+        "username": "小左先森",
+        "add_time_str": "2天前",
+        "nickname": "小左先森",
+        "url": "https://blog.51cto.com/u_13525470/3925601",
+        "userUrl": "https://blog.51cto.com/u_13525470",
+        "pv": 354,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/dace8437586fcd4bd74c08f71540ace9.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11421505",
+        "blog_id": "3925589",
+        "cate_id": "64",
+        "abstract": "一个平平无奇的合并函数面试的时候面试官大概率会出一个平平无奇的小问题来热热身，比如说写一个合并函数，读者估计会觉得：就这？不到30s就可以写好了一份利用递归实现的对象合并，代码如下：javascriptfunctionmerge(target,source){for(letkeyinsource){if(keyinsource&&keyintarget){merge(targetkey,sourc",
+        "add_time": "1631807566",
+        "blog_type": "1",
+        "username": "阿tree",
+        "add_time_str": "2天前",
+        "nickname": "yerikyu",
+        "url": "https://blog.51cto.com/nu1l/3925589",
+        "userUrl": "https://blog.51cto.com/nu1l",
+        "pv": 812,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/20210916/1631807391540200.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11623329",
+        "blog_id": "3925548",
+        "cate_id": "72",
+        "abstract": "人手永远是不够的，事情是永远做不完的\n很多人会以为任务都只能被安排，这可能跟一直以来项目进度都比较赶有关。每个任务都是由上头派发下来的，久而久之就会以为只能被动接受任务。但是其实是可以主动去找事情做的的。\n人手永远是不够的，事情永远是做不完的，如果有自己想做的事情，不要想着等忙完当前的任务，我就去做。这样可能永远也等不到，因为任务会一个接着一个来，可以早点去请求自己想要的任务，或者自己创造任务（不",
+        "add_time": "1631806425",
+        "blog_type": "1",
+        "username": "guku001",
+        "add_time_str": "2天前",
+        "nickname": "三年游戏人",
+        "url": "https://blog.51cto.com/u_11633329/3925548",
+        "userUrl": "https://blog.51cto.com/u_11633329",
+        "pv": 351,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/1467910318493eddc52ca2bc67f389d4.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15329425",
+        "blog_id": "3925474",
+        "cate_id": "8",
+        "abstract": ".NET MAUI 会在今年晚些时候发布，我们也很高兴和大家一起分享我们对 Xamarin Community Toolkit 的计划! 这包括 .NET MAUI Community Toolkit、Xamarin Community Toolkit 的向后兼容版本以及当前 Xamarin Community Toolkit 的淘汰计划。",
+        "add_time": "1631804801",
+        "blog_type": "1",
+        "username": "mb6120b21f7c881",
+        "add_time_str": "2天前",
+        "nickname": "MSReactor",
+        "url": "https://blog.51cto.com/u_15339425/3925474",
+        "userUrl": "https://blog.51cto.com/u_15339425",
+        "pv": 530,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/38e6deb4bda8d6f0c20d8c4a6e5e2b67.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11633026",
+        "blog_id": "3925383",
+        "cate_id": "107",
+        "abstract": "一起玩转树莓派（15）——干簧管传感器  干簧管传感器又被称为磁簧开关。顾名思义，其功能是可以感知周围的磁场从而改变开关的状态。本次实验，我们使用的干簧管传感器模块如下图所示：!(https://s4.51cto.com/images/blog/202109/16/0aa6d70a80ba61b174d22d972d601fe6.png?xossprocess=image/watermark,si",
+        "add_time": "1631802563",
+        "blog_type": "1",
+        "username": "珲少",
+        "add_time_str": "2天前",
+        "nickname": "珲少",
+        "url": "https://blog.51cto.com/u_11643026/3925383",
+        "userUrl": "https://blog.51cto.com/u_11643026",
+        "pv": 267,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "10996243",
+        "blog_id": "3925372",
+        "cate_id": "72",
+        "abstract": "MySQL的主从复制一般在大规模的项目上，都是使用MySQL的复制功能来创建MySQL的主从集群的。主要是可以通过为数据库服务器配置一个或多个备库的方式来进行数据同步。复制的功能不仅有利于构建高性能应用，同时也是高可用、可扩展性、灾难恢复、备份以及数据仓库等工作的基础。通过MySQL的主从复制来实现读写分离，相比单点数据库又读又写来说，提升了业务系统性能，优化了用户体验。另外通过主从复制实现了数据",
+        "add_time": "1631802296",
+        "blog_type": "1",
+        "username": "569590478",
+        "add_time_str": "2天前",
+        "nickname": "李浩宇Alex",
+        "url": "https://blog.51cto.com/alex4dream/3925372",
+        "userUrl": "https://blog.51cto.com/alex4dream",
+        "pv": 904,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "1443840",
+        "blog_id": "3925340",
+        "cate_id": "44",
+        "abstract": "云环境可以使用云盘或者RDS做为共享存储一、配置NFS1、节点ip31_NFSSERVER集群KM01192.168.1.31KM02192.168.1.32node01192.168.1.71node02192.168.1.722、创建目录、配置mkdirp/data/nfsshare/mysqlmkdirp/data/nacos/chmod777/dataroot@km01nfssharevi",
+        "add_time": "1631801139",
+        "blog_type": "1",
+        "username": "boboaiai",
+        "add_time_str": "2天前",
+        "nickname": "X糊涂仙儿",
+        "url": "https://blog.51cto.com/keep11/3925340",
+        "userUrl": "https://blog.51cto.com/keep11",
+        "pv": 760,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/20210916/1631800896934326.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15270062",
+        "blog_id": "3925171",
+        "cate_id": "15",
+        "abstract": "当线程处于就绪状态时，等待被分配到CPU时间片然后才真正开始执行，由于每个线程开始的时间不确定，因此也就不能唯一确定线程的执行顺序。如果想让线程有序执行，主要思路就是让子线程的执行在主线程中串行化，想到了以下几种让线程按顺序执行的方法",
+        "add_time": "1631794588",
+        "blog_type": "1",
+        "username": "mb60d190476cbb2",
+        "add_time_str": "3天前",
+        "nickname": "熬夜加班写代码",
+        "url": "https://blog.51cto.com/u_15280062/3925171",
+        "userUrl": "https://blog.51cto.com/u_15280062",
+        "pv": 887,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/f66ab6f246d115b44d436fb9de4dd3b8.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15350778",
+        "blog_id": "3925167",
+        "cate_id": "15",
+        "abstract": "Redis数据类型大全：“5种基础”数据类型+“3种特殊”数据类型",
+        "add_time": "1631794445",
+        "blog_type": "1",
+        "username": "mb613886ef6f7cf",
+        "add_time_str": "3天前",
+        "nickname": "Java_程_序_员",
+        "url": "https://blog.51cto.com/u_15360778/3925167",
+        "userUrl": "https://blog.51cto.com/u_15360778",
+        "pv": 778,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/f8a8a369948d154fc3662969be3d30f7.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14848414",
+        "blog_id": "3925070",
+        "cate_id": "94",
+        "abstract": "简介\nOpenMLDB是针对AI场景优化的开源数据库项目，实现了数据与计算一致性的离线MPP场景和在线OLTP场景计算引擎。MPP引擎可基于Spark实现，并通过拓展Spark源码实现数倍性能提升。本文主要解释OpenMLDB如何基于Spark来解决窗口数据的倾斜问题。\n背景\n数据倾斜是在大数据处理场景下常见的一种现象，它由某一分区数据量过大造成。数据倾斜会导致倾斜分区与其他分区的运算时间产生巨大",
+        "add_time": "1631790299",
+        "blog_type": "1",
+        "username": "范式AI云",
+        "add_time_str": "3天前",
+        "nickname": "第四范式开发者社区",
+        "url": "https://blog.51cto.com/u_14858414/3925070",
+        "userUrl": "https://blog.51cto.com/u_14858414",
+        "pv": 650,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/2592aa3ff4c8b2cc7a74adcae178c6c2.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14207107",
+        "blog_id": "3925060",
+        "cate_id": "6",
+        "abstract": "【背景】\n\n实际开发代码管理比较混乱，缺乏统一的集中管理。\n部署升级纯手工，流程重复繁琐，容易出错。\n代码质量没有管理，对于基本错误不能在第一时间发现。\n\n【架构】\n\n针对以上情况，采取git管理代码，搭建企业内部自己的gitlab来管理上传代码。\n使用jenkins从gitlab拉取代码并进行编译，持续构建发布。\n采取jenkins的插件sonar scanne分析源码，将结果上传到sonarq",
+        "add_time": "1631789859",
+        "blog_type": "1",
+        "username": "wx5c760b03be34e",
+        "add_time_str": "3天前",
+        "nickname": "倾听小糖宝",
+        "url": "https://blog.51cto.com/ktian/3925060",
+        "userUrl": "https://blog.51cto.com/ktian",
+        "pv": 657,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/1b8df8e4cf28379b35f171637424ac86.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "6904692",
+        "blog_id": "3924795",
+        "cate_id": "44",
+        "abstract": "通过对Zabbix应用组件/服务进程的学习，方便我们掌握其原理，更好的应用在生产环境中。",
+        "add_time": "1631786203",
+        "blog_type": "1",
+        "username": "qingfenghaha",
+        "add_time_str": "3天前",
+        "nickname": "qingfenghaha",
+        "url": "https://blog.51cto.com/lifulin/3924795",
+        "userUrl": "https://blog.51cto.com/lifulin",
+        "pv": 459,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/d28bd556c6028b38826e79f2617ccbeb.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "10942117",
+        "blog_id": "3924235",
+        "cate_id": "44",
+        "abstract": "具体步骤如下：最好不要在各环境的jumper机器上执行，因为jumper机器资源有限（CPU、MEM），进程会发生卡死或进度缓慢情况，可以将efs挂载到资源相对充足的其他节点上执行。python首先建立一个空白文件夹mkdirp/tmp/blank创建screen窗口screenSdeleteefs25查看创建的screenscreenls进入上面创建的screenscreenrdeleteefs",
+        "add_time": "1631784892",
+        "blog_type": "1",
+        "username": "520逍遥",
+        "add_time_str": "3天前",
+        "nickname": "品鉴初心",
+        "url": "https://blog.51cto.com/wutengfei/3924235",
+        "userUrl": "https://blog.51cto.com/wutengfei",
+        "pv": 1090,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/224647038e5d6fc6be98a4de28321c17.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3923792",
+        "cate_id": "6",
+        "abstract": "本人是JS攻城狮，java属于初学状态，写的不好的地方还请多多指教！\n为什么决定开发一个星座运势服务卡片？\n主要有以下几点：\n   1. 老年人和女性都比较关心运势，卡片类型刚好能够清晰展示运势，同时也不需要太多操作，与服务卡片理念契合（弱交互、强服务）。\n   2. 聚合api上刚好有相应接口，可以直接调用，比较方便。\n",
+        "add_time": "1631784204",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "3天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3923792",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 999,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/666dff35a34613af381e0521c620ae15.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1447637",
+        "blog_id": "3922968",
+        "cate_id": "6",
+        "abstract": "有一段时间没写博客了，要解释的话可以找一万种借口......曾经坚持写博客的习惯，如今随着年龄的增长也是“时过境迁”，只能说人在某个阶段认定铁打的事情，随着生活的磨砺有可能被自己推翻并自我嘲讽......\n好吧，别跑题了，今天的主题是聊存储不是聊人生，你既然点了我的文章链接进来了，那就证明您是带着问题或者学习的目的来的，我也不能让你们失望而归。下面就进入正题吧：\n \nIT技术的发展一年比一年快，传",
+        "add_time": "1631782802",
+        "blog_type": "1",
+        "username": "CaiJiantao",
+        "add_time_str": "3天前",
+        "nickname": "CaiJiantao",
+        "url": "https://blog.51cto.com/jettcai/3922968",
+        "userUrl": "https://blog.51cto.com/jettcai",
+        "pv": 703,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/16/83bb74328d6ceb999b6277e561cb4ea1.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15073739",
+        "blog_id": "3922764",
+        "cate_id": "15",
+        "abstract": "项目简介\n动力节点老师讲解的图书馆管理小项目，主要目的是让学完JavaSE的同学对之前掌握的知识做一些运用，该项目应用的知识点包括下面内容：\n面向对象的思想\n分层的思想\n接口\n异常\n集合\n日期处理\nStream流\nIO流\n反射\nJavafx（了解）\ncss（了解）\n通过学习本项目，可以巩固JavaSE的知识，对于后续的学习来说可以起到很好的衔接。\n环境搭建\n1. 基本信息\n开发工具：IDEA\nJD",
+        "add_time": "1631782471",
+        "blog_type": "1",
+        "username": "mb5fff9f708e6fc",
+        "add_time_str": "3天前",
+        "nickname": "link可",
+        "url": "https://blog.51cto.com/u_15083739/3922764",
+        "userUrl": "https://blog.51cto.com/u_15083739",
+        "pv": 485,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/16/18163061a1d0cf1fc323a0dbbaa6e92d.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15347269",
+        "blog_id": "3921456",
+        "cate_id": "15",
+        "abstract": "一、树莓派是什么？\nRaspberry Pi(中文名为树莓派,简写为 RPi，(或者 RasPi / RPI) 是为学习计算机编程教育而设计)，只有信用卡大小的微型电脑，其系统基于 Linux。随着 Windows 10 IoT 的发布，我们也将可以用上运行 Windows 的树莓派。\n自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。别看其外表“娇小”，内“心”却很强大，视频、音频等",
+        "add_time": "1631780932",
+        "blog_type": "1",
+        "username": "wx6135b7119b442",
+        "add_time_str": "3天前",
+        "nickname": "不想秃头",
+        "url": "https://blog.51cto.com/u_15357269/3921456",
+        "userUrl": "https://blog.51cto.com/u_15357269",
+        "pv": 3113,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/72217385437f9a17383db7be5faec261.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1187822",
+        "blog_id": "3940526",
+        "cate_id": "15",
+        "abstract": "Eclipse创建SpringBoot聚合项目;Eclipse创建SpringBoot父子工程;",
+        "add_time": "1631866010",
+        "blog_type": "1",
+        "username": "pannijingling",
+        "add_time_str": "2天前",
+        "nickname": "pannijingling",
+        "url": "https://blog.51cto.com/abcd/3940526",
+        "userUrl": "https://blog.51cto.com/abcd",
+        "pv": 918,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/20210917/1631846498249405.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14805220",
+        "blog_id": "3939896",
+        "cate_id": "99",
+        "abstract": "当下，产业互联网推动着各传统行业不断加速技术革新，向数字化转型。作为服务产业与互联网融合的典型，房产服务行业在近年迎来了新的增长契机。线上用户的快速增长让用户对房产服务行业的数字化转型提出了更多要求。华为分析服务6.2.0版本新增租房买房行业报告与埋点模板，以用户为核心，聚焦用户线上看房关键行为，帮助房产服务平台提升用户的房源兴趣与敏感度，有效缩短租房买房交易周期。一、数据概览了解整体增长数据概览",
+        "add_time": "1631865109",
+        "blog_type": "1",
+        "username": "HW工程师",
+        "add_time_str": "2天前",
+        "nickname": "华为HMSCore",
+        "url": "https://blog.51cto.com/u_14815220/3939896",
+        "userUrl": "https://blog.51cto.com/u_14815220",
+        "pv": 322,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "15296230",
+        "blog_id": "3939573",
+        "cate_id": "15",
+        "abstract": "有这样一个业务，上课的时候老师给表现好的学生送小花花，\n\n每节课都能统计出某个学生收到的花的总数。\n\n按照产品需求，前端点击送花按钮后30秒内是不能再次送花的(信任的基础)\n\n(上课老师送花行为都进行统计了，可见互联网是多么可怕)",
+        "add_time": "1631864708",
+        "blog_type": "1",
+        "username": "wx60f2c847af77d",
+        "add_time_str": "2天前",
+        "nickname": "跟着小苏不加班",
+        "url": "https://blog.51cto.com/u_15306230/3939573",
+        "userUrl": "https://blog.51cto.com/u_15306230",
+        "pv": 871,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/6ef7ccd4f8ddac31e790f1805b58b522.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "2344243",
+        "blog_id": "3937438",
+        "cate_id": "44",
+        "abstract": "笔者现有生产环境是centos6+bind9.8.2+namedmanager解决方案，该方案平常使用十分稳定和优良，但由于centos平台无法再升级bind版本了，导致漏扫一直能扫出各种dns漏洞，必须寻找替代方案。",
+        "add_time": "1631862150",
+        "blog_type": "1",
+        "username": "侠云",
+        "add_time_str": "2天前",
+        "nickname": "侠云",
+        "url": "https://blog.51cto.com/tseyuzen/3937438",
+        "userUrl": "https://blog.51cto.com/tseyuzen",
+        "pv": 854,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3937051",
+        "cate_id": "6",
+        "abstract": " 为了实现最初的梦想：通过 Python 降低鸿蒙设备开发的门槛。最近我又开始躁动起来，大刀阔斧的在之前工作的基础上做了 Python SDK 的设计和开发。终于，现在可以直接用 Python 来控制鸿蒙开发板外设了。我之前的帖子《&lt;&lt;鸿蒙开发板外设控制&gt;&gt;直播图文版（2020.10.28）》中涉及的案例都可以用 Python 完成！大家看完这篇帖子后，可以尝试使用 C 和 Python 来实现相同的功能，体会一下不同。",
+        "add_time": "1631861673",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "2天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3937051",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 903,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/70cb05c0d45dcf9134e4d5ca2f763c8d.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15171572",
+        "blog_id": "3936671",
+        "cate_id": "15",
+        "abstract": "前言\n一个 “好的” 数据驱动框架，需要从“时间”、“人力”、“收益”这三个方面出发，做好“取舍”。\n不能由于被测业务系统发生一些变更，就导致花费了几个小时的脚本无法执行。同时，我们需要看到“收益”，不能为了总想看到100%的成功，而减少必须做的工作，这导致可能都需要进行大量的维护。\n所以做好这三个方面的平衡并不容易，想要提高 ROI（投入产出比），我们必须从两方面入手：\n\n减少开发成本。\n\n\n增",
+        "add_time": "1631861260",
+        "blog_type": "1",
+        "username": "wx6086232c36932",
+        "add_time_str": "2天前",
+        "nickname": "高楼（Zee）",
+        "url": "https://blog.51cto.com/u_15181572/3936671",
+        "userUrl": "https://blog.51cto.com/u_15181572",
+        "pv": 352,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a66e2ea8de78f39a862f2f6e2a420a3c.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11659225",
+        "blog_id": "3933858",
+        "cate_id": "6",
+        "abstract": "       本文主要关于BGP的逻辑而不是具体实验，所以我就随便配了几幅图，大多还是文字哈。由于BGP太过复杂，本文只是第一部介绍作品，以后会有更新！        ",
+        "add_time": "1631857469",
+        "blog_type": "1",
+        "username": "JimKing001",
+        "add_time_str": "2天前",
+        "nickname": "XOSG",
+        "url": "https://blog.51cto.com/xosg/3933858",
+        "userUrl": "https://blog.51cto.com/xosg",
+        "pv": 128,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/11/2bca347b8243d4b522da39748be9bf49.gif?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15009240",
+        "blog_id": "3933418",
+        "cate_id": "15",
+        "abstract": "一、简介Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。服务端基于SpringBoot和SpringCloud开发，打包后可以直接运行，不需要额外安装Tomcat等应用容器。Java客户端不依赖任何框架，能够运行于所有Java运行时环境，同时对Spri",
+        "add_time": "1631856632",
+        "blog_type": "1",
+        "username": "牧小农",
+        "add_time_str": "2天前",
+        "nickname": "牧小农",
+        "url": "https://blog.51cto.com/u_15019240/3933418",
+        "userUrl": "https://blog.51cto.com/u_15019240",
+        "pv": 1037,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a7f1e24edd8a5ea83d5d8a195aa4e676.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "7922852",
+        "blog_id": "3933380",
+        "cate_id": "15",
+        "abstract": "作者：threedayman来源：恒生LIGHT云社区(https://developer.hs.net/thread/1393\"恒生LIGHT云社区\")理论知识一个类型从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期将会经历加载（Loading）、验证（Verification）、准备（Preparation）、解析（Resolution）、初始化（Initialization）、",
+        "add_time": "1631855653",
+        "blog_type": "1",
+        "username": "Gloria小凡",
+        "add_time_str": "2天前",
+        "nickname": "恒生LIGHT云社区",
+        "url": "https://blog.51cto.com/u_7932852/3933380",
+        "userUrl": "https://blog.51cto.com/u_7932852",
+        "pv": 327,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "13778458",
+        "blog_id": "3932763",
+        "cate_id": "52",
+        "abstract": "k8s集群架构\npod创建流程\nansible部署k8s\n部署dashboard",
+        "add_time": "1631850503",
+        "blog_type": "1",
+        "username": "ruyinote",
+        "add_time_str": "2天前",
+        "nickname": "ruyinote",
+        "url": "https://blog.51cto.com/u_13788458/3932763",
+        "userUrl": "https://blog.51cto.com/u_13788458",
+        "pv": 1199,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/f6995fd678143864b813d8ad8a77af9a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13551855",
+        "blog_id": "3927909",
+        "cate_id": "52",
+        "abstract": "LXC于2008年首次引入，从其之前的Solaris Containers（或Solaris Zones）和FreeBSD jail中采用了其大部分功能。\nLXC无需创建完整的虚拟机，而是可以通过自己的进程和网络空间来实现虚拟环境。通过使用命名空间来强制执行进程隔离，并利用内核本身的控制组（cgroup）功能，该功能可以限制，说明和隔离一个或多个进程的CPU，内存，磁盘I / O和网络使用情况。将",
+        "add_time": "1631844263",
+        "blog_type": "1",
+        "username": "行云宝宝",
+        "add_time_str": "2天前",
+        "nickname": "行云创新",
+        "url": "https://blog.51cto.com/u_13561855/3927909",
+        "userUrl": "https://blog.51cto.com/u_13561855",
+        "pv": 387,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/1bd6c084e7eb998a9d40e41a74e2cee7.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13978495",
+        "blog_id": "3927470",
+        "cate_id": "101",
+        "abstract": "今天来实现一个3D打砖块游戏，非常的简单，是正经的入门教程，但是学到的都是Unity游戏开发中重点的内容，下面一起来了解下吧。新建3D游戏项目打开UnityHub软件，我们新建一个3D项目，新建好之后双击打开就好了。!https://s4.51cto.com/images/blog/202109/17/92b29934d878affaf387fd6b0b70651e.png?xossprocess",
+        "add_time": "1631843642",
+        "blog_type": "1",
+        "username": "qq5ba9d6df05219",
+        "add_time_str": "2天前",
+        "nickname": "qq5ba9d6df05219",
+        "url": "https://blog.51cto.com/u_13988495/3927470",
+        "userUrl": "https://blog.51cto.com/u_13988495",
+        "pv": 293,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/32481f61cfd24fed2190dea1078f8c1a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11246213",
+        "blog_id": "3926882",
+        "cate_id": "15",
+        "abstract": "简介\nCORS的全称是跨域资源共享，他是一个基于HTTP-header检测的机制，通过对HTTP-header进行控制，可以实现对跨域资源的权限管理功能。在之前的CORS详解文章中，我们已经对CORS有了基本的解释。\n本文将会从netty的实现角度，讲解如何在netty中实现CORS。\n服务端的CORS配置\n熟悉CORS的朋友应该知道，CORS所有的操作都是在HTTP协议之上通过控制HTTP头来实",
+        "add_time": "1631842902",
+        "blog_type": "1",
+        "username": "ddean2009",
+        "add_time_str": "2天前",
+        "nickname": "程序那些事",
+        "url": "https://blog.51cto.com/u_11256213/3926882",
+        "userUrl": "https://blog.51cto.com/u_11256213",
+        "pv": 977,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/9b90f566a7b645c85f9ad24b4846eb2f.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13515470",
+        "blog_id": "3925601",
+        "cate_id": "54",
+        "abstract": "大数据梦工厂（0008MapReduce中Shuffle和排序机制解析）(https://mp.weixin.qq.com/s/vn3TlLOJoyZ5nnBCYJK7cg)1ShuffleMapReduce确保每个Reducer的输入都是按key排序。系统执行排序，将Map的输出作为输入传给Reducer的过程称为Shuffle。!data_flow.png(https://s2.51cto.c",
+        "add_time": "1631808094",
+        "blog_type": "1",
+        "username": "小左先森",
+        "add_time_str": "2天前",
+        "nickname": "小左先森",
+        "url": "https://blog.51cto.com/u_13525470/3925601",
+        "userUrl": "https://blog.51cto.com/u_13525470",
+        "pv": 354,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/dace8437586fcd4bd74c08f71540ace9.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11421505",
+        "blog_id": "3925589",
+        "cate_id": "64",
+        "abstract": "一个平平无奇的合并函数面试的时候面试官大概率会出一个平平无奇的小问题来热热身，比如说写一个合并函数，读者估计会觉得：就这？不到30s就可以写好了一份利用递归实现的对象合并，代码如下：javascriptfunctionmerge(target,source){for(letkeyinsource){if(keyinsource&&keyintarget){merge(targetkey,sourc",
+        "add_time": "1631807566",
+        "blog_type": "1",
+        "username": "阿tree",
+        "add_time_str": "2天前",
+        "nickname": "yerikyu",
+        "url": "https://blog.51cto.com/nu1l/3925589",
+        "userUrl": "https://blog.51cto.com/nu1l",
+        "pv": 812,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/20210916/1631807391540200.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11623329",
+        "blog_id": "3925548",
+        "cate_id": "72",
+        "abstract": "人手永远是不够的，事情是永远做不完的\n很多人会以为任务都只能被安排，这可能跟一直以来项目进度都比较赶有关。每个任务都是由上头派发下来的，久而久之就会以为只能被动接受任务。但是其实是可以主动去找事情做的的。\n人手永远是不够的，事情永远是做不完的，如果有自己想做的事情，不要想着等忙完当前的任务，我就去做。这样可能永远也等不到，因为任务会一个接着一个来，可以早点去请求自己想要的任务，或者自己创造任务（不",
+        "add_time": "1631806425",
+        "blog_type": "1",
+        "username": "guku001",
+        "add_time_str": "2天前",
+        "nickname": "三年游戏人",
+        "url": "https://blog.51cto.com/u_11633329/3925548",
+        "userUrl": "https://blog.51cto.com/u_11633329",
+        "pv": 351,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/1467910318493eddc52ca2bc67f389d4.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15329425",
+        "blog_id": "3925474",
+        "cate_id": "8",
+        "abstract": ".NET MAUI 会在今年晚些时候发布，我们也很高兴和大家一起分享我们对 Xamarin Community Toolkit 的计划! 这包括 .NET MAUI Community Toolkit、Xamarin Community Toolkit 的向后兼容版本以及当前 Xamarin Community Toolkit 的淘汰计划。",
+        "add_time": "1631804801",
+        "blog_type": "1",
+        "username": "mb6120b21f7c881",
+        "add_time_str": "2天前",
+        "nickname": "MSReactor",
+        "url": "https://blog.51cto.com/u_15339425/3925474",
+        "userUrl": "https://blog.51cto.com/u_15339425",
+        "pv": 530,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/38e6deb4bda8d6f0c20d8c4a6e5e2b67.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11633026",
+        "blog_id": "3925383",
+        "cate_id": "107",
+        "abstract": "一起玩转树莓派（15）——干簧管传感器  干簧管传感器又被称为磁簧开关。顾名思义，其功能是可以感知周围的磁场从而改变开关的状态。本次实验，我们使用的干簧管传感器模块如下图所示：!(https://s4.51cto.com/images/blog/202109/16/0aa6d70a80ba61b174d22d972d601fe6.png?xossprocess=image/watermark,si",
+        "add_time": "1631802563",
+        "blog_type": "1",
+        "username": "珲少",
+        "add_time_str": "2天前",
+        "nickname": "珲少",
+        "url": "https://blog.51cto.com/u_11643026/3925383",
+        "userUrl": "https://blog.51cto.com/u_11643026",
+        "pv": 267,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "10996243",
+        "blog_id": "3925372",
+        "cate_id": "72",
+        "abstract": "MySQL的主从复制一般在大规模的项目上，都是使用MySQL的复制功能来创建MySQL的主从集群的。主要是可以通过为数据库服务器配置一个或多个备库的方式来进行数据同步。复制的功能不仅有利于构建高性能应用，同时也是高可用、可扩展性、灾难恢复、备份以及数据仓库等工作的基础。通过MySQL的主从复制来实现读写分离，相比单点数据库又读又写来说，提升了业务系统性能，优化了用户体验。另外通过主从复制实现了数据",
+        "add_time": "1631802296",
+        "blog_type": "1",
+        "username": "569590478",
+        "add_time_str": "2天前",
+        "nickname": "李浩宇Alex",
+        "url": "https://blog.51cto.com/alex4dream/3925372",
+        "userUrl": "https://blog.51cto.com/alex4dream",
+        "pv": 904,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "1443840",
+        "blog_id": "3925340",
+        "cate_id": "44",
+        "abstract": "云环境可以使用云盘或者RDS做为共享存储一、配置NFS1、节点ip31_NFSSERVER集群KM01192.168.1.31KM02192.168.1.32node01192.168.1.71node02192.168.1.722、创建目录、配置mkdirp/data/nfsshare/mysqlmkdirp/data/nacos/chmod777/dataroot@km01nfssharevi",
+        "add_time": "1631801139",
+        "blog_type": "1",
+        "username": "boboaiai",
+        "add_time_str": "2天前",
+        "nickname": "X糊涂仙儿",
+        "url": "https://blog.51cto.com/keep11/3925340",
+        "userUrl": "https://blog.51cto.com/keep11",
+        "pv": 760,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/20210916/1631800896934326.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15270062",
+        "blog_id": "3925171",
+        "cate_id": "15",
+        "abstract": "当线程处于就绪状态时，等待被分配到CPU时间片然后才真正开始执行，由于每个线程开始的时间不确定，因此也就不能唯一确定线程的执行顺序。如果想让线程有序执行，主要思路就是让子线程的执行在主线程中串行化，想到了以下几种让线程按顺序执行的方法",
+        "add_time": "1631794588",
+        "blog_type": "1",
+        "username": "mb60d190476cbb2",
+        "add_time_str": "3天前",
+        "nickname": "熬夜加班写代码",
+        "url": "https://blog.51cto.com/u_15280062/3925171",
+        "userUrl": "https://blog.51cto.com/u_15280062",
+        "pv": 887,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/f66ab6f246d115b44d436fb9de4dd3b8.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15350778",
+        "blog_id": "3925167",
+        "cate_id": "15",
+        "abstract": "Redis数据类型大全：“5种基础”数据类型+“3种特殊”数据类型",
+        "add_time": "1631794445",
+        "blog_type": "1",
+        "username": "mb613886ef6f7cf",
+        "add_time_str": "3天前",
+        "nickname": "Java_程_序_员",
+        "url": "https://blog.51cto.com/u_15360778/3925167",
+        "userUrl": "https://blog.51cto.com/u_15360778",
+        "pv": 778,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/f8a8a369948d154fc3662969be3d30f7.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14848414",
+        "blog_id": "3925070",
+        "cate_id": "94",
+        "abstract": "简介\nOpenMLDB是针对AI场景优化的开源数据库项目，实现了数据与计算一致性的离线MPP场景和在线OLTP场景计算引擎。MPP引擎可基于Spark实现，并通过拓展Spark源码实现数倍性能提升。本文主要解释OpenMLDB如何基于Spark来解决窗口数据的倾斜问题。\n背景\n数据倾斜是在大数据处理场景下常见的一种现象，它由某一分区数据量过大造成。数据倾斜会导致倾斜分区与其他分区的运算时间产生巨大",
+        "add_time": "1631790299",
+        "blog_type": "1",
+        "username": "范式AI云",
+        "add_time_str": "3天前",
+        "nickname": "第四范式开发者社区",
+        "url": "https://blog.51cto.com/u_14858414/3925070",
+        "userUrl": "https://blog.51cto.com/u_14858414",
+        "pv": 650,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/2592aa3ff4c8b2cc7a74adcae178c6c2.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14207107",
+        "blog_id": "3925060",
+        "cate_id": "6",
+        "abstract": "【背景】\n\n实际开发代码管理比较混乱，缺乏统一的集中管理。\n部署升级纯手工，流程重复繁琐，容易出错。\n代码质量没有管理，对于基本错误不能在第一时间发现。\n\n【架构】\n\n针对以上情况，采取git管理代码，搭建企业内部自己的gitlab来管理上传代码。\n使用jenkins从gitlab拉取代码并进行编译，持续构建发布。\n采取jenkins的插件sonar scanne分析源码，将结果上传到sonarq",
+        "add_time": "1631789859",
+        "blog_type": "1",
+        "username": "wx5c760b03be34e",
+        "add_time_str": "3天前",
+        "nickname": "倾听小糖宝",
+        "url": "https://blog.51cto.com/ktian/3925060",
+        "userUrl": "https://blog.51cto.com/ktian",
+        "pv": 657,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/1b8df8e4cf28379b35f171637424ac86.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "6904692",
+        "blog_id": "3924795",
+        "cate_id": "44",
+        "abstract": "通过对Zabbix应用组件/服务进程的学习，方便我们掌握其原理，更好的应用在生产环境中。",
+        "add_time": "1631786203",
+        "blog_type": "1",
+        "username": "qingfenghaha",
+        "add_time_str": "3天前",
+        "nickname": "qingfenghaha",
+        "url": "https://blog.51cto.com/lifulin/3924795",
+        "userUrl": "https://blog.51cto.com/lifulin",
+        "pv": 459,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/d28bd556c6028b38826e79f2617ccbeb.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "10942117",
+        "blog_id": "3924235",
+        "cate_id": "44",
+        "abstract": "具体步骤如下：最好不要在各环境的jumper机器上执行，因为jumper机器资源有限（CPU、MEM），进程会发生卡死或进度缓慢情况，可以将efs挂载到资源相对充足的其他节点上执行。python首先建立一个空白文件夹mkdirp/tmp/blank创建screen窗口screenSdeleteefs25查看创建的screenscreenls进入上面创建的screenscreenrdeleteefs",
+        "add_time": "1631784892",
+        "blog_type": "1",
+        "username": "520逍遥",
+        "add_time_str": "3天前",
+        "nickname": "品鉴初心",
+        "url": "https://blog.51cto.com/wutengfei/3924235",
+        "userUrl": "https://blog.51cto.com/wutengfei",
+        "pv": 1090,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/224647038e5d6fc6be98a4de28321c17.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3923792",
+        "cate_id": "6",
+        "abstract": "本人是JS攻城狮，java属于初学状态，写的不好的地方还请多多指教！\n为什么决定开发一个星座运势服务卡片？\n主要有以下几点：\n   1. 老年人和女性都比较关心运势，卡片类型刚好能够清晰展示运势，同时也不需要太多操作，与服务卡片理念契合（弱交互、强服务）。\n   2. 聚合api上刚好有相应接口，可以直接调用，比较方便。\n",
+        "add_time": "1631784204",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "3天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3923792",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 999,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/666dff35a34613af381e0521c620ae15.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1447637",
+        "blog_id": "3922968",
+        "cate_id": "6",
+        "abstract": "有一段时间没写博客了，要解释的话可以找一万种借口......曾经坚持写博客的习惯，如今随着年龄的增长也是“时过境迁”，只能说人在某个阶段认定铁打的事情，随着生活的磨砺有可能被自己推翻并自我嘲讽......\n好吧，别跑题了，今天的主题是聊存储不是聊人生，你既然点了我的文章链接进来了，那就证明您是带着问题或者学习的目的来的，我也不能让你们失望而归。下面就进入正题吧：\n \nIT技术的发展一年比一年快，传",
+        "add_time": "1631782802",
+        "blog_type": "1",
+        "username": "CaiJiantao",
+        "add_time_str": "3天前",
+        "nickname": "CaiJiantao",
+        "url": "https://blog.51cto.com/jettcai/3922968",
+        "userUrl": "https://blog.51cto.com/jettcai",
+        "pv": 703,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/16/83bb74328d6ceb999b6277e561cb4ea1.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15073739",
+        "blog_id": "3922764",
+        "cate_id": "15",
+        "abstract": "项目简介\n动力节点老师讲解的图书馆管理小项目，主要目的是让学完JavaSE的同学对之前掌握的知识做一些运用，该项目应用的知识点包括下面内容：\n面向对象的思想\n分层的思想\n接口\n异常\n集合\n日期处理\nStream流\nIO流\n反射\nJavafx（了解）\ncss（了解）\n通过学习本项目，可以巩固JavaSE的知识，对于后续的学习来说可以起到很好的衔接。\n环境搭建\n1. 基本信息\n开发工具：IDEA\nJD",
+        "add_time": "1631782471",
+        "blog_type": "1",
+        "username": "mb5fff9f708e6fc",
+        "add_time_str": "3天前",
+        "nickname": "link可",
+        "url": "https://blog.51cto.com/u_15083739/3922764",
+        "userUrl": "https://blog.51cto.com/u_15083739",
+        "pv": 485,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/16/18163061a1d0cf1fc323a0dbbaa6e92d.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15347269",
+        "blog_id": "3921456",
+        "cate_id": "15",
+        "abstract": "一、树莓派是什么？\nRaspberry Pi(中文名为树莓派,简写为 RPi，(或者 RasPi / RPI) 是为学习计算机编程教育而设计)，只有信用卡大小的微型电脑，其系统基于 Linux。随着 Windows 10 IoT 的发布，我们也将可以用上运行 Windows 的树莓派。\n自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。别看其外表“娇小”，内“心”却很强大，视频、音频等",
+        "add_time": "1631780932",
+        "blog_type": "1",
+        "username": "wx6135b7119b442",
+        "add_time_str": "3天前",
+        "nickname": "不想秃头",
+        "url": "https://blog.51cto.com/u_15357269/3921456",
+        "userUrl": "https://blog.51cto.com/u_15357269",
+        "pv": 3113,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/72217385437f9a17383db7be5faec261.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1187822",
+        "blog_id": "3940526",
+        "cate_id": "15",
+        "abstract": "Eclipse创建SpringBoot聚合项目;Eclipse创建SpringBoot父子工程;",
+        "add_time": "1631866010",
+        "blog_type": "1",
+        "username": "pannijingling",
+        "add_time_str": "2天前",
+        "nickname": "pannijingling",
+        "url": "https://blog.51cto.com/abcd/3940526",
+        "userUrl": "https://blog.51cto.com/abcd",
+        "pv": 918,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/20210917/1631846498249405.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14805220",
+        "blog_id": "3939896",
+        "cate_id": "99",
+        "abstract": "当下，产业互联网推动着各传统行业不断加速技术革新，向数字化转型。作为服务产业与互联网融合的典型，房产服务行业在近年迎来了新的增长契机。线上用户的快速增长让用户对房产服务行业的数字化转型提出了更多要求。华为分析服务6.2.0版本新增租房买房行业报告与埋点模板，以用户为核心，聚焦用户线上看房关键行为，帮助房产服务平台提升用户的房源兴趣与敏感度，有效缩短租房买房交易周期。一、数据概览了解整体增长数据概览",
+        "add_time": "1631865109",
+        "blog_type": "1",
+        "username": "HW工程师",
+        "add_time_str": "2天前",
+        "nickname": "华为HMSCore",
+        "url": "https://blog.51cto.com/u_14815220/3939896",
+        "userUrl": "https://blog.51cto.com/u_14815220",
+        "pv": 322,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "15296230",
+        "blog_id": "3939573",
+        "cate_id": "15",
+        "abstract": "有这样一个业务，上课的时候老师给表现好的学生送小花花，\n\n每节课都能统计出某个学生收到的花的总数。\n\n按照产品需求，前端点击送花按钮后30秒内是不能再次送花的(信任的基础)\n\n(上课老师送花行为都进行统计了，可见互联网是多么可怕)",
+        "add_time": "1631864708",
+        "blog_type": "1",
+        "username": "wx60f2c847af77d",
+        "add_time_str": "2天前",
+        "nickname": "跟着小苏不加班",
+        "url": "https://blog.51cto.com/u_15306230/3939573",
+        "userUrl": "https://blog.51cto.com/u_15306230",
+        "pv": 871,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/6ef7ccd4f8ddac31e790f1805b58b522.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "2344243",
+        "blog_id": "3937438",
+        "cate_id": "44",
+        "abstract": "笔者现有生产环境是centos6+bind9.8.2+namedmanager解决方案，该方案平常使用十分稳定和优良，但由于centos平台无法再升级bind版本了，导致漏扫一直能扫出各种dns漏洞，必须寻找替代方案。",
+        "add_time": "1631862150",
+        "blog_type": "1",
+        "username": "侠云",
+        "add_time_str": "2天前",
+        "nickname": "侠云",
+        "url": "https://blog.51cto.com/tseyuzen/3937438",
+        "userUrl": "https://blog.51cto.com/tseyuzen",
+        "pv": 854,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3937051",
+        "cate_id": "6",
+        "abstract": " 为了实现最初的梦想：通过 Python 降低鸿蒙设备开发的门槛。最近我又开始躁动起来，大刀阔斧的在之前工作的基础上做了 Python SDK 的设计和开发。终于，现在可以直接用 Python 来控制鸿蒙开发板外设了。我之前的帖子《&lt;&lt;鸿蒙开发板外设控制&gt;&gt;直播图文版（2020.10.28）》中涉及的案例都可以用 Python 完成！大家看完这篇帖子后，可以尝试使用 C 和 Python 来实现相同的功能，体会一下不同。",
+        "add_time": "1631861673",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "2天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3937051",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 903,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/70cb05c0d45dcf9134e4d5ca2f763c8d.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15171572",
+        "blog_id": "3936671",
+        "cate_id": "15",
+        "abstract": "前言\n一个 “好的” 数据驱动框架，需要从“时间”、“人力”、“收益”这三个方面出发，做好“取舍”。\n不能由于被测业务系统发生一些变更，就导致花费了几个小时的脚本无法执行。同时，我们需要看到“收益”，不能为了总想看到100%的成功，而减少必须做的工作，这导致可能都需要进行大量的维护。\n所以做好这三个方面的平衡并不容易，想要提高 ROI（投入产出比），我们必须从两方面入手：\n\n减少开发成本。\n\n\n增",
+        "add_time": "1631861260",
+        "blog_type": "1",
+        "username": "wx6086232c36932",
+        "add_time_str": "2天前",
+        "nickname": "高楼（Zee）",
+        "url": "https://blog.51cto.com/u_15181572/3936671",
+        "userUrl": "https://blog.51cto.com/u_15181572",
+        "pv": 352,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a66e2ea8de78f39a862f2f6e2a420a3c.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11659225",
+        "blog_id": "3933858",
+        "cate_id": "6",
+        "abstract": "       本文主要关于BGP的逻辑而不是具体实验，所以我就随便配了几幅图，大多还是文字哈。由于BGP太过复杂，本文只是第一部介绍作品，以后会有更新！        ",
+        "add_time": "1631857469",
+        "blog_type": "1",
+        "username": "JimKing001",
+        "add_time_str": "2天前",
+        "nickname": "XOSG",
+        "url": "https://blog.51cto.com/xosg/3933858",
+        "userUrl": "https://blog.51cto.com/xosg",
+        "pv": 128,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/11/2bca347b8243d4b522da39748be9bf49.gif?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15009240",
+        "blog_id": "3933418",
+        "cate_id": "15",
+        "abstract": "一、简介Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。服务端基于SpringBoot和SpringCloud开发，打包后可以直接运行，不需要额外安装Tomcat等应用容器。Java客户端不依赖任何框架，能够运行于所有Java运行时环境，同时对Spri",
+        "add_time": "1631856632",
+        "blog_type": "1",
+        "username": "牧小农",
+        "add_time_str": "2天前",
+        "nickname": "牧小农",
+        "url": "https://blog.51cto.com/u_15019240/3933418",
+        "userUrl": "https://blog.51cto.com/u_15019240",
+        "pv": 1037,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a7f1e24edd8a5ea83d5d8a195aa4e676.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "7922852",
+        "blog_id": "3933380",
+        "cate_id": "15",
+        "abstract": "作者：threedayman来源：恒生LIGHT云社区(https://developer.hs.net/thread/1393\"恒生LIGHT云社区\")理论知识一个类型从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期将会经历加载（Loading）、验证（Verification）、准备（Preparation）、解析（Resolution）、初始化（Initialization）、",
+        "add_time": "1631855653",
+        "blog_type": "1",
+        "username": "Gloria小凡",
+        "add_time_str": "2天前",
+        "nickname": "恒生LIGHT云社区",
+        "url": "https://blog.51cto.com/u_7932852/3933380",
+        "userUrl": "https://blog.51cto.com/u_7932852",
+        "pv": 327,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "13778458",
+        "blog_id": "3932763",
+        "cate_id": "52",
+        "abstract": "k8s集群架构\npod创建流程\nansible部署k8s\n部署dashboard",
+        "add_time": "1631850503",
+        "blog_type": "1",
+        "username": "ruyinote",
+        "add_time_str": "2天前",
+        "nickname": "ruyinote",
+        "url": "https://blog.51cto.com/u_13788458/3932763",
+        "userUrl": "https://blog.51cto.com/u_13788458",
+        "pv": 1199,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/f6995fd678143864b813d8ad8a77af9a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13551855",
+        "blog_id": "3927909",
+        "cate_id": "52",
+        "abstract": "LXC于2008年首次引入，从其之前的Solaris Containers（或Solaris Zones）和FreeBSD jail中采用了其大部分功能。\nLXC无需创建完整的虚拟机，而是可以通过自己的进程和网络空间来实现虚拟环境。通过使用命名空间来强制执行进程隔离，并利用内核本身的控制组（cgroup）功能，该功能可以限制，说明和隔离一个或多个进程的CPU，内存，磁盘I / O和网络使用情况。将",
+        "add_time": "1631844263",
+        "blog_type": "1",
+        "username": "行云宝宝",
+        "add_time_str": "2天前",
+        "nickname": "行云创新",
+        "url": "https://blog.51cto.com/u_13561855/3927909",
+        "userUrl": "https://blog.51cto.com/u_13561855",
+        "pv": 387,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/1bd6c084e7eb998a9d40e41a74e2cee7.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13978495",
+        "blog_id": "3927470",
+        "cate_id": "101",
+        "abstract": "今天来实现一个3D打砖块游戏，非常的简单，是正经的入门教程，但是学到的都是Unity游戏开发中重点的内容，下面一起来了解下吧。新建3D游戏项目打开UnityHub软件，我们新建一个3D项目，新建好之后双击打开就好了。!https://s4.51cto.com/images/blog/202109/17/92b29934d878affaf387fd6b0b70651e.png?xossprocess",
+        "add_time": "1631843642",
+        "blog_type": "1",
+        "username": "qq5ba9d6df05219",
+        "add_time_str": "2天前",
+        "nickname": "qq5ba9d6df05219",
+        "url": "https://blog.51cto.com/u_13988495/3927470",
+        "userUrl": "https://blog.51cto.com/u_13988495",
+        "pv": 293,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/32481f61cfd24fed2190dea1078f8c1a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11246213",
+        "blog_id": "3926882",
+        "cate_id": "15",
+        "abstract": "简介\nCORS的全称是跨域资源共享，他是一个基于HTTP-header检测的机制，通过对HTTP-header进行控制，可以实现对跨域资源的权限管理功能。在之前的CORS详解文章中，我们已经对CORS有了基本的解释。\n本文将会从netty的实现角度，讲解如何在netty中实现CORS。\n服务端的CORS配置\n熟悉CORS的朋友应该知道，CORS所有的操作都是在HTTP协议之上通过控制HTTP头来实",
+        "add_time": "1631842902",
+        "blog_type": "1",
+        "username": "ddean2009",
+        "add_time_str": "2天前",
+        "nickname": "程序那些事",
+        "url": "https://blog.51cto.com/u_11256213/3926882",
+        "userUrl": "https://blog.51cto.com/u_11256213",
+        "pv": 977,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/9b90f566a7b645c85f9ad24b4846eb2f.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13515470",
+        "blog_id": "3925601",
+        "cate_id": "54",
+        "abstract": "大数据梦工厂（0008MapReduce中Shuffle和排序机制解析）(https://mp.weixin.qq.com/s/vn3TlLOJoyZ5nnBCYJK7cg)1ShuffleMapReduce确保每个Reducer的输入都是按key排序。系统执行排序，将Map的输出作为输入传给Reducer的过程称为Shuffle。!data_flow.png(https://s2.51cto.c",
+        "add_time": "1631808094",
+        "blog_type": "1",
+        "username": "小左先森",
+        "add_time_str": "2天前",
+        "nickname": "小左先森",
+        "url": "https://blog.51cto.com/u_13525470/3925601",
+        "userUrl": "https://blog.51cto.com/u_13525470",
+        "pv": 354,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/dace8437586fcd4bd74c08f71540ace9.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11421505",
+        "blog_id": "3925589",
+        "cate_id": "64",
+        "abstract": "一个平平无奇的合并函数面试的时候面试官大概率会出一个平平无奇的小问题来热热身，比如说写一个合并函数，读者估计会觉得：就这？不到30s就可以写好了一份利用递归实现的对象合并，代码如下：javascriptfunctionmerge(target,source){for(letkeyinsource){if(keyinsource&&keyintarget){merge(targetkey,sourc",
+        "add_time": "1631807566",
+        "blog_type": "1",
+        "username": "阿tree",
+        "add_time_str": "2天前",
+        "nickname": "yerikyu",
+        "url": "https://blog.51cto.com/nu1l/3925589",
+        "userUrl": "https://blog.51cto.com/nu1l",
+        "pv": 812,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/20210916/1631807391540200.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11623329",
+        "blog_id": "3925548",
+        "cate_id": "72",
+        "abstract": "人手永远是不够的，事情是永远做不完的\n很多人会以为任务都只能被安排，这可能跟一直以来项目进度都比较赶有关。每个任务都是由上头派发下来的，久而久之就会以为只能被动接受任务。但是其实是可以主动去找事情做的的。\n人手永远是不够的，事情永远是做不完的，如果有自己想做的事情，不要想着等忙完当前的任务，我就去做。这样可能永远也等不到，因为任务会一个接着一个来，可以早点去请求自己想要的任务，或者自己创造任务（不",
+        "add_time": "1631806425",
+        "blog_type": "1",
+        "username": "guku001",
+        "add_time_str": "2天前",
+        "nickname": "三年游戏人",
+        "url": "https://blog.51cto.com/u_11633329/3925548",
+        "userUrl": "https://blog.51cto.com/u_11633329",
+        "pv": 351,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/1467910318493eddc52ca2bc67f389d4.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15329425",
+        "blog_id": "3925474",
+        "cate_id": "8",
+        "abstract": ".NET MAUI 会在今年晚些时候发布，我们也很高兴和大家一起分享我们对 Xamarin Community Toolkit 的计划! 这包括 .NET MAUI Community Toolkit、Xamarin Community Toolkit 的向后兼容版本以及当前 Xamarin Community Toolkit 的淘汰计划。",
+        "add_time": "1631804801",
+        "blog_type": "1",
+        "username": "mb6120b21f7c881",
+        "add_time_str": "2天前",
+        "nickname": "MSReactor",
+        "url": "https://blog.51cto.com/u_15339425/3925474",
+        "userUrl": "https://blog.51cto.com/u_15339425",
+        "pv": 530,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/38e6deb4bda8d6f0c20d8c4a6e5e2b67.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11633026",
+        "blog_id": "3925383",
+        "cate_id": "107",
+        "abstract": "一起玩转树莓派（15）——干簧管传感器  干簧管传感器又被称为磁簧开关。顾名思义，其功能是可以感知周围的磁场从而改变开关的状态。本次实验，我们使用的干簧管传感器模块如下图所示：!(https://s4.51cto.com/images/blog/202109/16/0aa6d70a80ba61b174d22d972d601fe6.png?xossprocess=image/watermark,si",
+        "add_time": "1631802563",
+        "blog_type": "1",
+        "username": "珲少",
+        "add_time_str": "2天前",
+        "nickname": "珲少",
+        "url": "https://blog.51cto.com/u_11643026/3925383",
+        "userUrl": "https://blog.51cto.com/u_11643026",
+        "pv": 267,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "10996243",
+        "blog_id": "3925372",
+        "cate_id": "72",
+        "abstract": "MySQL的主从复制一般在大规模的项目上，都是使用MySQL的复制功能来创建MySQL的主从集群的。主要是可以通过为数据库服务器配置一个或多个备库的方式来进行数据同步。复制的功能不仅有利于构建高性能应用，同时也是高可用、可扩展性、灾难恢复、备份以及数据仓库等工作的基础。通过MySQL的主从复制来实现读写分离，相比单点数据库又读又写来说，提升了业务系统性能，优化了用户体验。另外通过主从复制实现了数据",
+        "add_time": "1631802296",
+        "blog_type": "1",
+        "username": "569590478",
+        "add_time_str": "2天前",
+        "nickname": "李浩宇Alex",
+        "url": "https://blog.51cto.com/alex4dream/3925372",
+        "userUrl": "https://blog.51cto.com/alex4dream",
+        "pv": 904,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "1443840",
+        "blog_id": "3925340",
+        "cate_id": "44",
+        "abstract": "云环境可以使用云盘或者RDS做为共享存储一、配置NFS1、节点ip31_NFSSERVER集群KM01192.168.1.31KM02192.168.1.32node01192.168.1.71node02192.168.1.722、创建目录、配置mkdirp/data/nfsshare/mysqlmkdirp/data/nacos/chmod777/dataroot@km01nfssharevi",
+        "add_time": "1631801139",
+        "blog_type": "1",
+        "username": "boboaiai",
+        "add_time_str": "2天前",
+        "nickname": "X糊涂仙儿",
+        "url": "https://blog.51cto.com/keep11/3925340",
+        "userUrl": "https://blog.51cto.com/keep11",
+        "pv": 760,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/20210916/1631800896934326.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15270062",
+        "blog_id": "3925171",
+        "cate_id": "15",
+        "abstract": "当线程处于就绪状态时，等待被分配到CPU时间片然后才真正开始执行，由于每个线程开始的时间不确定，因此也就不能唯一确定线程的执行顺序。如果想让线程有序执行，主要思路就是让子线程的执行在主线程中串行化，想到了以下几种让线程按顺序执行的方法",
+        "add_time": "1631794588",
+        "blog_type": "1",
+        "username": "mb60d190476cbb2",
+        "add_time_str": "3天前",
+        "nickname": "熬夜加班写代码",
+        "url": "https://blog.51cto.com/u_15280062/3925171",
+        "userUrl": "https://blog.51cto.com/u_15280062",
+        "pv": 887,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/f66ab6f246d115b44d436fb9de4dd3b8.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15350778",
+        "blog_id": "3925167",
+        "cate_id": "15",
+        "abstract": "Redis数据类型大全：“5种基础”数据类型+“3种特殊”数据类型",
+        "add_time": "1631794445",
+        "blog_type": "1",
+        "username": "mb613886ef6f7cf",
+        "add_time_str": "3天前",
+        "nickname": "Java_程_序_员",
+        "url": "https://blog.51cto.com/u_15360778/3925167",
+        "userUrl": "https://blog.51cto.com/u_15360778",
+        "pv": 778,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/f8a8a369948d154fc3662969be3d30f7.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14848414",
+        "blog_id": "3925070",
+        "cate_id": "94",
+        "abstract": "简介\nOpenMLDB是针对AI场景优化的开源数据库项目，实现了数据与计算一致性的离线MPP场景和在线OLTP场景计算引擎。MPP引擎可基于Spark实现，并通过拓展Spark源码实现数倍性能提升。本文主要解释OpenMLDB如何基于Spark来解决窗口数据的倾斜问题。\n背景\n数据倾斜是在大数据处理场景下常见的一种现象，它由某一分区数据量过大造成。数据倾斜会导致倾斜分区与其他分区的运算时间产生巨大",
+        "add_time": "1631790299",
+        "blog_type": "1",
+        "username": "范式AI云",
+        "add_time_str": "3天前",
+        "nickname": "第四范式开发者社区",
+        "url": "https://blog.51cto.com/u_14858414/3925070",
+        "userUrl": "https://blog.51cto.com/u_14858414",
+        "pv": 650,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/2592aa3ff4c8b2cc7a74adcae178c6c2.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14207107",
+        "blog_id": "3925060",
+        "cate_id": "6",
+        "abstract": "【背景】\n\n实际开发代码管理比较混乱，缺乏统一的集中管理。\n部署升级纯手工，流程重复繁琐，容易出错。\n代码质量没有管理，对于基本错误不能在第一时间发现。\n\n【架构】\n\n针对以上情况，采取git管理代码，搭建企业内部自己的gitlab来管理上传代码。\n使用jenkins从gitlab拉取代码并进行编译，持续构建发布。\n采取jenkins的插件sonar scanne分析源码，将结果上传到sonarq",
+        "add_time": "1631789859",
+        "blog_type": "1",
+        "username": "wx5c760b03be34e",
+        "add_time_str": "3天前",
+        "nickname": "倾听小糖宝",
+        "url": "https://blog.51cto.com/ktian/3925060",
+        "userUrl": "https://blog.51cto.com/ktian",
+        "pv": 657,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/1b8df8e4cf28379b35f171637424ac86.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "6904692",
+        "blog_id": "3924795",
+        "cate_id": "44",
+        "abstract": "通过对Zabbix应用组件/服务进程的学习，方便我们掌握其原理，更好的应用在生产环境中。",
+        "add_time": "1631786203",
+        "blog_type": "1",
+        "username": "qingfenghaha",
+        "add_time_str": "3天前",
+        "nickname": "qingfenghaha",
+        "url": "https://blog.51cto.com/lifulin/3924795",
+        "userUrl": "https://blog.51cto.com/lifulin",
+        "pv": 459,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/d28bd556c6028b38826e79f2617ccbeb.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "10942117",
+        "blog_id": "3924235",
+        "cate_id": "44",
+        "abstract": "具体步骤如下：最好不要在各环境的jumper机器上执行，因为jumper机器资源有限（CPU、MEM），进程会发生卡死或进度缓慢情况，可以将efs挂载到资源相对充足的其他节点上执行。python首先建立一个空白文件夹mkdirp/tmp/blank创建screen窗口screenSdeleteefs25查看创建的screenscreenls进入上面创建的screenscreenrdeleteefs",
+        "add_time": "1631784892",
+        "blog_type": "1",
+        "username": "520逍遥",
+        "add_time_str": "3天前",
+        "nickname": "品鉴初心",
+        "url": "https://blog.51cto.com/wutengfei/3924235",
+        "userUrl": "https://blog.51cto.com/wutengfei",
+        "pv": 1090,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/224647038e5d6fc6be98a4de28321c17.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3923792",
+        "cate_id": "6",
+        "abstract": "本人是JS攻城狮，java属于初学状态，写的不好的地方还请多多指教！\n为什么决定开发一个星座运势服务卡片？\n主要有以下几点：\n   1. 老年人和女性都比较关心运势，卡片类型刚好能够清晰展示运势，同时也不需要太多操作，与服务卡片理念契合（弱交互、强服务）。\n   2. 聚合api上刚好有相应接口，可以直接调用，比较方便。\n",
+        "add_time": "1631784204",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "3天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3923792",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 999,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/666dff35a34613af381e0521c620ae15.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1447637",
+        "blog_id": "3922968",
+        "cate_id": "6",
+        "abstract": "有一段时间没写博客了，要解释的话可以找一万种借口......曾经坚持写博客的习惯，如今随着年龄的增长也是“时过境迁”，只能说人在某个阶段认定铁打的事情，随着生活的磨砺有可能被自己推翻并自我嘲讽......\n好吧，别跑题了，今天的主题是聊存储不是聊人生，你既然点了我的文章链接进来了，那就证明您是带着问题或者学习的目的来的，我也不能让你们失望而归。下面就进入正题吧：\n \nIT技术的发展一年比一年快，传",
+        "add_time": "1631782802",
+        "blog_type": "1",
+        "username": "CaiJiantao",
+        "add_time_str": "3天前",
+        "nickname": "CaiJiantao",
+        "url": "https://blog.51cto.com/jettcai/3922968",
+        "userUrl": "https://blog.51cto.com/jettcai",
+        "pv": 703,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/16/83bb74328d6ceb999b6277e561cb4ea1.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15073739",
+        "blog_id": "3922764",
+        "cate_id": "15",
+        "abstract": "项目简介\n动力节点老师讲解的图书馆管理小项目，主要目的是让学完JavaSE的同学对之前掌握的知识做一些运用，该项目应用的知识点包括下面内容：\n面向对象的思想\n分层的思想\n接口\n异常\n集合\n日期处理\nStream流\nIO流\n反射\nJavafx（了解）\ncss（了解）\n通过学习本项目，可以巩固JavaSE的知识，对于后续的学习来说可以起到很好的衔接。\n环境搭建\n1. 基本信息\n开发工具：IDEA\nJD",
+        "add_time": "1631782471",
+        "blog_type": "1",
+        "username": "mb5fff9f708e6fc",
+        "add_time_str": "3天前",
+        "nickname": "link可",
+        "url": "https://blog.51cto.com/u_15083739/3922764",
+        "userUrl": "https://blog.51cto.com/u_15083739",
+        "pv": 485,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/16/18163061a1d0cf1fc323a0dbbaa6e92d.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15347269",
+        "blog_id": "3921456",
+        "cate_id": "15",
+        "abstract": "一、树莓派是什么？\nRaspberry Pi(中文名为树莓派,简写为 RPi，(或者 RasPi / RPI) 是为学习计算机编程教育而设计)，只有信用卡大小的微型电脑，其系统基于 Linux。随着 Windows 10 IoT 的发布，我们也将可以用上运行 Windows 的树莓派。\n自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。别看其外表“娇小”，内“心”却很强大，视频、音频等",
+        "add_time": "1631780932",
+        "blog_type": "1",
+        "username": "wx6135b7119b442",
+        "add_time_str": "3天前",
+        "nickname": "不想秃头",
+        "url": "https://blog.51cto.com/u_15357269/3921456",
+        "userUrl": "https://blog.51cto.com/u_15357269",
+        "pv": 3113,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/72217385437f9a17383db7be5faec261.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1187822",
+        "blog_id": "3940526",
+        "cate_id": "15",
+        "abstract": "Eclipse创建SpringBoot聚合项目;Eclipse创建SpringBoot父子工程;",
+        "add_time": "1631866010",
+        "blog_type": "1",
+        "username": "pannijingling",
+        "add_time_str": "2天前",
+        "nickname": "pannijingling",
+        "url": "https://blog.51cto.com/abcd/3940526",
+        "userUrl": "https://blog.51cto.com/abcd",
+        "pv": 918,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/20210917/1631846498249405.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14805220",
+        "blog_id": "3939896",
+        "cate_id": "99",
+        "abstract": "当下，产业互联网推动着各传统行业不断加速技术革新，向数字化转型。作为服务产业与互联网融合的典型，房产服务行业在近年迎来了新的增长契机。线上用户的快速增长让用户对房产服务行业的数字化转型提出了更多要求。华为分析服务6.2.0版本新增租房买房行业报告与埋点模板，以用户为核心，聚焦用户线上看房关键行为，帮助房产服务平台提升用户的房源兴趣与敏感度，有效缩短租房买房交易周期。一、数据概览了解整体增长数据概览",
+        "add_time": "1631865109",
+        "blog_type": "1",
+        "username": "HW工程师",
+        "add_time_str": "2天前",
+        "nickname": "华为HMSCore",
+        "url": "https://blog.51cto.com/u_14815220/3939896",
+        "userUrl": "https://blog.51cto.com/u_14815220",
+        "pv": 322,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "15296230",
+        "blog_id": "3939573",
+        "cate_id": "15",
+        "abstract": "有这样一个业务，上课的时候老师给表现好的学生送小花花，\n\n每节课都能统计出某个学生收到的花的总数。\n\n按照产品需求，前端点击送花按钮后30秒内是不能再次送花的(信任的基础)\n\n(上课老师送花行为都进行统计了，可见互联网是多么可怕)",
+        "add_time": "1631864708",
+        "blog_type": "1",
+        "username": "wx60f2c847af77d",
+        "add_time_str": "2天前",
+        "nickname": "跟着小苏不加班",
+        "url": "https://blog.51cto.com/u_15306230/3939573",
+        "userUrl": "https://blog.51cto.com/u_15306230",
+        "pv": 871,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/6ef7ccd4f8ddac31e790f1805b58b522.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "2344243",
+        "blog_id": "3937438",
+        "cate_id": "44",
+        "abstract": "笔者现有生产环境是centos6+bind9.8.2+namedmanager解决方案，该方案平常使用十分稳定和优良，但由于centos平台无法再升级bind版本了，导致漏扫一直能扫出各种dns漏洞，必须寻找替代方案。",
+        "add_time": "1631862150",
+        "blog_type": "1",
+        "username": "侠云",
+        "add_time_str": "2天前",
+        "nickname": "侠云",
+        "url": "https://blog.51cto.com/tseyuzen/3937438",
+        "userUrl": "https://blog.51cto.com/tseyuzen",
+        "pv": 854,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3937051",
+        "cate_id": "6",
+        "abstract": " 为了实现最初的梦想：通过 Python 降低鸿蒙设备开发的门槛。最近我又开始躁动起来，大刀阔斧的在之前工作的基础上做了 Python SDK 的设计和开发。终于，现在可以直接用 Python 来控制鸿蒙开发板外设了。我之前的帖子《&lt;&lt;鸿蒙开发板外设控制&gt;&gt;直播图文版（2020.10.28）》中涉及的案例都可以用 Python 完成！大家看完这篇帖子后，可以尝试使用 C 和 Python 来实现相同的功能，体会一下不同。",
+        "add_time": "1631861673",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "2天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3937051",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 903,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/70cb05c0d45dcf9134e4d5ca2f763c8d.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15171572",
+        "blog_id": "3936671",
+        "cate_id": "15",
+        "abstract": "前言\n一个 “好的” 数据驱动框架，需要从“时间”、“人力”、“收益”这三个方面出发，做好“取舍”。\n不能由于被测业务系统发生一些变更，就导致花费了几个小时的脚本无法执行。同时，我们需要看到“收益”，不能为了总想看到100%的成功，而减少必须做的工作，这导致可能都需要进行大量的维护。\n所以做好这三个方面的平衡并不容易，想要提高 ROI（投入产出比），我们必须从两方面入手：\n\n减少开发成本。\n\n\n增",
+        "add_time": "1631861260",
+        "blog_type": "1",
+        "username": "wx6086232c36932",
+        "add_time_str": "2天前",
+        "nickname": "高楼（Zee）",
+        "url": "https://blog.51cto.com/u_15181572/3936671",
+        "userUrl": "https://blog.51cto.com/u_15181572",
+        "pv": 352,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a66e2ea8de78f39a862f2f6e2a420a3c.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11659225",
+        "blog_id": "3933858",
+        "cate_id": "6",
+        "abstract": "       本文主要关于BGP的逻辑而不是具体实验，所以我就随便配了几幅图，大多还是文字哈。由于BGP太过复杂，本文只是第一部介绍作品，以后会有更新！        ",
+        "add_time": "1631857469",
+        "blog_type": "1",
+        "username": "JimKing001",
+        "add_time_str": "2天前",
+        "nickname": "XOSG",
+        "url": "https://blog.51cto.com/xosg/3933858",
+        "userUrl": "https://blog.51cto.com/xosg",
+        "pv": 128,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/11/2bca347b8243d4b522da39748be9bf49.gif?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15009240",
+        "blog_id": "3933418",
+        "cate_id": "15",
+        "abstract": "一、简介Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。服务端基于SpringBoot和SpringCloud开发，打包后可以直接运行，不需要额外安装Tomcat等应用容器。Java客户端不依赖任何框架，能够运行于所有Java运行时环境，同时对Spri",
+        "add_time": "1631856632",
+        "blog_type": "1",
+        "username": "牧小农",
+        "add_time_str": "2天前",
+        "nickname": "牧小农",
+        "url": "https://blog.51cto.com/u_15019240/3933418",
+        "userUrl": "https://blog.51cto.com/u_15019240",
+        "pv": 1037,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a7f1e24edd8a5ea83d5d8a195aa4e676.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "7922852",
+        "blog_id": "3933380",
+        "cate_id": "15",
+        "abstract": "作者：threedayman来源：恒生LIGHT云社区(https://developer.hs.net/thread/1393\"恒生LIGHT云社区\")理论知识一个类型从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期将会经历加载（Loading）、验证（Verification）、准备（Preparation）、解析（Resolution）、初始化（Initialization）、",
+        "add_time": "1631855653",
+        "blog_type": "1",
+        "username": "Gloria小凡",
+        "add_time_str": "2天前",
+        "nickname": "恒生LIGHT云社区",
+        "url": "https://blog.51cto.com/u_7932852/3933380",
+        "userUrl": "https://blog.51cto.com/u_7932852",
+        "pv": 327,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "13778458",
+        "blog_id": "3932763",
+        "cate_id": "52",
+        "abstract": "k8s集群架构\npod创建流程\nansible部署k8s\n部署dashboard",
+        "add_time": "1631850503",
+        "blog_type": "1",
+        "username": "ruyinote",
+        "add_time_str": "2天前",
+        "nickname": "ruyinote",
+        "url": "https://blog.51cto.com/u_13788458/3932763",
+        "userUrl": "https://blog.51cto.com/u_13788458",
+        "pv": 1199,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/f6995fd678143864b813d8ad8a77af9a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13551855",
+        "blog_id": "3927909",
+        "cate_id": "52",
+        "abstract": "LXC于2008年首次引入，从其之前的Solaris Containers（或Solaris Zones）和FreeBSD jail中采用了其大部分功能。\nLXC无需创建完整的虚拟机，而是可以通过自己的进程和网络空间来实现虚拟环境。通过使用命名空间来强制执行进程隔离，并利用内核本身的控制组（cgroup）功能，该功能可以限制，说明和隔离一个或多个进程的CPU，内存，磁盘I / O和网络使用情况。将",
+        "add_time": "1631844263",
+        "blog_type": "1",
+        "username": "行云宝宝",
+        "add_time_str": "2天前",
+        "nickname": "行云创新",
+        "url": "https://blog.51cto.com/u_13561855/3927909",
+        "userUrl": "https://blog.51cto.com/u_13561855",
+        "pv": 387,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/1bd6c084e7eb998a9d40e41a74e2cee7.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13978495",
+        "blog_id": "3927470",
+        "cate_id": "101",
+        "abstract": "今天来实现一个3D打砖块游戏，非常的简单，是正经的入门教程，但是学到的都是Unity游戏开发中重点的内容，下面一起来了解下吧。新建3D游戏项目打开UnityHub软件，我们新建一个3D项目，新建好之后双击打开就好了。!https://s4.51cto.com/images/blog/202109/17/92b29934d878affaf387fd6b0b70651e.png?xossprocess",
+        "add_time": "1631843642",
+        "blog_type": "1",
+        "username": "qq5ba9d6df05219",
+        "add_time_str": "2天前",
+        "nickname": "qq5ba9d6df05219",
+        "url": "https://blog.51cto.com/u_13988495/3927470",
+        "userUrl": "https://blog.51cto.com/u_13988495",
+        "pv": 293,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/32481f61cfd24fed2190dea1078f8c1a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11246213",
+        "blog_id": "3926882",
+        "cate_id": "15",
+        "abstract": "简介\nCORS的全称是跨域资源共享，他是一个基于HTTP-header检测的机制，通过对HTTP-header进行控制，可以实现对跨域资源的权限管理功能。在之前的CORS详解文章中，我们已经对CORS有了基本的解释。\n本文将会从netty的实现角度，讲解如何在netty中实现CORS。\n服务端的CORS配置\n熟悉CORS的朋友应该知道，CORS所有的操作都是在HTTP协议之上通过控制HTTP头来实",
+        "add_time": "1631842902",
+        "blog_type": "1",
+        "username": "ddean2009",
+        "add_time_str": "2天前",
+        "nickname": "程序那些事",
+        "url": "https://blog.51cto.com/u_11256213/3926882",
+        "userUrl": "https://blog.51cto.com/u_11256213",
+        "pv": 977,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/9b90f566a7b645c85f9ad24b4846eb2f.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13515470",
+        "blog_id": "3925601",
+        "cate_id": "54",
+        "abstract": "大数据梦工厂（0008MapReduce中Shuffle和排序机制解析）(https://mp.weixin.qq.com/s/vn3TlLOJoyZ5nnBCYJK7cg)1ShuffleMapReduce确保每个Reducer的输入都是按key排序。系统执行排序，将Map的输出作为输入传给Reducer的过程称为Shuffle。!data_flow.png(https://s2.51cto.c",
+        "add_time": "1631808094",
+        "blog_type": "1",
+        "username": "小左先森",
+        "add_time_str": "2天前",
+        "nickname": "小左先森",
+        "url": "https://blog.51cto.com/u_13525470/3925601",
+        "userUrl": "https://blog.51cto.com/u_13525470",
+        "pv": 354,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/dace8437586fcd4bd74c08f71540ace9.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11421505",
+        "blog_id": "3925589",
+        "cate_id": "64",
+        "abstract": "一个平平无奇的合并函数面试的时候面试官大概率会出一个平平无奇的小问题来热热身，比如说写一个合并函数，读者估计会觉得：就这？不到30s就可以写好了一份利用递归实现的对象合并，代码如下：javascriptfunctionmerge(target,source){for(letkeyinsource){if(keyinsource&&keyintarget){merge(targetkey,sourc",
+        "add_time": "1631807566",
+        "blog_type": "1",
+        "username": "阿tree",
+        "add_time_str": "2天前",
+        "nickname": "yerikyu",
+        "url": "https://blog.51cto.com/nu1l/3925589",
+        "userUrl": "https://blog.51cto.com/nu1l",
+        "pv": 812,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/20210916/1631807391540200.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11623329",
+        "blog_id": "3925548",
+        "cate_id": "72",
+        "abstract": "人手永远是不够的，事情是永远做不完的\n很多人会以为任务都只能被安排，这可能跟一直以来项目进度都比较赶有关。每个任务都是由上头派发下来的，久而久之就会以为只能被动接受任务。但是其实是可以主动去找事情做的的。\n人手永远是不够的，事情永远是做不完的，如果有自己想做的事情，不要想着等忙完当前的任务，我就去做。这样可能永远也等不到，因为任务会一个接着一个来，可以早点去请求自己想要的任务，或者自己创造任务（不",
+        "add_time": "1631806425",
+        "blog_type": "1",
+        "username": "guku001",
+        "add_time_str": "2天前",
+        "nickname": "三年游戏人",
+        "url": "https://blog.51cto.com/u_11633329/3925548",
+        "userUrl": "https://blog.51cto.com/u_11633329",
+        "pv": 351,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/1467910318493eddc52ca2bc67f389d4.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15329425",
+        "blog_id": "3925474",
+        "cate_id": "8",
+        "abstract": ".NET MAUI 会在今年晚些时候发布，我们也很高兴和大家一起分享我们对 Xamarin Community Toolkit 的计划! 这包括 .NET MAUI Community Toolkit、Xamarin Community Toolkit 的向后兼容版本以及当前 Xamarin Community Toolkit 的淘汰计划。",
+        "add_time": "1631804801",
+        "blog_type": "1",
+        "username": "mb6120b21f7c881",
+        "add_time_str": "2天前",
+        "nickname": "MSReactor",
+        "url": "https://blog.51cto.com/u_15339425/3925474",
+        "userUrl": "https://blog.51cto.com/u_15339425",
+        "pv": 530,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/38e6deb4bda8d6f0c20d8c4a6e5e2b67.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11633026",
+        "blog_id": "3925383",
+        "cate_id": "107",
+        "abstract": "一起玩转树莓派（15）——干簧管传感器  干簧管传感器又被称为磁簧开关。顾名思义，其功能是可以感知周围的磁场从而改变开关的状态。本次实验，我们使用的干簧管传感器模块如下图所示：!(https://s4.51cto.com/images/blog/202109/16/0aa6d70a80ba61b174d22d972d601fe6.png?xossprocess=image/watermark,si",
+        "add_time": "1631802563",
+        "blog_type": "1",
+        "username": "珲少",
+        "add_time_str": "2天前",
+        "nickname": "珲少",
+        "url": "https://blog.51cto.com/u_11643026/3925383",
+        "userUrl": "https://blog.51cto.com/u_11643026",
+        "pv": 267,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "10996243",
+        "blog_id": "3925372",
+        "cate_id": "72",
+        "abstract": "MySQL的主从复制一般在大规模的项目上，都是使用MySQL的复制功能来创建MySQL的主从集群的。主要是可以通过为数据库服务器配置一个或多个备库的方式来进行数据同步。复制的功能不仅有利于构建高性能应用，同时也是高可用、可扩展性、灾难恢复、备份以及数据仓库等工作的基础。通过MySQL的主从复制来实现读写分离，相比单点数据库又读又写来说，提升了业务系统性能，优化了用户体验。另外通过主从复制实现了数据",
+        "add_time": "1631802296",
+        "blog_type": "1",
+        "username": "569590478",
+        "add_time_str": "2天前",
+        "nickname": "李浩宇Alex",
+        "url": "https://blog.51cto.com/alex4dream/3925372",
+        "userUrl": "https://blog.51cto.com/alex4dream",
+        "pv": 904,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "1443840",
+        "blog_id": "3925340",
+        "cate_id": "44",
+        "abstract": "云环境可以使用云盘或者RDS做为共享存储一、配置NFS1、节点ip31_NFSSERVER集群KM01192.168.1.31KM02192.168.1.32node01192.168.1.71node02192.168.1.722、创建目录、配置mkdirp/data/nfsshare/mysqlmkdirp/data/nacos/chmod777/dataroot@km01nfssharevi",
+        "add_time": "1631801139",
+        "blog_type": "1",
+        "username": "boboaiai",
+        "add_time_str": "2天前",
+        "nickname": "X糊涂仙儿",
+        "url": "https://blog.51cto.com/keep11/3925340",
+        "userUrl": "https://blog.51cto.com/keep11",
+        "pv": 760,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/20210916/1631800896934326.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15270062",
+        "blog_id": "3925171",
+        "cate_id": "15",
+        "abstract": "当线程处于就绪状态时，等待被分配到CPU时间片然后才真正开始执行，由于每个线程开始的时间不确定，因此也就不能唯一确定线程的执行顺序。如果想让线程有序执行，主要思路就是让子线程的执行在主线程中串行化，想到了以下几种让线程按顺序执行的方法",
+        "add_time": "1631794588",
+        "blog_type": "1",
+        "username": "mb60d190476cbb2",
+        "add_time_str": "3天前",
+        "nickname": "熬夜加班写代码",
+        "url": "https://blog.51cto.com/u_15280062/3925171",
+        "userUrl": "https://blog.51cto.com/u_15280062",
+        "pv": 887,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/f66ab6f246d115b44d436fb9de4dd3b8.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15350778",
+        "blog_id": "3925167",
+        "cate_id": "15",
+        "abstract": "Redis数据类型大全：“5种基础”数据类型+“3种特殊”数据类型",
+        "add_time": "1631794445",
+        "blog_type": "1",
+        "username": "mb613886ef6f7cf",
+        "add_time_str": "3天前",
+        "nickname": "Java_程_序_员",
+        "url": "https://blog.51cto.com/u_15360778/3925167",
+        "userUrl": "https://blog.51cto.com/u_15360778",
+        "pv": 778,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/f8a8a369948d154fc3662969be3d30f7.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14848414",
+        "blog_id": "3925070",
+        "cate_id": "94",
+        "abstract": "简介\nOpenMLDB是针对AI场景优化的开源数据库项目，实现了数据与计算一致性的离线MPP场景和在线OLTP场景计算引擎。MPP引擎可基于Spark实现，并通过拓展Spark源码实现数倍性能提升。本文主要解释OpenMLDB如何基于Spark来解决窗口数据的倾斜问题。\n背景\n数据倾斜是在大数据处理场景下常见的一种现象，它由某一分区数据量过大造成。数据倾斜会导致倾斜分区与其他分区的运算时间产生巨大",
+        "add_time": "1631790299",
+        "blog_type": "1",
+        "username": "范式AI云",
+        "add_time_str": "3天前",
+        "nickname": "第四范式开发者社区",
+        "url": "https://blog.51cto.com/u_14858414/3925070",
+        "userUrl": "https://blog.51cto.com/u_14858414",
+        "pv": 650,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/2592aa3ff4c8b2cc7a74adcae178c6c2.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14207107",
+        "blog_id": "3925060",
+        "cate_id": "6",
+        "abstract": "【背景】\n\n实际开发代码管理比较混乱，缺乏统一的集中管理。\n部署升级纯手工，流程重复繁琐，容易出错。\n代码质量没有管理，对于基本错误不能在第一时间发现。\n\n【架构】\n\n针对以上情况，采取git管理代码，搭建企业内部自己的gitlab来管理上传代码。\n使用jenkins从gitlab拉取代码并进行编译，持续构建发布。\n采取jenkins的插件sonar scanne分析源码，将结果上传到sonarq",
+        "add_time": "1631789859",
+        "blog_type": "1",
+        "username": "wx5c760b03be34e",
+        "add_time_str": "3天前",
+        "nickname": "倾听小糖宝",
+        "url": "https://blog.51cto.com/ktian/3925060",
+        "userUrl": "https://blog.51cto.com/ktian",
+        "pv": 657,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/1b8df8e4cf28379b35f171637424ac86.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "6904692",
+        "blog_id": "3924795",
+        "cate_id": "44",
+        "abstract": "通过对Zabbix应用组件/服务进程的学习，方便我们掌握其原理，更好的应用在生产环境中。",
+        "add_time": "1631786203",
+        "blog_type": "1",
+        "username": "qingfenghaha",
+        "add_time_str": "3天前",
+        "nickname": "qingfenghaha",
+        "url": "https://blog.51cto.com/lifulin/3924795",
+        "userUrl": "https://blog.51cto.com/lifulin",
+        "pv": 459,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/d28bd556c6028b38826e79f2617ccbeb.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "10942117",
+        "blog_id": "3924235",
+        "cate_id": "44",
+        "abstract": "具体步骤如下：最好不要在各环境的jumper机器上执行，因为jumper机器资源有限（CPU、MEM），进程会发生卡死或进度缓慢情况，可以将efs挂载到资源相对充足的其他节点上执行。python首先建立一个空白文件夹mkdirp/tmp/blank创建screen窗口screenSdeleteefs25查看创建的screenscreenls进入上面创建的screenscreenrdeleteefs",
+        "add_time": "1631784892",
+        "blog_type": "1",
+        "username": "520逍遥",
+        "add_time_str": "3天前",
+        "nickname": "品鉴初心",
+        "url": "https://blog.51cto.com/wutengfei/3924235",
+        "userUrl": "https://blog.51cto.com/wutengfei",
+        "pv": 1090,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/224647038e5d6fc6be98a4de28321c17.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3923792",
+        "cate_id": "6",
+        "abstract": "本人是JS攻城狮，java属于初学状态，写的不好的地方还请多多指教！\n为什么决定开发一个星座运势服务卡片？\n主要有以下几点：\n   1. 老年人和女性都比较关心运势，卡片类型刚好能够清晰展示运势，同时也不需要太多操作，与服务卡片理念契合（弱交互、强服务）。\n   2. 聚合api上刚好有相应接口，可以直接调用，比较方便。\n",
+        "add_time": "1631784204",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "3天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3923792",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 999,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/666dff35a34613af381e0521c620ae15.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1447637",
+        "blog_id": "3922968",
+        "cate_id": "6",
+        "abstract": "有一段时间没写博客了，要解释的话可以找一万种借口......曾经坚持写博客的习惯，如今随着年龄的增长也是“时过境迁”，只能说人在某个阶段认定铁打的事情，随着生活的磨砺有可能被自己推翻并自我嘲讽......\n好吧，别跑题了，今天的主题是聊存储不是聊人生，你既然点了我的文章链接进来了，那就证明您是带着问题或者学习的目的来的，我也不能让你们失望而归。下面就进入正题吧：\n \nIT技术的发展一年比一年快，传",
+        "add_time": "1631782802",
+        "blog_type": "1",
+        "username": "CaiJiantao",
+        "add_time_str": "3天前",
+        "nickname": "CaiJiantao",
+        "url": "https://blog.51cto.com/jettcai/3922968",
+        "userUrl": "https://blog.51cto.com/jettcai",
+        "pv": 703,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/16/83bb74328d6ceb999b6277e561cb4ea1.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15073739",
+        "blog_id": "3922764",
+        "cate_id": "15",
+        "abstract": "项目简介\n动力节点老师讲解的图书馆管理小项目，主要目的是让学完JavaSE的同学对之前掌握的知识做一些运用，该项目应用的知识点包括下面内容：\n面向对象的思想\n分层的思想\n接口\n异常\n集合\n日期处理\nStream流\nIO流\n反射\nJavafx（了解）\ncss（了解）\n通过学习本项目，可以巩固JavaSE的知识，对于后续的学习来说可以起到很好的衔接。\n环境搭建\n1. 基本信息\n开发工具：IDEA\nJD",
+        "add_time": "1631782471",
+        "blog_type": "1",
+        "username": "mb5fff9f708e6fc",
+        "add_time_str": "3天前",
+        "nickname": "link可",
+        "url": "https://blog.51cto.com/u_15083739/3922764",
+        "userUrl": "https://blog.51cto.com/u_15083739",
+        "pv": 485,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/16/18163061a1d0cf1fc323a0dbbaa6e92d.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15347269",
+        "blog_id": "3921456",
+        "cate_id": "15",
+        "abstract": "一、树莓派是什么？\nRaspberry Pi(中文名为树莓派,简写为 RPi，(或者 RasPi / RPI) 是为学习计算机编程教育而设计)，只有信用卡大小的微型电脑，其系统基于 Linux。随着 Windows 10 IoT 的发布，我们也将可以用上运行 Windows 的树莓派。\n自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。别看其外表“娇小”，内“心”却很强大，视频、音频等",
+        "add_time": "1631780932",
+        "blog_type": "1",
+        "username": "wx6135b7119b442",
+        "add_time_str": "3天前",
+        "nickname": "不想秃头",
+        "url": "https://blog.51cto.com/u_15357269/3921456",
+        "userUrl": "https://blog.51cto.com/u_15357269",
+        "pv": 3113,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/72217385437f9a17383db7be5faec261.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1187822",
+        "blog_id": "3940526",
+        "cate_id": "15",
+        "abstract": "Eclipse创建SpringBoot聚合项目;Eclipse创建SpringBoot父子工程;",
+        "add_time": "1631866010",
+        "blog_type": "1",
+        "username": "pannijingling",
+        "add_time_str": "2天前",
+        "nickname": "pannijingling",
+        "url": "https://blog.51cto.com/abcd/3940526",
+        "userUrl": "https://blog.51cto.com/abcd",
+        "pv": 918,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/20210917/1631846498249405.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14805220",
+        "blog_id": "3939896",
+        "cate_id": "99",
+        "abstract": "当下，产业互联网推动着各传统行业不断加速技术革新，向数字化转型。作为服务产业与互联网融合的典型，房产服务行业在近年迎来了新的增长契机。线上用户的快速增长让用户对房产服务行业的数字化转型提出了更多要求。华为分析服务6.2.0版本新增租房买房行业报告与埋点模板，以用户为核心，聚焦用户线上看房关键行为，帮助房产服务平台提升用户的房源兴趣与敏感度，有效缩短租房买房交易周期。一、数据概览了解整体增长数据概览",
+        "add_time": "1631865109",
+        "blog_type": "1",
+        "username": "HW工程师",
+        "add_time_str": "2天前",
+        "nickname": "华为HMSCore",
+        "url": "https://blog.51cto.com/u_14815220/3939896",
+        "userUrl": "https://blog.51cto.com/u_14815220",
+        "pv": 322,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "15296230",
+        "blog_id": "3939573",
+        "cate_id": "15",
+        "abstract": "有这样一个业务，上课的时候老师给表现好的学生送小花花，\n\n每节课都能统计出某个学生收到的花的总数。\n\n按照产品需求，前端点击送花按钮后30秒内是不能再次送花的(信任的基础)\n\n(上课老师送花行为都进行统计了，可见互联网是多么可怕)",
+        "add_time": "1631864708",
+        "blog_type": "1",
+        "username": "wx60f2c847af77d",
+        "add_time_str": "2天前",
+        "nickname": "跟着小苏不加班",
+        "url": "https://blog.51cto.com/u_15306230/3939573",
+        "userUrl": "https://blog.51cto.com/u_15306230",
+        "pv": 871,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/6ef7ccd4f8ddac31e790f1805b58b522.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "2344243",
+        "blog_id": "3937438",
+        "cate_id": "44",
+        "abstract": "笔者现有生产环境是centos6+bind9.8.2+namedmanager解决方案，该方案平常使用十分稳定和优良，但由于centos平台无法再升级bind版本了，导致漏扫一直能扫出各种dns漏洞，必须寻找替代方案。",
+        "add_time": "1631862150",
+        "blog_type": "1",
+        "username": "侠云",
+        "add_time_str": "2天前",
+        "nickname": "侠云",
+        "url": "https://blog.51cto.com/tseyuzen/3937438",
+        "userUrl": "https://blog.51cto.com/tseyuzen",
+        "pv": 854,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3937051",
+        "cate_id": "6",
+        "abstract": " 为了实现最初的梦想：通过 Python 降低鸿蒙设备开发的门槛。最近我又开始躁动起来，大刀阔斧的在之前工作的基础上做了 Python SDK 的设计和开发。终于，现在可以直接用 Python 来控制鸿蒙开发板外设了。我之前的帖子《&lt;&lt;鸿蒙开发板外设控制&gt;&gt;直播图文版（2020.10.28）》中涉及的案例都可以用 Python 完成！大家看完这篇帖子后，可以尝试使用 C 和 Python 来实现相同的功能，体会一下不同。",
+        "add_time": "1631861673",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "2天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3937051",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 903,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/70cb05c0d45dcf9134e4d5ca2f763c8d.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15171572",
+        "blog_id": "3936671",
+        "cate_id": "15",
+        "abstract": "前言\n一个 “好的” 数据驱动框架，需要从“时间”、“人力”、“收益”这三个方面出发，做好“取舍”。\n不能由于被测业务系统发生一些变更，就导致花费了几个小时的脚本无法执行。同时，我们需要看到“收益”，不能为了总想看到100%的成功，而减少必须做的工作，这导致可能都需要进行大量的维护。\n所以做好这三个方面的平衡并不容易，想要提高 ROI（投入产出比），我们必须从两方面入手：\n\n减少开发成本。\n\n\n增",
+        "add_time": "1631861260",
+        "blog_type": "1",
+        "username": "wx6086232c36932",
+        "add_time_str": "2天前",
+        "nickname": "高楼（Zee）",
+        "url": "https://blog.51cto.com/u_15181572/3936671",
+        "userUrl": "https://blog.51cto.com/u_15181572",
+        "pv": 352,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a66e2ea8de78f39a862f2f6e2a420a3c.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11659225",
+        "blog_id": "3933858",
+        "cate_id": "6",
+        "abstract": "       本文主要关于BGP的逻辑而不是具体实验，所以我就随便配了几幅图，大多还是文字哈。由于BGP太过复杂，本文只是第一部介绍作品，以后会有更新！        ",
+        "add_time": "1631857469",
+        "blog_type": "1",
+        "username": "JimKing001",
+        "add_time_str": "2天前",
+        "nickname": "XOSG",
+        "url": "https://blog.51cto.com/xosg/3933858",
+        "userUrl": "https://blog.51cto.com/xosg",
+        "pv": 128,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/11/2bca347b8243d4b522da39748be9bf49.gif?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15009240",
+        "blog_id": "3933418",
+        "cate_id": "15",
+        "abstract": "一、简介Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。服务端基于SpringBoot和SpringCloud开发，打包后可以直接运行，不需要额外安装Tomcat等应用容器。Java客户端不依赖任何框架，能够运行于所有Java运行时环境，同时对Spri",
+        "add_time": "1631856632",
+        "blog_type": "1",
+        "username": "牧小农",
+        "add_time_str": "2天前",
+        "nickname": "牧小农",
+        "url": "https://blog.51cto.com/u_15019240/3933418",
+        "userUrl": "https://blog.51cto.com/u_15019240",
+        "pv": 1037,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a7f1e24edd8a5ea83d5d8a195aa4e676.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "7922852",
+        "blog_id": "3933380",
+        "cate_id": "15",
+        "abstract": "作者：threedayman来源：恒生LIGHT云社区(https://developer.hs.net/thread/1393\"恒生LIGHT云社区\")理论知识一个类型从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期将会经历加载（Loading）、验证（Verification）、准备（Preparation）、解析（Resolution）、初始化（Initialization）、",
+        "add_time": "1631855653",
+        "blog_type": "1",
+        "username": "Gloria小凡",
+        "add_time_str": "2天前",
+        "nickname": "恒生LIGHT云社区",
+        "url": "https://blog.51cto.com/u_7932852/3933380",
+        "userUrl": "https://blog.51cto.com/u_7932852",
+        "pv": 327,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "13778458",
+        "blog_id": "3932763",
+        "cate_id": "52",
+        "abstract": "k8s集群架构\npod创建流程\nansible部署k8s\n部署dashboard",
+        "add_time": "1631850503",
+        "blog_type": "1",
+        "username": "ruyinote",
+        "add_time_str": "2天前",
+        "nickname": "ruyinote",
+        "url": "https://blog.51cto.com/u_13788458/3932763",
+        "userUrl": "https://blog.51cto.com/u_13788458",
+        "pv": 1199,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/f6995fd678143864b813d8ad8a77af9a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13551855",
+        "blog_id": "3927909",
+        "cate_id": "52",
+        "abstract": "LXC于2008年首次引入，从其之前的Solaris Containers（或Solaris Zones）和FreeBSD jail中采用了其大部分功能。\nLXC无需创建完整的虚拟机，而是可以通过自己的进程和网络空间来实现虚拟环境。通过使用命名空间来强制执行进程隔离，并利用内核本身的控制组（cgroup）功能，该功能可以限制，说明和隔离一个或多个进程的CPU，内存，磁盘I / O和网络使用情况。将",
+        "add_time": "1631844263",
+        "blog_type": "1",
+        "username": "行云宝宝",
+        "add_time_str": "2天前",
+        "nickname": "行云创新",
+        "url": "https://blog.51cto.com/u_13561855/3927909",
+        "userUrl": "https://blog.51cto.com/u_13561855",
+        "pv": 387,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/1bd6c084e7eb998a9d40e41a74e2cee7.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13978495",
+        "blog_id": "3927470",
+        "cate_id": "101",
+        "abstract": "今天来实现一个3D打砖块游戏，非常的简单，是正经的入门教程，但是学到的都是Unity游戏开发中重点的内容，下面一起来了解下吧。新建3D游戏项目打开UnityHub软件，我们新建一个3D项目，新建好之后双击打开就好了。!https://s4.51cto.com/images/blog/202109/17/92b29934d878affaf387fd6b0b70651e.png?xossprocess",
+        "add_time": "1631843642",
+        "blog_type": "1",
+        "username": "qq5ba9d6df05219",
+        "add_time_str": "2天前",
+        "nickname": "qq5ba9d6df05219",
+        "url": "https://blog.51cto.com/u_13988495/3927470",
+        "userUrl": "https://blog.51cto.com/u_13988495",
+        "pv": 293,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/32481f61cfd24fed2190dea1078f8c1a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11246213",
+        "blog_id": "3926882",
+        "cate_id": "15",
+        "abstract": "简介\nCORS的全称是跨域资源共享，他是一个基于HTTP-header检测的机制，通过对HTTP-header进行控制，可以实现对跨域资源的权限管理功能。在之前的CORS详解文章中，我们已经对CORS有了基本的解释。\n本文将会从netty的实现角度，讲解如何在netty中实现CORS。\n服务端的CORS配置\n熟悉CORS的朋友应该知道，CORS所有的操作都是在HTTP协议之上通过控制HTTP头来实",
+        "add_time": "1631842902",
+        "blog_type": "1",
+        "username": "ddean2009",
+        "add_time_str": "2天前",
+        "nickname": "程序那些事",
+        "url": "https://blog.51cto.com/u_11256213/3926882",
+        "userUrl": "https://blog.51cto.com/u_11256213",
+        "pv": 977,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/9b90f566a7b645c85f9ad24b4846eb2f.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13515470",
+        "blog_id": "3925601",
+        "cate_id": "54",
+        "abstract": "大数据梦工厂（0008MapReduce中Shuffle和排序机制解析）(https://mp.weixin.qq.com/s/vn3TlLOJoyZ5nnBCYJK7cg)1ShuffleMapReduce确保每个Reducer的输入都是按key排序。系统执行排序，将Map的输出作为输入传给Reducer的过程称为Shuffle。!data_flow.png(https://s2.51cto.c",
+        "add_time": "1631808094",
+        "blog_type": "1",
+        "username": "小左先森",
+        "add_time_str": "2天前",
+        "nickname": "小左先森",
+        "url": "https://blog.51cto.com/u_13525470/3925601",
+        "userUrl": "https://blog.51cto.com/u_13525470",
+        "pv": 354,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/dace8437586fcd4bd74c08f71540ace9.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11421505",
+        "blog_id": "3925589",
+        "cate_id": "64",
+        "abstract": "一个平平无奇的合并函数面试的时候面试官大概率会出一个平平无奇的小问题来热热身，比如说写一个合并函数，读者估计会觉得：就这？不到30s就可以写好了一份利用递归实现的对象合并，代码如下：javascriptfunctionmerge(target,source){for(letkeyinsource){if(keyinsource&&keyintarget){merge(targetkey,sourc",
+        "add_time": "1631807566",
+        "blog_type": "1",
+        "username": "阿tree",
+        "add_time_str": "2天前",
+        "nickname": "yerikyu",
+        "url": "https://blog.51cto.com/nu1l/3925589",
+        "userUrl": "https://blog.51cto.com/nu1l",
+        "pv": 812,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/20210916/1631807391540200.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11623329",
+        "blog_id": "3925548",
+        "cate_id": "72",
+        "abstract": "人手永远是不够的，事情是永远做不完的\n很多人会以为任务都只能被安排，这可能跟一直以来项目进度都比较赶有关。每个任务都是由上头派发下来的，久而久之就会以为只能被动接受任务。但是其实是可以主动去找事情做的的。\n人手永远是不够的，事情永远是做不完的，如果有自己想做的事情，不要想着等忙完当前的任务，我就去做。这样可能永远也等不到，因为任务会一个接着一个来，可以早点去请求自己想要的任务，或者自己创造任务（不",
+        "add_time": "1631806425",
+        "blog_type": "1",
+        "username": "guku001",
+        "add_time_str": "2天前",
+        "nickname": "三年游戏人",
+        "url": "https://blog.51cto.com/u_11633329/3925548",
+        "userUrl": "https://blog.51cto.com/u_11633329",
+        "pv": 351,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/1467910318493eddc52ca2bc67f389d4.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15329425",
+        "blog_id": "3925474",
+        "cate_id": "8",
+        "abstract": ".NET MAUI 会在今年晚些时候发布，我们也很高兴和大家一起分享我们对 Xamarin Community Toolkit 的计划! 这包括 .NET MAUI Community Toolkit、Xamarin Community Toolkit 的向后兼容版本以及当前 Xamarin Community Toolkit 的淘汰计划。",
+        "add_time": "1631804801",
+        "blog_type": "1",
+        "username": "mb6120b21f7c881",
+        "add_time_str": "2天前",
+        "nickname": "MSReactor",
+        "url": "https://blog.51cto.com/u_15339425/3925474",
+        "userUrl": "https://blog.51cto.com/u_15339425",
+        "pv": 530,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/38e6deb4bda8d6f0c20d8c4a6e5e2b67.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11633026",
+        "blog_id": "3925383",
+        "cate_id": "107",
+        "abstract": "一起玩转树莓派（15）——干簧管传感器  干簧管传感器又被称为磁簧开关。顾名思义，其功能是可以感知周围的磁场从而改变开关的状态。本次实验，我们使用的干簧管传感器模块如下图所示：!(https://s4.51cto.com/images/blog/202109/16/0aa6d70a80ba61b174d22d972d601fe6.png?xossprocess=image/watermark,si",
+        "add_time": "1631802563",
+        "blog_type": "1",
+        "username": "珲少",
+        "add_time_str": "2天前",
+        "nickname": "珲少",
+        "url": "https://blog.51cto.com/u_11643026/3925383",
+        "userUrl": "https://blog.51cto.com/u_11643026",
+        "pv": 267,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "10996243",
+        "blog_id": "3925372",
+        "cate_id": "72",
+        "abstract": "MySQL的主从复制一般在大规模的项目上，都是使用MySQL的复制功能来创建MySQL的主从集群的。主要是可以通过为数据库服务器配置一个或多个备库的方式来进行数据同步。复制的功能不仅有利于构建高性能应用，同时也是高可用、可扩展性、灾难恢复、备份以及数据仓库等工作的基础。通过MySQL的主从复制来实现读写分离，相比单点数据库又读又写来说，提升了业务系统性能，优化了用户体验。另外通过主从复制实现了数据",
+        "add_time": "1631802296",
+        "blog_type": "1",
+        "username": "569590478",
+        "add_time_str": "2天前",
+        "nickname": "李浩宇Alex",
+        "url": "https://blog.51cto.com/alex4dream/3925372",
+        "userUrl": "https://blog.51cto.com/alex4dream",
+        "pv": 904,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "1443840",
+        "blog_id": "3925340",
+        "cate_id": "44",
+        "abstract": "云环境可以使用云盘或者RDS做为共享存储一、配置NFS1、节点ip31_NFSSERVER集群KM01192.168.1.31KM02192.168.1.32node01192.168.1.71node02192.168.1.722、创建目录、配置mkdirp/data/nfsshare/mysqlmkdirp/data/nacos/chmod777/dataroot@km01nfssharevi",
+        "add_time": "1631801139",
+        "blog_type": "1",
+        "username": "boboaiai",
+        "add_time_str": "2天前",
+        "nickname": "X糊涂仙儿",
+        "url": "https://blog.51cto.com/keep11/3925340",
+        "userUrl": "https://blog.51cto.com/keep11",
+        "pv": 760,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/20210916/1631800896934326.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15270062",
+        "blog_id": "3925171",
+        "cate_id": "15",
+        "abstract": "当线程处于就绪状态时，等待被分配到CPU时间片然后才真正开始执行，由于每个线程开始的时间不确定，因此也就不能唯一确定线程的执行顺序。如果想让线程有序执行，主要思路就是让子线程的执行在主线程中串行化，想到了以下几种让线程按顺序执行的方法",
+        "add_time": "1631794588",
+        "blog_type": "1",
+        "username": "mb60d190476cbb2",
+        "add_time_str": "3天前",
+        "nickname": "熬夜加班写代码",
+        "url": "https://blog.51cto.com/u_15280062/3925171",
+        "userUrl": "https://blog.51cto.com/u_15280062",
+        "pv": 887,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/f66ab6f246d115b44d436fb9de4dd3b8.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15350778",
+        "blog_id": "3925167",
+        "cate_id": "15",
+        "abstract": "Redis数据类型大全：“5种基础”数据类型+“3种特殊”数据类型",
+        "add_time": "1631794445",
+        "blog_type": "1",
+        "username": "mb613886ef6f7cf",
+        "add_time_str": "3天前",
+        "nickname": "Java_程_序_员",
+        "url": "https://blog.51cto.com/u_15360778/3925167",
+        "userUrl": "https://blog.51cto.com/u_15360778",
+        "pv": 778,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/f8a8a369948d154fc3662969be3d30f7.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14848414",
+        "blog_id": "3925070",
+        "cate_id": "94",
+        "abstract": "简介\nOpenMLDB是针对AI场景优化的开源数据库项目，实现了数据与计算一致性的离线MPP场景和在线OLTP场景计算引擎。MPP引擎可基于Spark实现，并通过拓展Spark源码实现数倍性能提升。本文主要解释OpenMLDB如何基于Spark来解决窗口数据的倾斜问题。\n背景\n数据倾斜是在大数据处理场景下常见的一种现象，它由某一分区数据量过大造成。数据倾斜会导致倾斜分区与其他分区的运算时间产生巨大",
+        "add_time": "1631790299",
+        "blog_type": "1",
+        "username": "范式AI云",
+        "add_time_str": "3天前",
+        "nickname": "第四范式开发者社区",
+        "url": "https://blog.51cto.com/u_14858414/3925070",
+        "userUrl": "https://blog.51cto.com/u_14858414",
+        "pv": 650,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/2592aa3ff4c8b2cc7a74adcae178c6c2.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14207107",
+        "blog_id": "3925060",
+        "cate_id": "6",
+        "abstract": "【背景】\n\n实际开发代码管理比较混乱，缺乏统一的集中管理。\n部署升级纯手工，流程重复繁琐，容易出错。\n代码质量没有管理，对于基本错误不能在第一时间发现。\n\n【架构】\n\n针对以上情况，采取git管理代码，搭建企业内部自己的gitlab来管理上传代码。\n使用jenkins从gitlab拉取代码并进行编译，持续构建发布。\n采取jenkins的插件sonar scanne分析源码，将结果上传到sonarq",
+        "add_time": "1631789859",
+        "blog_type": "1",
+        "username": "wx5c760b03be34e",
+        "add_time_str": "3天前",
+        "nickname": "倾听小糖宝",
+        "url": "https://blog.51cto.com/ktian/3925060",
+        "userUrl": "https://blog.51cto.com/ktian",
+        "pv": 657,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/1b8df8e4cf28379b35f171637424ac86.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "6904692",
+        "blog_id": "3924795",
+        "cate_id": "44",
+        "abstract": "通过对Zabbix应用组件/服务进程的学习，方便我们掌握其原理，更好的应用在生产环境中。",
+        "add_time": "1631786203",
+        "blog_type": "1",
+        "username": "qingfenghaha",
+        "add_time_str": "3天前",
+        "nickname": "qingfenghaha",
+        "url": "https://blog.51cto.com/lifulin/3924795",
+        "userUrl": "https://blog.51cto.com/lifulin",
+        "pv": 459,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/d28bd556c6028b38826e79f2617ccbeb.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "10942117",
+        "blog_id": "3924235",
+        "cate_id": "44",
+        "abstract": "具体步骤如下：最好不要在各环境的jumper机器上执行，因为jumper机器资源有限（CPU、MEM），进程会发生卡死或进度缓慢情况，可以将efs挂载到资源相对充足的其他节点上执行。python首先建立一个空白文件夹mkdirp/tmp/blank创建screen窗口screenSdeleteefs25查看创建的screenscreenls进入上面创建的screenscreenrdeleteefs",
+        "add_time": "1631784892",
+        "blog_type": "1",
+        "username": "520逍遥",
+        "add_time_str": "3天前",
+        "nickname": "品鉴初心",
+        "url": "https://blog.51cto.com/wutengfei/3924235",
+        "userUrl": "https://blog.51cto.com/wutengfei",
+        "pv": 1090,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/224647038e5d6fc6be98a4de28321c17.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3923792",
+        "cate_id": "6",
+        "abstract": "本人是JS攻城狮，java属于初学状态，写的不好的地方还请多多指教！\n为什么决定开发一个星座运势服务卡片？\n主要有以下几点：\n   1. 老年人和女性都比较关心运势，卡片类型刚好能够清晰展示运势，同时也不需要太多操作，与服务卡片理念契合（弱交互、强服务）。\n   2. 聚合api上刚好有相应接口，可以直接调用，比较方便。\n",
+        "add_time": "1631784204",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "3天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3923792",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 999,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/666dff35a34613af381e0521c620ae15.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1447637",
+        "blog_id": "3922968",
+        "cate_id": "6",
+        "abstract": "有一段时间没写博客了，要解释的话可以找一万种借口......曾经坚持写博客的习惯，如今随着年龄的增长也是“时过境迁”，只能说人在某个阶段认定铁打的事情，随着生活的磨砺有可能被自己推翻并自我嘲讽......\n好吧，别跑题了，今天的主题是聊存储不是聊人生，你既然点了我的文章链接进来了，那就证明您是带着问题或者学习的目的来的，我也不能让你们失望而归。下面就进入正题吧：\n \nIT技术的发展一年比一年快，传",
+        "add_time": "1631782802",
+        "blog_type": "1",
+        "username": "CaiJiantao",
+        "add_time_str": "3天前",
+        "nickname": "CaiJiantao",
+        "url": "https://blog.51cto.com/jettcai/3922968",
+        "userUrl": "https://blog.51cto.com/jettcai",
+        "pv": 703,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/16/83bb74328d6ceb999b6277e561cb4ea1.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15073739",
+        "blog_id": "3922764",
+        "cate_id": "15",
+        "abstract": "项目简介\n动力节点老师讲解的图书馆管理小项目，主要目的是让学完JavaSE的同学对之前掌握的知识做一些运用，该项目应用的知识点包括下面内容：\n面向对象的思想\n分层的思想\n接口\n异常\n集合\n日期处理\nStream流\nIO流\n反射\nJavafx（了解）\ncss（了解）\n通过学习本项目，可以巩固JavaSE的知识，对于后续的学习来说可以起到很好的衔接。\n环境搭建\n1. 基本信息\n开发工具：IDEA\nJD",
+        "add_time": "1631782471",
+        "blog_type": "1",
+        "username": "mb5fff9f708e6fc",
+        "add_time_str": "3天前",
+        "nickname": "link可",
+        "url": "https://blog.51cto.com/u_15083739/3922764",
+        "userUrl": "https://blog.51cto.com/u_15083739",
+        "pv": 485,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/16/18163061a1d0cf1fc323a0dbbaa6e92d.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15347269",
+        "blog_id": "3921456",
+        "cate_id": "15",
+        "abstract": "一、树莓派是什么？\nRaspberry Pi(中文名为树莓派,简写为 RPi，(或者 RasPi / RPI) 是为学习计算机编程教育而设计)，只有信用卡大小的微型电脑，其系统基于 Linux。随着 Windows 10 IoT 的发布，我们也将可以用上运行 Windows 的树莓派。\n自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。别看其外表“娇小”，内“心”却很强大，视频、音频等",
+        "add_time": "1631780932",
+        "blog_type": "1",
+        "username": "wx6135b7119b442",
+        "add_time_str": "3天前",
+        "nickname": "不想秃头",
+        "url": "https://blog.51cto.com/u_15357269/3921456",
+        "userUrl": "https://blog.51cto.com/u_15357269",
+        "pv": 3113,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/72217385437f9a17383db7be5faec261.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1187822",
+        "blog_id": "3940526",
+        "cate_id": "15",
+        "abstract": "Eclipse创建SpringBoot聚合项目;Eclipse创建SpringBoot父子工程;",
+        "add_time": "1631866010",
+        "blog_type": "1",
+        "username": "pannijingling",
+        "add_time_str": "2天前",
+        "nickname": "pannijingling",
+        "url": "https://blog.51cto.com/abcd/3940526",
+        "userUrl": "https://blog.51cto.com/abcd",
+        "pv": 918,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/20210917/1631846498249405.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14805220",
+        "blog_id": "3939896",
+        "cate_id": "99",
+        "abstract": "当下，产业互联网推动着各传统行业不断加速技术革新，向数字化转型。作为服务产业与互联网融合的典型，房产服务行业在近年迎来了新的增长契机。线上用户的快速增长让用户对房产服务行业的数字化转型提出了更多要求。华为分析服务6.2.0版本新增租房买房行业报告与埋点模板，以用户为核心，聚焦用户线上看房关键行为，帮助房产服务平台提升用户的房源兴趣与敏感度，有效缩短租房买房交易周期。一、数据概览了解整体增长数据概览",
+        "add_time": "1631865109",
+        "blog_type": "1",
+        "username": "HW工程师",
+        "add_time_str": "2天前",
+        "nickname": "华为HMSCore",
+        "url": "https://blog.51cto.com/u_14815220/3939896",
+        "userUrl": "https://blog.51cto.com/u_14815220",
+        "pv": 322,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "15296230",
+        "blog_id": "3939573",
+        "cate_id": "15",
+        "abstract": "有这样一个业务，上课的时候老师给表现好的学生送小花花，\n\n每节课都能统计出某个学生收到的花的总数。\n\n按照产品需求，前端点击送花按钮后30秒内是不能再次送花的(信任的基础)\n\n(上课老师送花行为都进行统计了，可见互联网是多么可怕)",
+        "add_time": "1631864708",
+        "blog_type": "1",
+        "username": "wx60f2c847af77d",
+        "add_time_str": "2天前",
+        "nickname": "跟着小苏不加班",
+        "url": "https://blog.51cto.com/u_15306230/3939573",
+        "userUrl": "https://blog.51cto.com/u_15306230",
+        "pv": 871,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/6ef7ccd4f8ddac31e790f1805b58b522.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "2344243",
+        "blog_id": "3937438",
+        "cate_id": "44",
+        "abstract": "笔者现有生产环境是centos6+bind9.8.2+namedmanager解决方案，该方案平常使用十分稳定和优良，但由于centos平台无法再升级bind版本了，导致漏扫一直能扫出各种dns漏洞，必须寻找替代方案。",
+        "add_time": "1631862150",
+        "blog_type": "1",
+        "username": "侠云",
+        "add_time_str": "2天前",
+        "nickname": "侠云",
+        "url": "https://blog.51cto.com/tseyuzen/3937438",
+        "userUrl": "https://blog.51cto.com/tseyuzen",
+        "pv": 854,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3937051",
+        "cate_id": "6",
+        "abstract": " 为了实现最初的梦想：通过 Python 降低鸿蒙设备开发的门槛。最近我又开始躁动起来，大刀阔斧的在之前工作的基础上做了 Python SDK 的设计和开发。终于，现在可以直接用 Python 来控制鸿蒙开发板外设了。我之前的帖子《&lt;&lt;鸿蒙开发板外设控制&gt;&gt;直播图文版（2020.10.28）》中涉及的案例都可以用 Python 完成！大家看完这篇帖子后，可以尝试使用 C 和 Python 来实现相同的功能，体会一下不同。",
+        "add_time": "1631861673",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "2天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3937051",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 903,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/70cb05c0d45dcf9134e4d5ca2f763c8d.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15171572",
+        "blog_id": "3936671",
+        "cate_id": "15",
+        "abstract": "前言\n一个 “好的” 数据驱动框架，需要从“时间”、“人力”、“收益”这三个方面出发，做好“取舍”。\n不能由于被测业务系统发生一些变更，就导致花费了几个小时的脚本无法执行。同时，我们需要看到“收益”，不能为了总想看到100%的成功，而减少必须做的工作，这导致可能都需要进行大量的维护。\n所以做好这三个方面的平衡并不容易，想要提高 ROI（投入产出比），我们必须从两方面入手：\n\n减少开发成本。\n\n\n增",
+        "add_time": "1631861260",
+        "blog_type": "1",
+        "username": "wx6086232c36932",
+        "add_time_str": "2天前",
+        "nickname": "高楼（Zee）",
+        "url": "https://blog.51cto.com/u_15181572/3936671",
+        "userUrl": "https://blog.51cto.com/u_15181572",
+        "pv": 352,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a66e2ea8de78f39a862f2f6e2a420a3c.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11659225",
+        "blog_id": "3933858",
+        "cate_id": "6",
+        "abstract": "       本文主要关于BGP的逻辑而不是具体实验，所以我就随便配了几幅图，大多还是文字哈。由于BGP太过复杂，本文只是第一部介绍作品，以后会有更新！        ",
+        "add_time": "1631857469",
+        "blog_type": "1",
+        "username": "JimKing001",
+        "add_time_str": "2天前",
+        "nickname": "XOSG",
+        "url": "https://blog.51cto.com/xosg/3933858",
+        "userUrl": "https://blog.51cto.com/xosg",
+        "pv": 128,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/11/2bca347b8243d4b522da39748be9bf49.gif?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15009240",
+        "blog_id": "3933418",
+        "cate_id": "15",
+        "abstract": "一、简介Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。服务端基于SpringBoot和SpringCloud开发，打包后可以直接运行，不需要额外安装Tomcat等应用容器。Java客户端不依赖任何框架，能够运行于所有Java运行时环境，同时对Spri",
+        "add_time": "1631856632",
+        "blog_type": "1",
+        "username": "牧小农",
+        "add_time_str": "2天前",
+        "nickname": "牧小农",
+        "url": "https://blog.51cto.com/u_15019240/3933418",
+        "userUrl": "https://blog.51cto.com/u_15019240",
+        "pv": 1037,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/a7f1e24edd8a5ea83d5d8a195aa4e676.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "7922852",
+        "blog_id": "3933380",
+        "cate_id": "15",
+        "abstract": "作者：threedayman来源：恒生LIGHT云社区(https://developer.hs.net/thread/1393\"恒生LIGHT云社区\")理论知识一个类型从被加载到虚拟机内存中开始，到卸载出内存为止，它的整个生命周期将会经历加载（Loading）、验证（Verification）、准备（Preparation）、解析（Resolution）、初始化（Initialization）、",
+        "add_time": "1631855653",
+        "blog_type": "1",
+        "username": "Gloria小凡",
+        "add_time_str": "2天前",
+        "nickname": "恒生LIGHT云社区",
+        "url": "https://blog.51cto.com/u_7932852/3933380",
+        "userUrl": "https://blog.51cto.com/u_7932852",
+        "pv": 327,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "13778458",
+        "blog_id": "3932763",
+        "cate_id": "52",
+        "abstract": "k8s集群架构\npod创建流程\nansible部署k8s\n部署dashboard",
+        "add_time": "1631850503",
+        "blog_type": "1",
+        "username": "ruyinote",
+        "add_time_str": "2天前",
+        "nickname": "ruyinote",
+        "url": "https://blog.51cto.com/u_13788458/3932763",
+        "userUrl": "https://blog.51cto.com/u_13788458",
+        "pv": 1199,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/17/f6995fd678143864b813d8ad8a77af9a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13551855",
+        "blog_id": "3927909",
+        "cate_id": "52",
+        "abstract": "LXC于2008年首次引入，从其之前的Solaris Containers（或Solaris Zones）和FreeBSD jail中采用了其大部分功能。\nLXC无需创建完整的虚拟机，而是可以通过自己的进程和网络空间来实现虚拟环境。通过使用命名空间来强制执行进程隔离，并利用内核本身的控制组（cgroup）功能，该功能可以限制，说明和隔离一个或多个进程的CPU，内存，磁盘I / O和网络使用情况。将",
+        "add_time": "1631844263",
+        "blog_type": "1",
+        "username": "行云宝宝",
+        "add_time_str": "2天前",
+        "nickname": "行云创新",
+        "url": "https://blog.51cto.com/u_13561855/3927909",
+        "userUrl": "https://blog.51cto.com/u_13561855",
+        "pv": 387,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/1bd6c084e7eb998a9d40e41a74e2cee7.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13978495",
+        "blog_id": "3927470",
+        "cate_id": "101",
+        "abstract": "今天来实现一个3D打砖块游戏，非常的简单，是正经的入门教程，但是学到的都是Unity游戏开发中重点的内容，下面一起来了解下吧。新建3D游戏项目打开UnityHub软件，我们新建一个3D项目，新建好之后双击打开就好了。!https://s4.51cto.com/images/blog/202109/17/92b29934d878affaf387fd6b0b70651e.png?xossprocess",
+        "add_time": "1631843642",
+        "blog_type": "1",
+        "username": "qq5ba9d6df05219",
+        "add_time_str": "2天前",
+        "nickname": "qq5ba9d6df05219",
+        "url": "https://blog.51cto.com/u_13988495/3927470",
+        "userUrl": "https://blog.51cto.com/u_13988495",
+        "pv": 293,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/blog/202109/17/32481f61cfd24fed2190dea1078f8c1a.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11246213",
+        "blog_id": "3926882",
+        "cate_id": "15",
+        "abstract": "简介\nCORS的全称是跨域资源共享，他是一个基于HTTP-header检测的机制，通过对HTTP-header进行控制，可以实现对跨域资源的权限管理功能。在之前的CORS详解文章中，我们已经对CORS有了基本的解释。\n本文将会从netty的实现角度，讲解如何在netty中实现CORS。\n服务端的CORS配置\n熟悉CORS的朋友应该知道，CORS所有的操作都是在HTTP协议之上通过控制HTTP头来实",
+        "add_time": "1631842902",
+        "blog_type": "1",
+        "username": "ddean2009",
+        "add_time_str": "2天前",
+        "nickname": "程序那些事",
+        "url": "https://blog.51cto.com/u_11256213/3926882",
+        "userUrl": "https://blog.51cto.com/u_11256213",
+        "pv": 977,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/9b90f566a7b645c85f9ad24b4846eb2f.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "13515470",
+        "blog_id": "3925601",
+        "cate_id": "54",
+        "abstract": "大数据梦工厂（0008MapReduce中Shuffle和排序机制解析）(https://mp.weixin.qq.com/s/vn3TlLOJoyZ5nnBCYJK7cg)1ShuffleMapReduce确保每个Reducer的输入都是按key排序。系统执行排序，将Map的输出作为输入传给Reducer的过程称为Shuffle。!data_flow.png(https://s2.51cto.c",
+        "add_time": "1631808094",
+        "blog_type": "1",
+        "username": "小左先森",
+        "add_time_str": "2天前",
+        "nickname": "小左先森",
+        "url": "https://blog.51cto.com/u_13525470/3925601",
+        "userUrl": "https://blog.51cto.com/u_13525470",
+        "pv": 354,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/17/dace8437586fcd4bd74c08f71540ace9.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11421505",
+        "blog_id": "3925589",
+        "cate_id": "64",
+        "abstract": "一个平平无奇的合并函数面试的时候面试官大概率会出一个平平无奇的小问题来热热身，比如说写一个合并函数，读者估计会觉得：就这？不到30s就可以写好了一份利用递归实现的对象合并，代码如下：javascriptfunctionmerge(target,source){for(letkeyinsource){if(keyinsource&&keyintarget){merge(targetkey,sourc",
+        "add_time": "1631807566",
+        "blog_type": "1",
+        "username": "阿tree",
+        "add_time_str": "2天前",
+        "nickname": "yerikyu",
+        "url": "https://blog.51cto.com/nu1l/3925589",
+        "userUrl": "https://blog.51cto.com/nu1l",
+        "pv": 812,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/20210916/1631807391540200.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11623329",
+        "blog_id": "3925548",
+        "cate_id": "72",
+        "abstract": "人手永远是不够的，事情是永远做不完的\n很多人会以为任务都只能被安排，这可能跟一直以来项目进度都比较赶有关。每个任务都是由上头派发下来的，久而久之就会以为只能被动接受任务。但是其实是可以主动去找事情做的的。\n人手永远是不够的，事情永远是做不完的，如果有自己想做的事情，不要想着等忙完当前的任务，我就去做。这样可能永远也等不到，因为任务会一个接着一个来，可以早点去请求自己想要的任务，或者自己创造任务（不",
+        "add_time": "1631806425",
+        "blog_type": "1",
+        "username": "guku001",
+        "add_time_str": "2天前",
+        "nickname": "三年游戏人",
+        "url": "https://blog.51cto.com/u_11633329/3925548",
+        "userUrl": "https://blog.51cto.com/u_11633329",
+        "pv": 351,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/1467910318493eddc52ca2bc67f389d4.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15329425",
+        "blog_id": "3925474",
+        "cate_id": "8",
+        "abstract": ".NET MAUI 会在今年晚些时候发布，我们也很高兴和大家一起分享我们对 Xamarin Community Toolkit 的计划! 这包括 .NET MAUI Community Toolkit、Xamarin Community Toolkit 的向后兼容版本以及当前 Xamarin Community Toolkit 的淘汰计划。",
+        "add_time": "1631804801",
+        "blog_type": "1",
+        "username": "mb6120b21f7c881",
+        "add_time_str": "2天前",
+        "nickname": "MSReactor",
+        "url": "https://blog.51cto.com/u_15339425/3925474",
+        "userUrl": "https://blog.51cto.com/u_15339425",
+        "pv": 530,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/38e6deb4bda8d6f0c20d8c4a6e5e2b67.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "11633026",
+        "blog_id": "3925383",
+        "cate_id": "107",
+        "abstract": "一起玩转树莓派（15）——干簧管传感器  干簧管传感器又被称为磁簧开关。顾名思义，其功能是可以感知周围的磁场从而改变开关的状态。本次实验，我们使用的干簧管传感器模块如下图所示：!(https://s4.51cto.com/images/blog/202109/16/0aa6d70a80ba61b174d22d972d601fe6.png?xossprocess=image/watermark,si",
+        "add_time": "1631802563",
+        "blog_type": "1",
+        "username": "珲少",
+        "add_time_str": "2天前",
+        "nickname": "珲少",
+        "url": "https://blog.51cto.com/u_11643026/3925383",
+        "userUrl": "https://blog.51cto.com/u_11643026",
+        "pv": 267,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "10996243",
+        "blog_id": "3925372",
+        "cate_id": "72",
+        "abstract": "MySQL的主从复制一般在大规模的项目上，都是使用MySQL的复制功能来创建MySQL的主从集群的。主要是可以通过为数据库服务器配置一个或多个备库的方式来进行数据同步。复制的功能不仅有利于构建高性能应用，同时也是高可用、可扩展性、灾难恢复、备份以及数据仓库等工作的基础。通过MySQL的主从复制来实现读写分离，相比单点数据库又读又写来说，提升了业务系统性能，优化了用户体验。另外通过主从复制实现了数据",
+        "add_time": "1631802296",
+        "blog_type": "1",
+        "username": "569590478",
+        "add_time_str": "2天前",
+        "nickname": "李浩宇Alex",
+        "url": "https://blog.51cto.com/alex4dream/3925372",
+        "userUrl": "https://blog.51cto.com/alex4dream",
+        "pv": 904,
+        "is_apraise": 0,
+        "img_urls": []
+    },
+    {
+        "user_id": "1443840",
+        "blog_id": "3925340",
+        "cate_id": "44",
+        "abstract": "云环境可以使用云盘或者RDS做为共享存储一、配置NFS1、节点ip31_NFSSERVER集群KM01192.168.1.31KM02192.168.1.32node01192.168.1.71node02192.168.1.722、创建目录、配置mkdirp/data/nfsshare/mysqlmkdirp/data/nacos/chmod777/dataroot@km01nfssharevi",
+        "add_time": "1631801139",
+        "blog_type": "1",
+        "username": "boboaiai",
+        "add_time_str": "2天前",
+        "nickname": "X糊涂仙儿",
+        "url": "https://blog.51cto.com/keep11/3925340",
+        "userUrl": "https://blog.51cto.com/keep11",
+        "pv": 760,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s4.51cto.com/images/20210916/1631800896934326.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15270062",
+        "blog_id": "3925171",
+        "cate_id": "15",
+        "abstract": "当线程处于就绪状态时，等待被分配到CPU时间片然后才真正开始执行，由于每个线程开始的时间不确定，因此也就不能唯一确定线程的执行顺序。如果想让线程有序执行，主要思路就是让子线程的执行在主线程中串行化，想到了以下几种让线程按顺序执行的方法",
+        "add_time": "1631794588",
+        "blog_type": "1",
+        "username": "mb60d190476cbb2",
+        "add_time_str": "1天前",
+        "nickname": "熬夜加班写代码",
+        "url": "https://blog.51cto.com/u_15280062/3925171",
+        "userUrl": "https://blog.51cto.com/u_15280062",
+        "pv": 887,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s8.51cto.com/images/blog/202109/16/f66ab6f246d115b44d436fb9de4dd3b8.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15350778",
+        "blog_id": "3925167",
+        "cate_id": "15",
+        "abstract": "Redis数据类型大全：“5种基础”数据类型+“3种特殊”数据类型",
+        "add_time": "1631794445",
+        "blog_type": "1",
+        "username": "mb613886ef6f7cf",
+        "add_time_str": "8小时前",
+        "nickname": "Java_程_序_员",
+        "url": "https://blog.51cto.com/u_15360778/3925167",
+        "userUrl": "https://blog.51cto.com/u_15360778",
+        "pv": 778,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/f8a8a369948d154fc3662969be3d30f7.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14848414",
+        "blog_id": "3925070",
+        "cate_id": "94",
+        "abstract": "简介\nOpenMLDB是针对AI场景优化的开源数据库项目，实现了数据与计算一致性的离线MPP场景和在线OLTP场景计算引擎。MPP引擎可基于Spark实现，并通过拓展Spark源码实现数倍性能提升。本文主要解释OpenMLDB如何基于Spark来解决窗口数据的倾斜问题。\n背景\n数据倾斜是在大数据处理场景下常见的一种现象，它由某一分区数据量过大造成。数据倾斜会导致倾斜分区与其他分区的运算时间产生巨大",
+        "add_time": "1631790299",
+        "blog_type": "1",
+        "username": "范式AI云",
+        "add_time_str": "25天前",
+        "nickname": "第四范式开发者社区",
+        "url": "https://blog.51cto.com/u_14858414/3925070",
+        "userUrl": "https://blog.51cto.com/u_14858414",
+        "pv": 650,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/2592aa3ff4c8b2cc7a74adcae178c6c2.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14207107",
+        "blog_id": "3925060",
+        "cate_id": "6",
+        "abstract": "【背景】\n\n实际开发代码管理比较混乱，缺乏统一的集中管理。\n部署升级纯手工，流程重复繁琐，容易出错。\n代码质量没有管理，对于基本错误不能在第一时间发现。\n\n【架构】\n\n针对以上情况，采取git管理代码，搭建企业内部自己的gitlab来管理上传代码。\n使用jenkins从gitlab拉取代码并进行编译，持续构建发布。\n采取jenkins的插件sonar scanne分析源码，将结果上传到sonarq",
+        "add_time": "1631789859",
+        "blog_type": "1",
+        "username": "wx5c760b03be34e",
+        "add_time_str": "3天前",
+        "nickname": "倾听小糖宝",
+        "url": "https://blog.51cto.com/ktian/3925060",
+        "userUrl": "https://blog.51cto.com/ktian",
+        "pv": 657,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s9.51cto.com/images/blog/202109/17/1b8df8e4cf28379b35f171637424ac86.jpeg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "6904692",
+        "blog_id": "3924795",
+        "cate_id": "44",
+        "abstract": "通过对Zabbix应用组件/服务进程的学习，方便我们掌握其原理，更好的应用在生产环境中。",
+        "add_time": "1631786203",
+        "blog_type": "1",
+        "username": "qingfenghaha",
+        "add_time_str": "1天前",
+        "nickname": "qingfenghaha",
+        "url": "https://blog.51cto.com/lifulin/3924795",
+        "userUrl": "https://blog.51cto.com/lifulin",
+        "pv": 459,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/d28bd556c6028b38826e79f2617ccbeb.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "10942117",
+        "blog_id": "3924235",
+        "cate_id": "44",
+        "abstract": "具体步骤如下：最好不要在各环境的jumper机器上执行，因为jumper机器资源有限（CPU、MEM），进程会发生卡死或进度缓慢情况，可以将efs挂载到资源相对充足的其他节点上执行。python首先建立一个空白文件夹mkdirp/tmp/blank创建screen窗口screenSdeleteefs25查看创建的screenscreenls进入上面创建的screenscreenrdeleteefs",
+        "add_time": "1631784892",
+        "blog_type": "1",
+        "username": "520逍遥",
+        "add_time_str": "3天前",
+        "nickname": "品鉴初心",
+        "url": "https://blog.51cto.com/wutengfei/3924235",
+        "userUrl": "https://blog.51cto.com/wutengfei",
+        "pv": 1090,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/224647038e5d6fc6be98a4de28321c17.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "14891125",
+        "blog_id": "3923792",
+        "cate_id": "6",
+        "abstract": "本人是JS攻城狮，java属于初学状态，写的不好的地方还请多多指教！\n为什么决定开发一个星座运势服务卡片？\n主要有以下几点：\n   1. 老年人和女性都比较关心运势，卡片类型刚好能够清晰展示运势，同时也不需要太多操作，与服务卡片理念契合（弱交互、强服务）。\n   2. 聚合api上刚好有相应接口，可以直接调用，比较方便。\n",
+        "add_time": "1631784204",
+        "blog_type": "1",
+        "username": "鸿蒙社区",
+        "add_time_str": "9天前",
+        "nickname": "HarmonyOS技术社区",
+        "url": "https://blog.51cto.com/harmonyos/3923792",
+        "userUrl": "https://blog.51cto.com/harmonyos",
+        "pv": 999,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s6.51cto.com/images/blog/202109/16/666dff35a34613af381e0521c620ae15.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "1447637",
+        "blog_id": "3922968",
+        "cate_id": "6",
+        "abstract": "有一段时间没写博客了，要解释的话可以找一万种借口......曾经坚持写博客的习惯，如今随着年龄的增长也是“时过境迁”，只能说人在某个阶段认定铁打的事情，随着生活的磨砺有可能被自己推翻并自我嘲讽......\n好吧，别跑题了，今天的主题是聊存储不是聊人生，你既然点了我的文章链接进来了，那就证明您是带着问题或者学习的目的来的，我也不能让你们失望而归。下面就进入正题吧：\n \nIT技术的发展一年比一年快，传",
+        "add_time": "1631782802",
+        "blog_type": "1",
+        "username": "CaiJiantao",
+        "add_time_str": "10天前",
+        "nickname": "CaiJiantao",
+        "url": "https://blog.51cto.com/jettcai/3922968",
+        "userUrl": "https://blog.51cto.com/jettcai",
+        "pv": 703,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s7.51cto.com/images/blog/202109/16/83bb74328d6ceb999b6277e561cb4ea1.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15073739",
+        "blog_id": "3922764",
+        "cate_id": "15",
+        "abstract": "项目简介\n动力节点老师讲解的图书馆管理小项目，主要目的是让学完JavaSE的同学对之前掌握的知识做一些运用，该项目应用的知识点包括下面内容：\n面向对象的思想\n分层的思想\n接口\n异常\n集合\n日期处理\nStream流\nIO流\n反射\nJavafx（了解）\ncss（了解）\n通过学习本项目，可以巩固JavaSE的知识，对于后续的学习来说可以起到很好的衔接。\n环境搭建\n1. 基本信息\n开发工具：IDEA\nJD",
+        "add_time": "1631782471",
+        "blog_type": "1",
+        "username": "mb5fff9f708e6fc",
+        "add_time_str": "5天前",
+        "nickname": "link可",
+        "url": "https://blog.51cto.com/u_15083739/3922764",
+        "userUrl": "https://blog.51cto.com/u_15083739",
+        "pv": 485,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s5.51cto.com/images/blog/202109/16/18163061a1d0cf1fc323a0dbbaa6e92d.jpg?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    },
+    {
+        "user_id": "15347269",
+        "blog_id": "3921456",
+        "cate_id": "15",
+        "abstract": "一、树莓派是什么？\nRaspberry Pi(中文名为树莓派,简写为 RPi，(或者 RasPi / RPI) 是为学习计算机编程教育而设计)，只有信用卡大小的微型电脑，其系统基于 Linux。随着 Windows 10 IoT 的发布，我们也将可以用上运行 Windows 的树莓派。\n自问世以来，受众多计算机发烧友和创客的追捧，曾经一“派”难求。别看其外表“娇小”，内“心”却很强大，视频、音频等",
+        "add_time": "1631780932",
+        "blog_type": "1",
+        "username": "wx6135b7119b442",
+        "add_time_str": "3天前",
+        "nickname": "不想秃头",
+        "url": "https://blog.51cto.com/u_15357269/3921456",
+        "userUrl": "https://blog.51cto.com/u_15357269",
+        "pv": 3113,
+        "is_apraise": 0,
+        "img_urls": [
+            "https://s3.51cto.com/images/blog/202109/16/72217385437f9a17383db7be5faec261.png?x-oss-process=image/resize,m_fixed,h_132,w_220"
+        ]
+    }
+]
